@@ -1,0 +1,1 @@
+A李老师不是你老师 北京时间 2023-06-14T05:42:42Z 1668735671358443525<br>后续：警察将打人城管铐走，途中城管被周围愤怒的民众群殴。 https://t.co/WU4V6tnXEj<br><img src='../../../../temp/video/2023/t-Month-6/l-Day-14/whyyoutouzhele/1668735671358443525_0.jpg' width='480' height='500'><br><br>
