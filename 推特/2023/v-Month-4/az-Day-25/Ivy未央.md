@@ -1,0 +1,2 @@
+北京时间2023-04-25T10:47:07Z<br>历史书里最轻描淡写，却又最触目惊心的一句话是：
+“我们走了一些弯路……” https://t.co/2f6gTsqFnG<br><img src='/temp/2023/1650692887720472578_0.jpg' width='250' height='250'><img src='/temp/2023/1650692887720472578_1.jpg' width='250' height='250'><img src='/temp/2023/1650692887720472578_2.jpg' width='250' height='250'><img src='/temp/2023/1650692887720472578_3.jpg' width='250' height='250'><br>

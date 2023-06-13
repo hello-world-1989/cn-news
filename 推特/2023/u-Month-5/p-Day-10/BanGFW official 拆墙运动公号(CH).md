@@ -1,0 +1,4 @@
+北京时间2023-05-10T21:40:23Z<br>RT @Ban_GFW: Mr. Qiao Xinxin's handwriting at beach of Mekong River between Laos's Vientiane &amp; Thailand's Nongkai, he wishes Mekong Goddess…<br><br><br>北京时间2023-05-10T21:07:50Z<br>支持 #拆墙运动 先锋 #阮晓寰 ，请大家都来呼吁国际社会施压中共放人。<br><br><br>北京时间2023-05-10T11:43:30Z<br>非常感谢美国的Spotlight新闻频道，再次重点视频报道并激起英文圈的热议，从而有效吓阻中共对拆墙人的人身安全威胁。
+ #拆墙运动 #BanGFW #GreatFirewall #만리방화벽금지 　#ベルリンの壁　#インタネット #中国共産党<br><br><br>北京时间2023-05-10T10:39:57Z<br>【王清鹏从岁静族走到民主“一姐” · 值得你我都来学习】
+
+王清鹏仅为普通人，并没有显赫家底和教育，从仅关心个人家庭升华到全社会疾苦，得道多助、愈战愈勇！在反共战略和战术上，每天都有惊人进步。敢于直面现实，多做实事！各界联合才能改善中国，嘴炮没什么用，挽起袖子一起来创造新中华共和国。<br><br><br>

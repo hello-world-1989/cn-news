@@ -1,0 +1,4 @@
+李老师不是你老师 北京时间 2022-11-25T03:28:44Z 1595861998969016324<br>临时插播一条富士康员工的投稿
+到达老家的火车站后被滞留在车站里过夜，因为不发放食物再次发生了冲突
+后面发饭了。 https://t.co/3a4aFbQCn9<br><img src='/temp/video/2022/o-Month-11/az-Day-25/whyyoutouzhele/1595861998969016324_0.jpg' width='480' height='500'><br><br>李老师不是你老师 北京时间 2022-11-25T00:04:39Z 1595810638139478022<br>另外今天的最后一条推文感谢几位朋友的赞助打赏，谢谢支持！
+身体吃不消了，大家明天再见。 https://t.co/i73iKLdU7U<br><img src='/temp/image/2022/o-Month-11/1595810638139478022_0.jpg' width='480' height='500'><img src='/temp/image/2022/o-Month-11/1595810638139478022_1.jpg' width='480' height='500'><img src='/temp/image/2022/o-Month-11/1595810638139478022_2.jpg' width='480' height='500'><img src='/temp/image/2022/o-Month-11/1595810638139478022_3.jpg' width='480' height='500'><br><br>

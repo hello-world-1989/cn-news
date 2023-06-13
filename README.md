@@ -1,6 +1,11 @@
-中国新闻,中国禁闻,美国之音,法广,言论自由,法国国际广播电台,热点新闻,突发新闻,推特,自由亚洲电台
+中国新闻,中国禁闻,美国之音,法广,言论自由,法国国际广播电台,热点新闻,推特,自由亚洲电台
 
-## 让国内的朋友可以看到境外新闻，了解真相
+# 搬运推文 [李老师不是你老师](https://github.com/hello-world-1989/cn-news/tree/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/az-Day-25) [美国之音](https://github.com/hello-world-1989/cn-news/tree/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/az-Day-25) [自由亚洲电台](https://github.com/hello-world-1989/cn-news/tree/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/az-Day-25) [英国广播公司](https://github.com/hello-world-1989/cn-news/tree/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/az-Day-25) [纽约时报](https://github.com/hello-world-1989/cn-news/tree/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/az-Day-25) [蔡霞](https://github.com/hello-world-1989/cn-news/tree/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/az-Day-25) 
+
+>已知漏洞: 1 有视频和多张图片时只能获取视频预览图片，无法获取剩余图片 2 未存储视频
+
+## 最新推文在最上边，方便查看， Month 月份, Day 几号， 例如u-Month-5 d-Day-22代表 5月22日推文
+## 更新频率 每2小时， 时间为北京时间
 
 ## 可以在这里创建[Issue问题](https://github.com/hello-world-1989/cn-news/issues)交流讨论
 

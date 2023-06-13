@@ -1,0 +1,1 @@
+北京时间2023-05-16T20:18:18Z<br>准确的说是中共精神分裂，把部分中国人洗脑的也分裂了 https://t.co/zj5Neu7vwe<br><img src='/temp/image/2023/u-Month-5/1658446777215852545_0.jpg' width='250' height='350'><br><br>北京时间2023-05-16T09:16:47Z<br>信中共的结局，只能说：活该 https://t.co/eaKrbq6pNy<br><img src='/temp/image/2023/u-Month-5/1658280300005269506_0.jpg' width='250' height='350'><br><br>

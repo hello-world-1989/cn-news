@@ -1,0 +1,2 @@
+北京时间2023-03-18T16:05:42Z<br>RT @LinShengliang: Dear ICC: your judge on Putin is good, but please also help tear down CCP's Internet Berlin Wall, as it has blocked Goog…<br><br><br>北京时间2023-03-18T11:54:51Z<br>RT @caojitw: 國際刑事法庭對普京發出通緝令，目前直接影響：1)普京今後不能訪問123個海牙刑事法庭簽約國家，否則將被逮捕引渡到海牙法庭；2)現在如有人刺殺普京，不僅合法，還可被123個國家庇護；3)現如有人推翻普京，那也是合法的，因爲普京是被通緝的戰爭罪犯；4)普京…<br><br><br>北京时间2023-03-18T11:23:45Z<br>RT @hayashibithome1: 中国富裕层移民日本越来越多。一切来自国内政策不稳定。
+https://t.co/ojyYbWR8QR<br><br><br>

@@ -1,0 +1,4 @@
+北京时间2023-05-08T17:54:40Z<br>【Qiao Xinxin: thanks to concern of U.S. politician Mr. Michael Alfaro about CCP's life–threatening】
+
+He often meet senior officials in D.C, was a hero rescuer &amp; a former marine,  we met at the flooding area of Laos in July, 2018, I was his interpreter for 3 days. #BanGFW #拆墙 https://t.co/sQP3lxP2rU<br><img src='/temp/image/2023/u-Month-5/1655511524570693633_0.jpg' width='450' height='500'><img src='/temp/image/2023/u-Month-5/1655511524570693633_1.jpg' width='450' height='500'><img src='/temp/image/2023/u-Month-5/1655511524570693633_2.jpg' width='450' height='500'><br><br>北京时间2023-05-08T01:22:30Z<br>#BanGFW team to recruit native-level content writers 
+#拆墙运动 办公室招募母语级原创内容作家：英/俄/阿/西/日/韩/泰/印尼等各语种，必须英语流利且亲民主。#GreatFirewall https://t.co/5CbJ9g5Grc<br><img src='/temp/image/2023/u-Month-5/1655261838702153728_0.jpg' width='450' height='500'><br><br>

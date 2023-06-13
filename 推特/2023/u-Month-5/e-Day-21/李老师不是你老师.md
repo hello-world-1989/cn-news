@@ -1,0 +1,17 @@
+北京时间2023-05-21T23:19:25Z<br>网友投稿
+川渝地区高校强制要求学生关注公众号“九万里”
+以了解最新时事政策动态，廓清时事热点认知。
+据悉，该公众号注册于4月28日，主要以时政评论为主。 https://t.co/N6Ma1Qplaf<br><img src='/temp/image/2023/u-Month-5/1660304294657110018_0.jpg' width='250' height='350'><img src='/temp/image/2023/u-Month-5/1660304294657110018_1.jpg' width='250' height='350'><img src='/temp/image/2023/u-Month-5/1660304294657110018_2.jpg' width='250' height='350'><img src='/temp/image/2023/u-Month-5/1660304294657110018_3.jpg' width='250' height='350'><br><br>北京时间2023-05-21T23:10:57Z<br>网友投稿
+重庆司机抗议高德平台恶意加价克扣司机。 https://t.co/k80iZF4ypv<br><img src='/temp/image/2023/u-Month-5/1660302163069874178_0.jpg' width='250' height='350'><br><br>北京时间2023-05-21T23:05:44Z<br>突发 重大直播事故
+5月21日，CSGO 巴黎Major总决赛现场
+刚刚，现场有人举起“雪山狮子旗”，导致中国大陆地区的转播比赛直播间全部中断数分钟。 https://t.co/M6W3QN1vQU<br><img src='/temp/image/2023/u-Month-5/1660300852131667971_0.jpg' width='250' height='350'><img src='/temp/image/2023/u-Month-5/1660300852131667971_1.jpg' width='250' height='350'><img src='/temp/image/2023/u-Month-5/1660300852131667971_2.jpg' width='250' height='350'><br><br>北京时间2023-05-21T22:44:51Z<br>美光公司的芯片被禁止销往中国内地
+5月21日，网络安全审查办公室发布通告，美光公司产品存在较严重网络安全问题隐患，对我国关键信息基础设施供应链造成重大安全风险，影响我国国家安全。
+我国内关键信息基础设施的运营者应停止采购美光公司产品。 https://t.co/7eRJJytcOK<br><img src='/temp/image/2023/u-Month-5/1660295594169061381_0.jpg' width='250' height='350'><br><br>北京时间2023-05-21T22:24:46Z<br>针对前几天浙江政务行政处罚公开事件后续投稿。舆论发酵后，6名男同性恋聚众淫乱事项仍旧保留，但16名男女聚众淫乱事项已被偷偷删除。目前原因未知。 https://t.co/kuD4BdRjqH<br><img src='/temp/image/2023/u-Month-5/1660290543115542535_0.jpg' width='250' height='350'><br><br>北京时间2023-05-21T22:22:17Z<br>网友投稿
+5月21日，上海的宠物爱好者计划在徐汇绿地滨江针对此前的“杰克辣条虐猫”事件进行悼念活动
+后活动被举报取消。 https://t.co/pCPtQfRyQo<br><img src='/temp/image/2023/u-Month-5/1660289918352932865_0.jpg' width='250' height='350'><img src='/temp/image/2023/u-Month-5/1660289918352932865_1.jpg' width='250' height='350'><br><br>北京时间2023-05-21T22:18:35Z<br>网友投稿
+原来中国的社保卡分为四种颜色 https://t.co/71lGXy7ZPz<br><img src='/temp/image/2023/u-Month-5/1660288984906444801_0.jpg' width='250' height='350'><img src='/temp/image/2023/u-Month-5/1660288984906444801_1.jpg' width='250' height='350'><img src='/temp/image/2023/u-Month-5/1660288984906444801_2.jpg' width='250' height='350'><br><br>北京时间2023-05-21T21:42:52Z<br>网友投稿
+5月15日，河南省三门峡市
+34名教师宣布绝食抗议。
+理由是四年来每天高强度工作，但是至今编制没有落实，没有合同没有工资没有社保没有公积金，多次向主管部门反映未果。 https://t.co/InFkDkTMfQ<br><img src='/temp/image/2023/u-Month-5/1660279998685519872_0.jpg' width='250' height='350'><br><br>北京时间2023-05-21T19:11:35Z<br>网友投稿
+因胡锡进为笑果公司和House发声，被大量网友批评举报。
+目前有今日头条网友贴出举报结果：胡锡进的账号已经被重点监控。 https://t.co/Pyz233qcVu<br><img src='/temp/image/2023/u-Month-5/1660241923842404353_0.jpg' width='250' height='350'><img src='/temp/image/2023/u-Month-5/1660241923842404353_1.jpg' width='250' height='350'><br><br>

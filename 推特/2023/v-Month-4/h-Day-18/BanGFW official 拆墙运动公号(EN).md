@@ -1,0 +1,4 @@
+北京时间2023-04-18T03:26:22Z<br>3  Major Suspected War Criminals  from CCP's Global Information War by Building Internet Berlin Wall
+
+Great Firewall has blocked Google, Twitter &amp; other 310,000 websites in China, Russia, Iran, Myanmar, Cambodia, force 1.7 billion ppl to hate the West, Taiwan . #BanGFW #拆墙 https://t.co/er2VBLxsT8<br><img src='/temp/image/2023/v-Month-4/1648045252706701313_0.jpg' width='450' height='500'><img src='/temp/image/2023/v-Month-4/1648045252706701313_1.jpg' width='450' height='500'><img src='/temp/image/2023/v-Month-4/1648045252706701313_2.jpg' width='450' height='500'><br><br>北京时间2023-04-18T02:31:36Z<br>The US allocates 9.5 billion dollars to democracy, we gonna get some money to tear down CCP's Internet Berlin Wall (GFW), has blocked Google, Twitter &amp; other 310,000 domains, forces 1.7 billion people to hate USA, Taiwan, it's a 23 year's information war.
+https://t.co/T3LxUqrumt<br><br><br>

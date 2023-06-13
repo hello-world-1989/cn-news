@@ -1,0 +1,2 @@
+北京时间2023-05-24T09:59:36Z<br>脑袋里要进多少水？才能写出《世界需要中国，中国需要习近平》 https://t.co/6cNKQ32OV0<br><img src='/temp/image/2023/u-Month-5/1661190179216846849_0.jpg' width='450' height='500'><br><br>北京时间2023-05-24T07:27:39Z<br>转）习近平执政这些年，他到底干了些什么？
+请大家补充…… https://t.co/nFnIThVy6Y<br><img src='/temp/image/2023/u-Month-5/1661151937394532353_0.jpg' width='450' height='500'><img src='/temp/image/2023/u-Month-5/1661151937394532353_1.jpg' width='450' height='500'><br><br>

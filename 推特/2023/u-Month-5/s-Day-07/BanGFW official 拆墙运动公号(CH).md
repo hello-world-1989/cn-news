@@ -1,0 +1,3 @@
+北京时间2023-05-07T11:41:03Z<br>在英国新国王加冕大典当日，我们手写祝福查理三世@RoyalFamily 陛下万寿无疆，也呼吁全球20亿英语人来帮助强拆中共互联网 #防火墙，它导致了10多亿人无法访问Google Facebook Youtube Twitter， 天天无故仇视民主和另外63亿人。    
+#拆墙 #BanGFW #BanGreatFirewall #ベルリンの壁  #만리방화벽금지<br><br><br>北京时间2023-05-07T00:24:14Z<br>RT @Ban_GFW: #拆墙运动 正挑战十万亿美元级以上利益格局，虽有不少阻力，但并不会改变互联网防火墙建墙决策者和供应商，因触犯80亿人利益而被判处重刑的最终结局。
+#BanGFW is becoming a hot topic in Chinese circles, h…<br><br><br>

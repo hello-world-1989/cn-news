@@ -1,0 +1,2 @@
+Ivy未央 北京时间 2023-06-08T11:47:25Z 1666653128853278723<br>比较喜欢陈佩斯，八九六四时支持学生，是少数敢提六四的演员
+中国艺人里，像他这种干净的人不多吧？ https://t.co/8gtKQCnHIz<br><img src='/temp/image/2023/t-Month-6/1666653128853278723_0.jpg' width='480' height='500'><img src='/temp/image/2023/t-Month-6/1666653128853278723_1.jpg' width='480' height='500'><br><br>

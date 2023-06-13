@@ -1,0 +1,1 @@
+北京时间2023-01-03T23:28:49Z<br>RT @XiaBamboohermit: 话说波兰共产主义垮台前，雅鲁泽尔斯基将军实行军管。有个笑话说：雅总统向西方求助，愿意用该国三个元帅换美国三个“将军”：General Motors (通用汽车)/GE（通用电气）/General Mills（通用磨坊）。现在中国人民也该…<br><br><br>北京时间2023-01-03T09:19:59Z<br>RT @ThisIsSoliman: The biggest story in the next two decades is the rise of #India. By 2027, India's GDP (currently $3.4 trillion) will dou…<br><br><br>

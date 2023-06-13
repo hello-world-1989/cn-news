@@ -1,0 +1,8 @@
+北京时间2023-05-13T11:50:56Z<br>Glad that #BanGFW Movement has gained a half million views ONLY in Twitter of  @VOAChinese in 1st two-week. Moreover, we attracted tens of millions of readers in other news outlets in Korean, English, Vietnamese, Japanese, Russian, German, Tibetan, Turkish, Italian,etc #拆墙运动<br><br><br>北京时间2023-05-13T10:46:14Z<br>喜讯：#拆墙运动 获选为美国之音（有约50语种）中文部2023年5月第1周最劲爆新闻
+Good news: BanGreatFirewall movement has become the No.1 news at Mandarin Service of Voice of America in the 1st week of May,2023
+#BanGFW  #GreatFireWall #만리방화벽금지 #防火墙 #ベルリンの壁 #インタネット https://t.co/fRGYF88Xc4<br><img src='/temp/image/2023/u-Month-5/1657215645245927429_0.jpg' width='450' height='500'><br><br>北京时间2023-05-13T10:03:14Z<br>Great thanks! #BanGFW is featured on the report of 2 Turkish news portal websites, while Turkey has 85 M people.
+非常感谢！#拆墙运动 被土耳其2家新闻门户网站大力翻译报道，该国8500万人，与土库曼、维吾尔等语言高度相似
+ #BanGreatFirewall #만리방화벽금지
+https://t.co/VsIdvDzPil https://t.co/In4O6XA1To<br><img src='/temp/image/2023/u-Month-5/1657204823740256256_0.jpg' width='450' height='500'><br><br>北京时间2023-05-13T00:57:53Z<br>RT @MaryBanihashemi: Despite the many executions in recent days (more than 20 baluch executions only in the last week) and mass arresting y…<br><br><br>北京时间2023-05-13T00:47:09Z<br>Admirable! Iranian people are pursuing their democracy at any cost. 
+太令人敬佩！伊朗青年正冒险用炸弹💣袭击高官办公室，以回应其近期疯狂扑杀民主人士。
+#BanGFW #伊朗革命 #拆墙 #恶人榜 #FiendList<br><br><br>

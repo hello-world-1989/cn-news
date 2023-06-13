@@ -1,0 +1,7 @@
+北京时间2023-04-21T18:12:40Z<br>Overseas Chinese new media,  such as Nouvelles d'Europe, ChineseinLA, WeSydney, are usually listed as a part of CCP's propaganda, if you know any illegal management of them, plz report to Mr. @LinShengliang , local governments, US, EU, Japan embassies.
+#BanGFW #拆墙运动 https://t.co/5vM1KDHMuf<br><img src='/temp/image/2023/v-Month-4/1649355462494793728_0.jpg' width='450' height='500'><img src='/temp/image/2023/v-Month-4/1649355462494793728_1.jpg' width='450' height='500'><img src='/temp/image/2023/v-Month-4/1649355462494793728_2.jpg' width='450' height='500'><br><br>北京时间2023-04-21T11:29:03Z<br>【As communist nations, why Vietnam Laos can visit Google Twitter freely?】
+
+1.CCP's GFW costs 6 billion $ yearly, unaffordable for small nations. 2.The tech can also be misused to steal personal info of senior officials. 3. Face huge int'l blame
+#ЗапретитьGFW #BanGFW #拆墙 https://t.co/I2WgAm8Pu6<br><img src='/temp/image/2023/v-Month-4/1649253887763968005_0.jpg' width='450' height='500'><img src='/temp/image/2023/v-Month-4/1649253887763968005_1.jpg' width='450' height='500'><br><br>北京时间2023-04-21T02:27:55Z<br>In terms of CCP's cross-border's  crackdown on pro-democracy activist Mr. Qiao Xinxin, We already inform embassies of 10 major democratic nations.
+关于中共警察跨国执法镇压民主人士乔鑫鑫，本运动已经向民主10大国的使馆作了举报。
+#BanGFW #拆墙运动 https://t.co/hqxNLEPKIZ<br><img src='/temp/image/2023/v-Month-4/1649117707944726528_0.jpg' width='450' height='500'><br><br>
