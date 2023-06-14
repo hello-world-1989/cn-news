@@ -1,0 +1,1 @@
+Petrichor 北京时间 2023-06-14T07:21:37Z 1668760566683533312<br>这个是历史反革命还是现行反革命？苦大仇深还是神经病？ https://t.co/tDtS6dCAYX<br><img src='../../../../temp/video/2023/t-Month-6/l-Day-14/Jam79922967/1668760566683533312_0.jpg' width='480' height='500'><br><br>
