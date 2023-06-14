@@ -4,7 +4,7 @@ _باگسترش اینترنت،زندگی بشردگرگون شددرهمه ی 
 سایرنظام های کمونیستی هم الهام گرفتن تروریزمی که ما…<br><br><br>北京时间2023-04-28T20:51:31Z<br>Never stop pursuing beauty, knowledge &amp; power 始终追求知识、美丽、武力
 
 We cannot choose our birthplace, especially when our hometown has being ruined by world's largest mafia for over 70 years. We'll just do our uttermost to democratize China.
-#BanGFW #GreatFireWall #拆墙运动 https://t.co/fGKHOl951O<br><img src='/temp/image/2023/v-Month-4/1651932153616412673_0.jpg' width='450' height='500'><img src='/temp/image/2023/v-Month-4/1651932153616412673_1.jpg' width='450' height='500'><img src='/temp/image/2023/v-Month-4/1651932153616412673_2.jpg' width='450' height='500'><img src='/temp/image/2023/v-Month-4/1651932153616412673_3.jpg' width='450' height='500'><br><br>北京时间2023-04-28T00:50:43Z<br>RT @LennyBusker3: Non possiamo produrre chip
+#BanGFW #GreatFireWall #拆墙运动 https://t.co/fGKHOl951O<br><img src='../../../../temp/image/2023/v-Month-4/1651932153616412673_0.jpg' width='450' height='500'><img src='../../../../temp/image/2023/v-Month-4/1651932153616412673_1.jpg' width='450' height='500'><img src='../../../../temp/image/2023/v-Month-4/1651932153616412673_2.jpg' width='450' height='500'><img src='../../../../temp/image/2023/v-Month-4/1651932153616412673_3.jpg' width='450' height='500'><br><br>北京时间2023-04-28T00:50:43Z<br>RT @LennyBusker3: Non possiamo produrre chip
 
 ma possiamo costruire la Grande Muraglia di Internet
 

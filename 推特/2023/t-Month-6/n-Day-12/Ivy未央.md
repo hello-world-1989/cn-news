@@ -1,3 +1,3 @@
 Ivy未央 北京时间 2023-06-12T07:26:28Z 1668037008176865280<br>诺贝尔经济学奖得主阿玛蒂亚‧森先生说：“人类的饥饿史的一个重要事实是，没有一次大饥荒发生在有民主的政府和出版自由的国家。
 
-图为中国的三年大饥荒（1959-1961年）时期 https://t.co/4Ma0tymWtu<br><img src='/temp/image/2023/t-Month-6/1668037008176865280_0.jpg' width='480' height='500'><img src='/temp/image/2023/t-Month-6/1668037008176865280_1.jpg' width='480' height='500'><br><br>
+图为中国的三年大饥荒（1959-1961年）时期 https://t.co/4Ma0tymWtu<br><img src='../../../../temp/image/2023/t-Month-6/1668037008176865280_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1668037008176865280_1.jpg' width='480' height='500'><br><br>

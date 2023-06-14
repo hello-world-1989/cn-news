@@ -1,2 +1,2 @@
 北京时间2023-05-19T07:36:42Z<br>转：求证下图真实性？
-中共高层领导的子孙为何不做中国人要做外国人？ https://t.co/yNw8zPrWNS<br><img src='/temp/image/2023/u-Month-5/1659342276491976704_0.jpg' width='270' height='370'><img src='/temp/image/2023/u-Month-5/1659342276491976704_1.jpg' width='270' height='370'><br><br>
+中共高层领导的子孙为何不做中国人要做外国人？ https://t.co/yNw8zPrWNS<br><img src='../../../../temp/image/2023/u-Month-5/1659342276491976704_0.jpg' width='270' height='370'><img src='../../../../temp/image/2023/u-Month-5/1659342276491976704_1.jpg' width='270' height='370'><br><br>

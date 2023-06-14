@@ -1,2 +1,2 @@
 北京时间2023-05-21T10:38:52Z<br>大唐盛世的笑话一则：
-在走线的人群中流传一句话：当你走不动的时候，想想你背后有一个强大的祖国 https://t.co/vyTxb9C5td<br><img src='/temp/image/2023/u-Month-5/1660112897605877761_0.jpg' width='450' height='500'><img src='/temp/image/2023/u-Month-5/1660112897605877761_1.jpg' width='450' height='500'><br><br>
+在走线的人群中流传一句话：当你走不动的时候，想想你背后有一个强大的祖国 https://t.co/vyTxb9C5td<br><img src='../../../../temp/image/2023/u-Month-5/1660112897605877761_0.jpg' width='450' height='500'><img src='../../../../temp/image/2023/u-Month-5/1660112897605877761_1.jpg' width='450' height='500'><br><br>

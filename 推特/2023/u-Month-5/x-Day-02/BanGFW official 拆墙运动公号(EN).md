@@ -1,6 +1,6 @@
 北京时间2023-05-02T21:23:15Z<br>Qiao Xinxin's part-time job in American culture center of JXAU University, China from 2008~2011
 
-We'll never forget the precious days, shared ideas, food, played games, went church, hiking, enjoyed festivals U.S. &amp; China. I'll invite them to open more US centers in China. #BanGFW https://t.co/Bti1KoXzn3<br><img src='/temp/image/2023/u-Month-5/1653389691205591045_0.jpg' width='450' height='500'><br><br>北京时间2023-05-02T13:54:41Z<br>Great thanks! #BanGFW is featured in the report of Russian news provider Epoch Times. 
+We'll never forget the precious days, shared ideas, food, played games, went church, hiking, enjoyed festivals U.S. &amp; China. I'll invite them to open more US centers in China. #BanGFW https://t.co/Bti1KoXzn3<br><img src='../../../../temp/image/2023/u-Month-5/1653389691205591045_0.jpg' width='450' height='500'><br><br>北京时间2023-05-02T13:54:41Z<br>Great thanks! #BanGFW is featured in the report of Russian news provider Epoch Times. 
 感谢《大纪元》俄语部对 #拆墙运动 的大力翻译报道 #BanGFW #BanGreatFirewall #互联网防火墙 #ベルリンの壁 #インタネット #만리방화벽
 
 https://t.co/trz3tVOYaA<br><br><br>北京时间2023-05-02T13:49:54Z<br>RT @BanGFW2: 感謝中華民國的國家通訊社“中央社”對 #拆牆運動 大力報導   

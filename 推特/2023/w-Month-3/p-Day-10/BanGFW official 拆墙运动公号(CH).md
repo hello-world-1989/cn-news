@@ -3,10 +3,10 @@
 （1/7）朋友你好： 1989年后，关心中国社会进步的海内外亿万人士，对中共始终处在散兵游勇式低层级抗争中，其最大障碍就是将Google等31万个网站封禁的互联网防火墙（GFW），切断了14亿中国人与66亿人的联系，加剧了国际冲突，危害了<br><br><br>北京时间2023-03-10T22:12:41Z<br>郑重鸣谢：本提案的思路源于纽约城市大学夏明教授@XiaBamboohermit《红太阳帝国》，当时俺在墙内无VPN，翻阅后感悟很深。他书中提到了愚民墙的巨大危害，却还没能酿成国际政治事件。<br><br><br>北京时间2023-03-10T21:53:25Z<br>【全球亿万人签名拆除中共互联网愚民墙的公开信】
 
 中共每年耗费400亿元的互联网防火墙，封禁了Google等全球31万个网站，该愚民墙犯下联合国的反人类罪，经百万人签名把墙事国际化，则将全面挑战中共政权。从2023年，让我们告别三五人游击战的战术，升级到发动14亿人大反攻的战略！
-#EndGFW #拆墙运动 https://t.co/HdO8PjfNmh<br><img src='/temp/image/2023/w-Month-3/1634190727675772929_0.jpg' width='450' height='500'><br><br>北京时间2023-03-10T12:58:48Z<br>【拆墙签名关系到你是继续三五人游击战还是发动14亿人大反攻】
+#EndGFW #拆墙运动 https://t.co/HdO8PjfNmh<br><img src='../../../../temp/image/2023/w-Month-3/1634190727675772929_0.jpg' width='450' height='500'><br><br>北京时间2023-03-10T12:58:48Z<br>【拆墙签名关系到你是继续三五人游击战还是发动14亿人大反攻】
 #EndGFW
 1987年美国总统在柏林墙下向苏联喊话拆墙，仅2年后这堵屹立30多年的墙就倒塌，此后2年苏联东欧共产党全部倒台。中国拆墙的唯一靠谱路径就是百万人联名、国际媒体报道、多国向中共施压！欢迎点击签名→
-https://t.co/ME9ORMQnkc https://t.co/o5c9dFRxTD<br><img src='/temp/image/2023/w-Month-3/1634056186994753536_0.jpg' width='450' height='500'><br><br>北京时间2023-03-10T01:27:19Z<br>为何技术上不可能推倒中共互联网防火墙？
+https://t.co/ME9ORMQnkc https://t.co/o5c9dFRxTD<br><img src='../../../../temp/image/2023/w-Month-3/1634056186994753536_0.jpg' width='450' height='500'><br><br>北京时间2023-03-10T01:27:19Z<br>为何技术上不可能推倒中共互联网防火墙？
 
 以下是Quora上网络专家们的看法，说直白点，CCP掌握枪杆子，这堵墙在技术是世界最精密的互联网审查系统，这是集国家力量对抗个体。我以前做过不少散兵游勇式的对抗，自建新闻网站等等，但对拆墙的作用其实极小。愚民墙是政治问题！
 
@@ -17,4 +17,4 @@ Welcome to sign the petition to help 1.4 billion Chinese tear down Internet Berl
 https://t.co/BPYyGNq8G7<br><br><br>北京时间2023-03-10T00:03:37Z<br>My newest words to describe China's Internet censorship system GFW, which may help the Westerners to recognize its  massive threats to the world  in 10 seconds.
 
 我最新版的讨墙檄文措词，希望能让西方读者10秒就能通过标题识别主要内容及愚民墙对各国的巨大危害。
-#EndGFW https://t.co/bh57TjxsMa<br><img src='/temp/image/2023/w-Month-3/1633861102181425152_0.jpg' width='450' height='500'><br><br>
+#EndGFW https://t.co/bh57TjxsMa<br><img src='../../../../temp/image/2023/w-Month-3/1633861102181425152_0.jpg' width='450' height='500'><br><br>

@@ -1,4 +1,4 @@
-北京时间2023-01-31T18:53:56Z<br>RT @iJ9m1z4pkOVqTUy: @Jam79922967 https://t.co/eVkoZ3itMq<br><img src='/temp/image/2023/y-Month-1/1620374817215238144_0.jpg' width='450' height='500'><br><br>北京时间2023-01-31T11:05:41Z<br>RT @minshengguancha: 湖南谭兵林案已到法院阶段
+北京时间2023-01-31T18:53:56Z<br>RT @iJ9m1z4pkOVqTUy: @Jam79922967 https://t.co/eVkoZ3itMq<br><img src='../../../../temp/image/2023/y-Month-1/1620374817215238144_0.jpg' width='450' height='500'><br><br>北京时间2023-01-31T11:05:41Z<br>RT @minshengguancha: 湖南谭兵林案已到法院阶段
 https://t.co/2ro3MvVw4r 2022年6月29日下午，谭兵林被抄家后带走。警方以涉嫌寻衅滋事罪刑事拘留。
 
 谭兵林是湖南省祁东县人，新公民。曾参与推动教育平权运动、倡导俗称“三免”的免费医疗…<br><br><br>北京时间2023-01-31T09:04:15Z<br>RT @lspk_cn: 21：00

@@ -6,4 +6,4 @@
 
 林生亮接龙：当你在国外受到委屈想放弃抗争的时候，想想你背后的祖国还有很多人生活在地狱。@LinShengliang
 
-你如何接龙呢？ #拆墙运动 #BanGFW https://t.co/4qdK1u0RB6<br><img src='/temp/image/2023/u-Month-5/1657699241589092352_0.jpg' width='450' height='500'><br><br>
+你如何接龙呢？ #拆墙运动 #BanGFW https://t.co/4qdK1u0RB6<br><img src='../../../../temp/image/2023/u-Month-5/1657699241589092352_0.jpg' width='450' height='500'><br><br>

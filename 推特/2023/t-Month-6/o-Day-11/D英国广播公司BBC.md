@@ -7,4 +7,4 @@ https://t.co/ESK8gEi8ll<br><br><br>D英国广播公司BBC 北京时间 2023-06-1
 
 这是梅西的第七次中国之行，上一次是在2017年。
 
-今年夏天，梅西选择离开巴黎圣日耳曼，转会至迈阿密国际。<br><img src='/temp/image/2023/t-Month-6/1667755038608089088_0.jpg' width='480' height='500'><img src='/temp/image/2023/t-Month-6/1667755038608089088_1.jpg' width='480' height='500'><img src='/temp/image/2023/t-Month-6/1667755038608089088_2.jpg' width='480' height='500'><img src='/temp/image/2023/t-Month-6/1667755038608089088_3.jpg' width='480' height='500'><br><br>
+今年夏天，梅西选择离开巴黎圣日耳曼，转会至迈阿密国际。<br><img src='../../../../temp/image/2023/t-Month-6/1667755038608089088_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1667755038608089088_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1667755038608089088_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1667755038608089088_3.jpg' width='480' height='500'><br><br>

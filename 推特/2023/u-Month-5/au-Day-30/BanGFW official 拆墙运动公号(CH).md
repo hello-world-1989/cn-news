@@ -2,14 +2,14 @@
 拆了墙，赶快让解放军起义。他们只要不做共产地狱的警卫，墙自然倒，而且拆墙人也安全无疑。另外，给他们做民族英雄的机会，去灭了共产媒体和教育。他们又不是打不过共产党媒体和洗脑老师，何不把这个立功的机会给…<br><br><br>北京时间2023-05-30T13:32:25Z<br>「推翻中共需要多少支持？1‰中国人即可」
 
 王朝末年常涌现亿万抗议者，每人各抒建国主张，社会进入无政府状态。只要绝大多数人不反对你，找到1‰铁粉即大事可成。孙中山、黄兴等革命党1911年建中华民国时，全国4-5亿人，革命派仅200万人，武昌起义时仅有新军三五千人。
-#拆墙运动 #恶人榜 #一人一推 https://t.co/rQZVWDQ0qN<br><img src='/temp/video/2023/u-Month-5/au-Day-30/BanGFW2/1663418062463442944_0.jpg' width='450' height='500'><br><br>北京时间2023-05-30T13:07:16Z<br>【灭共三年 · 敢于亮剑· 回归故土 】
+#拆墙运动 #恶人榜 #一人一推 https://t.co/rQZVWDQ0qN<br><img src='../../../../temp/video/2023/u-Month-5/au-Day-30/BanGFW2/1663418062463442944_0.jpg' width='450' height='500'><br><br>北京时间2023-05-30T13:07:16Z<br>【灭共三年 · 敢于亮剑· 回归故土 】
 
 亲共人士内部从不是铁板一块，既不信马列也不信鬼神，看在“钱”份上才走一块。疫情期就已对中共外交官爱搭不理了，如今它钱快烧光，海外亲共者连续被重刑伺候，早已四散逃命了。民主派正加速占据国际道德高地，应招安多数温和者，打击少数顽固派。
-#BanGFW #拆墙 https://t.co/iB8ZWPwE55<br><img src='/temp/image/2023/u-Month-5/1663411733762039808_0.jpg' width='450' height='500'><br><br>北京时间2023-05-30T12:27:11Z<br>RT @Ban_GFW: 感谢越南语DKN TV再次报道 #拆墙运动 ，其Youtube频道有77万人订阅，赞我方勇斗中共40多名网警。
+#BanGFW #拆墙 https://t.co/iB8ZWPwE55<br><img src='../../../../temp/image/2023/u-Month-5/1663411733762039808_0.jpg' width='450' height='500'><br><br>北京时间2023-05-30T12:27:11Z<br>RT @Ban_GFW: 感谢越南语DKN TV再次报道 #拆墙运动 ，其Youtube频道有77万人订阅，赞我方勇斗中共40多名网警。
 Great thanks! We're again featured in DKN TV, whose Youtube channel ha…<br><br><br>北京时间2023-05-30T11:56:24Z<br>「快来邀请海外的使领馆/国企/商会/同乡会/华校/华媒加入 #拆墙运动」
 
-苏共、中共、柬共都极力宣扬互相仇视思想，对党内外人士的杀人数量超过数百个南京大屠杀，中共首脑刘少奇惨死都无处说理。在亿万人大反抗浪潮前，中共外交官们5年前就留了后路。快来找找他们邮箱、WhatsApp哦！ #BanGFW https://t.co/xq87Vfyxxl<br><img src='/temp/video/2023/u-Month-5/au-Day-30/BanGFW2/1663393899778572288_0.jpg' width='450' height='500'><br><br>北京时间2023-05-30T08:07:22Z<br>RT @kanzhongguo: 維權人士支持拆牆運動，對戰40多名中共境外網偵軍(圖) https://t.co/SkGaY3ul38<br><br><br>北京时间2023-05-30T02:44:38Z<br>RT @Ban_GFW: 我们向北京驻东南亚11国的外交官发邀请，劝诫他们在中共最后3年，火速加入 #拆墙运动。你也可点击博客参考
+苏共、中共、柬共都极力宣扬互相仇视思想，对党内外人士的杀人数量超过数百个南京大屠杀，中共首脑刘少奇惨死都无处说理。在亿万人大反抗浪潮前，中共外交官们5年前就留了后路。快来找找他们邮箱、WhatsApp哦！ #BanGFW https://t.co/xq87Vfyxxl<br><img src='../../../../temp/video/2023/u-Month-5/au-Day-30/BanGFW2/1663393899778572288_0.jpg' width='450' height='500'><br><br>北京时间2023-05-30T08:07:22Z<br>RT @kanzhongguo: 維權人士支持拆牆運動，對戰40多名中共境外網偵軍(圖) https://t.co/SkGaY3ul38<br><br><br>北京时间2023-05-30T02:44:38Z<br>RT @Ban_GFW: 我们向北京驻东南亚11国的外交官发邀请，劝诫他们在中共最后3年，火速加入 #拆墙运动。你也可点击博客参考
 We sent invitations to Beijing's diplomats in 11 nations in Southeast Asi…<br><br><br>北京时间2023-05-30T02:12:13Z<br>【对中共公安部拆墙专案组催生3000万反共读者之感谢信】  
   
 待民主派3年内掌权后，拆墙人要向相关网警授予锦旗，因你们特意公布一些个人资料，在Telegram、Twitter上对我方施加压力，生生地将几个乡野民运小白逼成了国际反共名人，可谓用心良苦！   
-#拆墙运动 #BanGFW #GreatFirewall #拆牆運動 https://t.co/NUKeg10BQv<br><img src='/temp/image/2023/u-Month-5/1663246885887549440_0.jpg' width='450' height='500'><br><br>
+#拆墙运动 #BanGFW #GreatFirewall #拆牆運動 https://t.co/NUKeg10BQv<br><img src='../../../../temp/image/2023/u-Month-5/1663246885887549440_0.jpg' width='450' height='500'><br><br>

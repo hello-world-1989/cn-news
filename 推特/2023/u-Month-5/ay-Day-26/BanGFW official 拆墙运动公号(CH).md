@@ -11,6 +11,6 @@ https://t.co/OOAXHof2mI<br><br><br>北京时间2023-05-26T20:20:51Z<br>RT @Leo49
 
 海外论调有：1. 中国人都很坏、不要相信中国人，2. 动辄就说中国人素质低、不适合民主。
 
-你听到的有啥呢？ https://t.co/YCz7kG4giK<br><img src='/temp/image/2023/u-Month-5/1661900783023972352_0.jpg' width='450' height='500'><img src='/temp/image/2023/u-Month-5/1661900783023972352_1.jpg' width='450' height='500'><br><br>北京时间2023-05-26T01:24:33Z<br>【#拆墙运动 郑重声明：中共必须立即释放并赔偿 #阮晓寰 】
+你听到的有啥呢？ https://t.co/YCz7kG4giK<br><img src='../../../../temp/image/2023/u-Month-5/1661900783023972352_0.jpg' width='450' height='500'><img src='../../../../temp/image/2023/u-Month-5/1661900783023972352_1.jpg' width='450' height='500'><br><br>北京时间2023-05-26T01:24:33Z<br>【#拆墙运动 郑重声明：中共必须立即释放并赔偿 #阮晓寰 】
 
-#BanGFW #GreatFirewall #RuanXiaohuan #编程随想 #中华合众国 #美利坚合众国 #防火墙 https://t.co/jXJoD3OSll<br><img src='/temp/image/2023/u-Month-5/1661785337306423296_0.jpg' width='450' height='500'><br><br>
+#BanGFW #GreatFirewall #RuanXiaohuan #编程随想 #中华合众国 #美利坚合众国 #防火墙 https://t.co/jXJoD3OSll<br><img src='../../../../temp/image/2023/u-Month-5/1661785337306423296_0.jpg' width='450' height='500'><br><br>

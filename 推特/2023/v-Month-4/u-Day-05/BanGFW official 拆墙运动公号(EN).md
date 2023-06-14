@@ -12,4 +12,4 @@ it harms 8 billion people
 先在网上再到中共使馆，
 就像 #拆墙 歌里说那样，
 我们都写写帖啊举举牌！
-很感谢Dong Ling 参与 https://t.co/e2gnuS0lOf<br><img src='/temp/image/2023/v-Month-4/1643471434264756225_0.jpg' width='450' height='500'><br><br>
+很感谢Dong Ling 参与 https://t.co/e2gnuS0lOf<br><img src='../../../../temp/image/2023/v-Month-4/1643471434264756225_0.jpg' width='450' height='500'><br><br>

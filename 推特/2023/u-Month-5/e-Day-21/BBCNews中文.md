@@ -3,4 +3,4 @@ https://t.co/1BEVT6xOKL<br><br><br>北京时间2023-05-21T17:01:04Z<br>【一周
 
 美国已同意向乌克兰提供F-16战斗机，这预计将大幅提升乌克兰的空中能力。
 
-泽连斯基昨天与印度总理莫迪（Narendra… https://t.co/2x6nGOopPD https://t.co/rRTd9iBXc7<br><img src='/temp/image/2023/u-Month-5/1660124562317770754_0.jpg' width='250' height='350'><img src='/temp/image/2023/u-Month-5/1660124562317770754_1.jpg' width='250' height='350'><img src='/temp/image/2023/u-Month-5/1660124562317770754_2.jpg' width='250' height='350'><br><br>
+泽连斯基昨天与印度总理莫迪（Narendra… https://t.co/2x6nGOopPD https://t.co/rRTd9iBXc7<br><img src='../../../../temp/image/2023/u-Month-5/1660124562317770754_0.jpg' width='250' height='350'><img src='../../../../temp/image/2023/u-Month-5/1660124562317770754_1.jpg' width='250' height='350'><img src='../../../../temp/image/2023/u-Month-5/1660124562317770754_2.jpg' width='250' height='350'><br><br>
