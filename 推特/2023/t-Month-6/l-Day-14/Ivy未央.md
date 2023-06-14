@@ -1,0 +1,3 @@
+Ivy未央 北京时间 2023-06-14T09:04:44Z 1668786517374906368<br>“大跃进”大饥荒时期商城县酷刑录
+
+部分中国人是原本就恶毒吗？还是在中共统治下变得如此恶毒？ https://t.co/eiihcq3g6m<br><img src='../../../../temp/image/2023/t-Month-6/1668786517374906368_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1668786517374906368_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1668786517374906368_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1668786517374906368_3.jpg' width='480' height='500'><br><br>
