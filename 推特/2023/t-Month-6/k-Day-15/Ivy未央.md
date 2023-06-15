@@ -1,0 +1,2 @@
+Ivy未央 北京时间 2023-06-15T07:38:03Z 1669127089025433601<br>看看大跃进时遭的恶，只是读读文字都有种不寒而栗的感觉，多么可怕的时代啊
+希望习二世不要搞出个大跃进的灾难出来 https://t.co/bPV1Q8Jugw<br><img src='../../../../temp/image/2023/t-Month-6/1669127089025433601_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1669127089025433601_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1669127089025433601_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1669127089025433601_3.jpg' width='480' height='500'><br><br>
