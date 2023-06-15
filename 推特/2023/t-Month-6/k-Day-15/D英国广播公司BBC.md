@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2023-06-15T09:19:00Z 1669152495682158593<br>76岁的厄瓜多尔女子贝拉·蒙托亚（Bella Montoya）上周因疑似中风入院，后被医生宣布死亡。然而在之后的葬礼上，悼念者们惊讶地发现蒙托亚还活着。 https://t.co/mS35y1ztNX<br><img src='../../../../temp/video/2023/t-Month-6/k-Day-15/bbcchinese/1669152495682158593_0.jpg' width='480' height='500'><br><br>
