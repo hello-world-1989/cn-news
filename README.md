@@ -6,6 +6,8 @@
 
 # 李老师推文离线PDF版本, 每月更新, 2022年11月 - 2023年5月 [链接](https://github.com/hello-world-1989/whyyoutouzhele) 
 
+Resilio Sync(BTSync）同步密码 BGLCKIVXUMFYVASCASDKT7RHT7L7IYX76
+
 ## 最新推文在最上边，方便查看， Month 月份, Day 几号， 例如u-Month-5 d-Day-22代表 5月22日推文
 ## 更新频率 每2小时， 时间为北京时间
 
