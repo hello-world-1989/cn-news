@@ -4,9 +4,9 @@
 
 >已知漏洞: 1 有视频和多张图片时只能获取视频预览图片，无法获取剩余图片 2 未存储视频
 
-# 李老师推文离线PDF版本
+# 李老师推文离线PDF版本, 每月更新
 
-## [2023年1月下载](https://github.com/hello-world-1989/cn-news/raw/main/offline/202301.zip)
+## [2022年11月 - 2023年5月](https://github.com/hello-world-1989/whyyoutouzhele)
 
 ## 最新推文在最上边，方便查看， Month 月份, Day 几号， 例如u-Month-5 d-Day-22代表 5月22日推文
 ## 更新频率 每2小时， 时间为北京时间
