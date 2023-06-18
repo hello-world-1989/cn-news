@@ -1,2 +1,5 @@
-A李老师不是你老师 北京时间 2023-06-19T01:22:31Z 1670482134518169600<br>BBC原新闻
+A李老师不是你老师 北京时间 2023-06-19T01:21:53Z 1670481973821726721<br>网友投稿
+“阴间滤镜”竟是“国产滤镜”？
+6月18日，微博上包括胡锡进、金灿荣等一帮爱国大V再次炒作BBC使用“阴间滤镜”报道布林肯访华之事。
+然而事实上他们发布的图片是自己调色后的影片。 https://t.co/oNKzesk0rW<br><img src='../../../../temp/image/2023/t-Month-6/1670481973821726721_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1670481973821726721_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1670481973821726721_2.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-06-19T01:22:31Z 1670482134518169600<br>BBC原新闻
 https://t.co/Uvx9SAIeJc<br><br><br>A李老师不是你老师 北京时间 2023-06-19T01:24:09Z 1670482545467637760<br>更多对比 https://t.co/GGWmzgs314<br><img src='../../../../temp/image/2023/t-Month-6/1670482545467637760_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1670482545467637760_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1670482545467637760_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1670482545467637760_3.jpg' width='480' height='500'><br><br>
