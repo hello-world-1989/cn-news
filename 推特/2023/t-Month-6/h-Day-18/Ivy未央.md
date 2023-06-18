@@ -1,0 +1,1 @@
+Ivy未央 北京时间 2023-06-18T12:28:34Z 1670287365221371904<br>大饥荒死亡人数远超抗日战争，四川的灾难最深最久，四川为什么饿死人最多？ https://t.co/QWifiPrMuL<br><img src='../../../../temp/image/2023/t-Month-6/1670287365221371904_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1670287365221371904_1.jpg' width='480' height='500'><br><br>
