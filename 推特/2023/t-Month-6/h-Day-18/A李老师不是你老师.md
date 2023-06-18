@@ -1,3 +1,4 @@
-A李老师不是你老师 北京时间 2023-06-18T17:52:33Z 1670368897269219328<br>https://t.co/Rm0LhC6fkQ<br><img src='../../../../temp/image/2023/t-Month-6/1670368897269219328_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-06-18T18:18:38Z 1670375458603520000<br>网友投稿
+A李老师不是你老师 北京时间 2023-06-18T17:52:19Z 1670368838435627008<br>网友投稿
+6月18日，南宁地铁。地铁乘务员遭遇一醉酒男子当众猥亵。 https://t.co/zBRSHszgLh<br><img src='../../../../temp/video/2023/t-Month-6/h-Day-18/whyyoutouzhele/1670368838435627008_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-06-18T17:52:33Z 1670368897269219328<br>https://t.co/Rm0LhC6fkQ<br><img src='../../../../temp/image/2023/t-Month-6/1670368897269219328_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-06-18T18:18:38Z 1670375458603520000<br>网友投稿
 6月18日，一则某地交通管制的视频在网络走红。视频中，前后百余辆汽车被一名交警拦在路中央，并对后方路口造成了严重拥堵，而原因仅仅是为了让一支丰田考斯特车队通过。
 在评论区，网友们表达了强烈不满 https://t.co/pwDYeqFwan https://t.co/KkOApLZLGY<br><img src='../../../../temp/video/2023/t-Month-6/h-Day-18/whyyoutouzhele/1670375458603520000_0.jpg' width='480' height='500'><br><br>
