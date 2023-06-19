@@ -1,1 +1,3 @@
-D英国广播公司BBC 北京时间 2023-06-19T09:46:32Z 1670608972422995968<br>【现场画面】美国国务卿布林肯（Antony Blinken）在北京与中共中央外办主任王毅会晤，双方随后开始闭门会谈。 https://t.co/ETVA1nNbbH<br><img src='../../../../temp/video/2023/t-Month-6/g-Day-19/bbcchinese/1670608972422995968_0.jpg' width='480' height='500'><br><br>
+D英国广播公司BBC 北京时间 2023-06-19T09:12:51Z 1670600495558443009<br>“我已经厌倦这些问题了。”
+
+BBC获得的数据显示，在巴勒斯坦，年轻世代对于为解决以巴冲突而提出的“两国方案”有越来越不支持的趋势。他们对于自身领导层的不满也与日俱增。 https://t.co/vUF301VVhU<br><img src='../../../../temp/video/2023/t-Month-6/g-Day-19/bbcchinese/1670600495558443009_0.jpg' width='480' height='500'><br><br>D英国广播公司BBC 北京时间 2023-06-19T09:46:32Z 1670608972422995968<br>【现场画面】美国国务卿布林肯（Antony Blinken）在北京与中共中央外办主任王毅会晤，双方随后开始闭门会谈。 https://t.co/ETVA1nNbbH<br><img src='../../../../temp/video/2023/t-Month-6/g-Day-19/bbcchinese/1670608972422995968_0.jpg' width='480' height='500'><br><br>
