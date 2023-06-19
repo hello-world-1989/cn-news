@@ -1,1 +1,1 @@
-Petrichor 北京时间 2023-06-20T00:18:50Z 1670828496422158347<br>父亲节是这样过的，凸显孩子们的价值观。 https://t.co/1yHodeEvxz<br><img src='../../../../temp/video/2023/t-Month-6/f-Day-20/Jam79922967/1670828496422158347_0.jpg' width='480' height='500'><br><br>
+Petrichor 北京时间 2023-06-20T00:14:51Z 1670827494734176256<br>楚河汉界，他属于两个伟大的国家。身体在一个国家，孩子和财产在另一个国家。<br><br><br>Petrichor 北京时间 2023-06-20T00:18:50Z 1670828496422158347<br>父亲节是这样过的，凸显孩子们的价值观。 https://t.co/1yHodeEvxz<br><img src='../../../../temp/video/2023/t-Month-6/f-Day-20/Jam79922967/1670828496422158347_0.jpg' width='480' height='500'><br><br>
