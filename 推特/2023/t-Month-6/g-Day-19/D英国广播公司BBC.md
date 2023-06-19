@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2023-06-19T09:46:32Z 1670608972422995968<br>【现场画面】美国国务卿布林肯（Antony Blinken）在北京与中共中央外办主任王毅会晤，双方随后开始闭门会谈。 https://t.co/ETVA1nNbbH<br><img src='../../../../temp/video/2023/t-Month-6/g-Day-19/bbcchinese/1670608972422995968_0.jpg' width='480' height='500'><br><br>
