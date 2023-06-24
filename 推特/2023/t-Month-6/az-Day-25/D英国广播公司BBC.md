@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2023-06-25T02:05:47Z 1672667348397080577<br>俄罗斯在过去24小时内发生了什么？这段影片为你总结。 https://t.co/HvGfsuappW<br><img src='../../../../temp/video/2023/t-Month-6/az-Day-25/bbcchinese/1672667348397080577_0.jpg' width='480' height='500'><br><br>
