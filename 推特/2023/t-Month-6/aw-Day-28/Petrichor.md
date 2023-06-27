@@ -1,0 +1,1 @@
+Petrichor 北京时间 2023-06-28T01:34:08Z 1673746548990042116<br>马克思主义学院毕业生都该要饭去，他们学的东西没用？ https://t.co/YA7vIn8Ok7<br><img src='../../../../temp/image/2023/t-Month-6/1673746548990042116_0.jpg' width='480' height='500'><br><br>
