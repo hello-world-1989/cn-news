@@ -1,4 +1,4 @@
-D每日反共 北京时间 2023-06-27T06:28:02Z 1673458123674357761<br>RT @gushenyiren8964: 除了會掩耳盜鈴自欺欺人還會幹什麼？
+D每日反共 北京时间 2023-06-27T06:26:20Z 1673457694139895808<br>向勇敢的长者致敬🫡🫡🫡 https://t.co/NB9qr8wY6G<br><img src='../../../../temp/image/2023/t-Month-6/1673457694139895808_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-06-27T06:28:02Z 1673458123674357761<br>RT @gushenyiren8964: 除了會掩耳盜鈴自欺欺人還會幹什麼？
 話說回來，小粉紅的錢真好賺😂 https://t.co/URCYF5QvOY<br><img src='../../../../temp/video/2023/t-Month-6/ax-Day-27/FHtxWIgJMI3yoLO/1673458123674357761_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-06-27T06:28:06Z 1673458140296388608<br>RT @gushenyiren8964: 很多人說他是大外宣，不是沒有理由的。講出這種話，非蠢即壞。 https://t.co/CCwuorxTnA<br><img src='../../../../temp/image/2023/t-Month-6/1673458140296388608_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-06-27T06:28:09Z 1673458150190505984<br>RT @gushenyiren8964: 最新消息，烏干達提出願意派軍隊進駐俄羅斯幫助普丁🤣🤣🤣
 
 這是要來收屍嗎還是來要飯的😅😅😅 https://t.co/HbOIU2Jbun<br><img src='../../../../temp/image/2023/t-Month-6/1673458150190505984_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-06-27T06:28:10Z 1673458158197706753<br>RT @gushenyiren8964: 最新！
