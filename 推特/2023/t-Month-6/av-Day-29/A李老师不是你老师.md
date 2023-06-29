@@ -1,4 +1,7 @@
-A李老师不是你老师 北京时间 2023-06-29T22:55:39Z 1674431441420288004<br>有网友补充
+A李老师不是你老师 北京时间 2023-06-29T22:39:28Z 1674427369342529537<br>网友投稿
+6.29日下午6点半，北京市房山区坟庄村强拆现场。
+视频中显示， 当地有关部门雇佣了一群年轻人围住受害者，不让其靠近。
+受害人只能眼睁睁看着自己住了三十年的家被强拆。 https://t.co/ivKWNidm2q<br><img src='../../../../temp/video/2023/t-Month-6/av-Day-29/whyyoutouzhele/1674427369342529537_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-06-29T22:55:39Z 1674431441420288004<br>有网友补充
 这种套路也可能是一种非常常见的敲诈套路 https://t.co/I67FJrHPxk<br><img src='../../../../temp/image/2023/t-Month-6/1674431441420288004_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/t-Month-6/1674431441420288004_1.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-06-29T18:23:01Z 1674362829430837250<br>RT @LauraHarth: Toc-toc. C’è qualcuno? Qualcuno nelle cancellerie delle istituzioni e nelle segreterie dei partiti che fa un minimo di veri…<br><br><br>A李老师不是你老师 北京时间 2023-06-29T18:35:12Z 1674365897497092096<br>网友投稿
 6月29日，重庆财经学院北门
 几名女子举着“财经学院，还我女儿”的牌子。 https://t.co/uY66aqJ8wg<br><img src='../../../../temp/video/2023/t-Month-6/av-Day-29/whyyoutouzhele/1674365897497092096_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-06-29T18:35:39Z 1674366008188981250<br>https://t.co/z4Y04mCfFH<br><img src='../../../../temp/image/2023/t-Month-6/1674366008188981250_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-06-29T18:39:39Z 1674367015597875203<br>网友投稿
