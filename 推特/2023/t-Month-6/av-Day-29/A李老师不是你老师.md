@@ -1,4 +1,4 @@
-A李老师不是你老师 北京时间 2023-06-29T18:35:12Z 1674365897497092096<br>网友投稿
+A李老师不是你老师 北京时间 2023-06-29T18:23:01Z 1674362829430837250<br>RT @LauraHarth: Toc-toc. C’è qualcuno? Qualcuno nelle cancellerie delle istituzioni e nelle segreterie dei partiti che fa un minimo di veri…<br><br><br>A李老师不是你老师 北京时间 2023-06-29T18:35:12Z 1674365897497092096<br>网友投稿
 6月29日，重庆财经学院北门
 几名女子举着“财经学院，还我女儿”的牌子。 https://t.co/uY66aqJ8wg<br><img src='../../../../temp/video/2023/t-Month-6/av-Day-29/whyyoutouzhele/1674365897497092096_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-06-29T18:35:39Z 1674366008188981250<br>https://t.co/z4Y04mCfFH<br><img src='../../../../temp/image/2023/t-Month-6/1674366008188981250_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-06-29T18:39:39Z 1674367015597875203<br>网友投稿
 6月29日凌晨，四川自贡燊海森林小区  
