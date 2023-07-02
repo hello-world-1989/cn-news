@@ -1,0 +1,2 @@
+A李老师不是你老师 北京时间 2023-07-03T01:57:52Z 1675564458964312065<br>网友投稿
+7月2日，江西南昌民德路，一空调外机突然掉下，砸中一名路人。 https://t.co/LgM70hzyPb<br><img src='../../../../temp/video/2023/s-Month-7/w-Day-03/whyyoutouzhele/1675564458964312065_0.jpg' width='480' height='500'><br><br>
