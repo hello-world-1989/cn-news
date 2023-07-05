@@ -1,3 +1,4 @@
-A李老师不是你老师 北京时间 2023-07-05T06:45:25Z 1676361599483772934<br>网友投稿
+A李老师不是你老师 北京时间 2023-07-05T14:11:20Z 1676473820557844485<br>网友投稿
+7月5日，人社部发布了最新的全国各地最低工资标准，上海以2690元居榜首。 https://t.co/MIQuXPLJVQ<br><img src='../../../../temp/image/2023/s-Month-7/1676473820557844485_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1676473820557844485_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1676473820557844485_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1676473820557844485_3.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-07-05T06:45:25Z 1676361599483772934<br>网友投稿
 7月4日，临沂市。
 根据临沂本地博主称，为防止中南林樾烂尾房业主前往济南省政府上访，临沂市在当天临时关闭了高速公路部分入口。 https://t.co/CFuvXmTwUe<br><img src='../../../../temp/image/2023/s-Month-7/1676361599483772934_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1676361599483772934_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1676361599483772934_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1676361599483772934_3.jpg' width='480' height='500'><br><br>
