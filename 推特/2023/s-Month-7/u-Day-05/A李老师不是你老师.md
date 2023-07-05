@@ -1,0 +1,3 @@
+A李老师不是你老师 北京时间 2023-07-05T06:45:25Z 1676361599483772934<br>网友投稿
+7月4日，临沂市。
+根据临沂本地博主称，为防止中南林樾烂尾房业主前往济南省政府上访，临沂市在当天临时关闭了高速公路部分入口。 https://t.co/CFuvXmTwUe<br><img src='../../../../temp/image/2023/s-Month-7/1676361599483772934_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1676361599483772934_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1676361599483772934_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1676361599483772934_3.jpg' width='480' height='500'><br><br>
