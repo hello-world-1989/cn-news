@@ -1,4 +1,5 @@
-A李老师不是你老师 北京时间 2023-07-06T00:41:27Z 1676632393925492736<br>网友投稿
+A李老师不是你老师 北京时间 2023-07-06T03:35:27Z 1676676179753947162<br>RT @PekingMike: Oh wow! This is a fascinating story by @vwang3 - very sad, but well worth your time. 
+China Took Her Husband. She Was Left…<br><br><br>A李老师不是你老师 北京时间 2023-07-06T00:41:27Z 1676632393925492736<br>网友投稿
 7月6日凌晨，南京火车站检票口
 一女子突然情绪崩溃边哭边喊，同时不断拿出手机向周围人群展示。
 因女子主要以方言为主，投稿人只能依稀听见“可惜”，“案子一拖再拖”，“感叹社会”等零星词语。
