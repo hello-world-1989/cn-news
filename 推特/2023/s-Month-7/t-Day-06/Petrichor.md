@@ -1,0 +1,1 @@
+Petrichor 北京时间 2023-07-06T09:56:16Z 1676772018153193472<br>文革期间似乎比现在更丰富多彩一些。 https://t.co/WtadgpNDk5<br><img src='../../../../temp/video/2023/s-Month-7/t-Day-06/Jam79922967/1676772018153193472_0.jpg' width='480' height='500'><br><br>
