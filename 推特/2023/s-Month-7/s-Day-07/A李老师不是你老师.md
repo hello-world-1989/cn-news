@@ -1,1 +1,3 @@
-A李老师不是你老师 北京时间 2023-07-07T00:12:07Z 1676987400323756032<br>网友投稿 https://t.co/h9DXiWizJp<br><img src='../../../../temp/image/2023/s-Month-7/1676987400323756032_0.jpg' width='480' height='500'><br><br>
+A李老师不是你老师 北京时间 2023-07-07T19:15:44Z 1677275199056539648<br>网友投稿
+在一则“华春莹回应中国网友的失望”视频下方
+十万网友喊话华春莹：希望你们能善待自己的同胞。 https://t.co/JXOBhDgclM<br><img src='../../../../temp/video/2023/s-Month-7/s-Day-07/whyyoutouzhele/1677275199056539648_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-07-07T00:12:07Z 1676987400323756032<br>网友投稿 https://t.co/h9DXiWizJp<br><img src='../../../../temp/image/2023/s-Month-7/1676987400323756032_0.jpg' width='480' height='500'><br><br>
