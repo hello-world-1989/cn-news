@@ -1,0 +1,1 @@
+D每日反共 北京时间 2023-07-07T09:23:24Z 1677126134180478976<br>RT @gushenyiren8964: 「親自指揮親自部署，為佛教發展指明了方向」 https://t.co/TaL1lUXy3p<br><img src='../../../../temp/image/2023/s-Month-7/1677126134180478976_0.jpg' width='480' height='500'><br><br>
