@@ -1,3 +1,3 @@
-Petrichor 北京时间 2023-07-08T05:20:07Z 1677427299371606016<br>他70岁，步伐蹒跚，老态已显。不服老不行。
+Petrichor 北京时间 2023-07-08T09:47:51Z 1677494675391889412<br>过去媒体上报道美国加拿大城市持枪抢劫一般是非裔，现在也有中国大陆来的人持枪抢劫了。 https://t.co/L195rtzKJO<br><img src='../../../../temp/image/2023/s-Month-7/1677494675391889412_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1677494675391889412_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1677494675391889412_2.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2023-07-08T05:20:07Z 1677427299371606016<br>他70岁，步伐蹒跚，老态已显。不服老不行。
 
  https://t.co/7gt0AmSPw6<br><img src='../../../../temp/video/2023/s-Month-7/r-Day-08/Jam79922967/1677427299371606016_0.jpg' width='480' height='500'><br><br>
