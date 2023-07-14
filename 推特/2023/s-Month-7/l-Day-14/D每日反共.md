@@ -1,1 +1,7 @@
-D每日反共 北京时间 2023-07-14T10:14:45Z 1679675771668041728<br>没错，它就是一个被剥光了衣服也要坚持当皇帝的小丑🤡 https://t.co/iRkGxdEsph<br><img src='../../../../temp/image/2023/s-Month-7/1679675771668041728_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-07-14T10:15:15Z 1679675896641495041<br>这就是共匪口中的“盛世”👇 https://t.co/x53xOSU0L9<br><img src='../../../../temp/video/2023/s-Month-7/l-Day-14/FHtxWIgJMI3yoLO/1679675896641495041_0.jpg' width='480' height='500'><br><br>
+D每日反共 北京时间 2023-07-14T10:13:35Z 1679675478796541952<br>RT @gushenyiren8964: 共產馬列蘇維埃的真面目：
+
+奪權前牠們說：
+我們為人民服務，底層人要當家作主。
+
+奪權後牠們說：
+👇🏻 https://t.co/qq2xu0lTFk<br><img src='../../../../temp/image/2023/s-Month-7/1679675478796541952_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-07-14T10:14:45Z 1679675771668041728<br>没错，它就是一个被剥光了衣服也要坚持当皇帝的小丑🤡 https://t.co/iRkGxdEsph<br><img src='../../../../temp/image/2023/s-Month-7/1679675771668041728_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-07-14T10:15:15Z 1679675896641495041<br>这就是共匪口中的“盛世”👇 https://t.co/x53xOSU0L9<br><img src='../../../../temp/video/2023/s-Month-7/l-Day-14/FHtxWIgJMI3yoLO/1679675896641495041_0.jpg' width='480' height='500'><br><br>
