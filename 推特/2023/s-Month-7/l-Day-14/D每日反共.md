@@ -1,0 +1,1 @@
+D每日反共 北京时间 2023-07-14T10:15:15Z 1679675896641495041<br>这就是共匪口中的“盛世”👇 https://t.co/x53xOSU0L9<br><img src='../../../../temp/video/2023/s-Month-7/l-Day-14/FHtxWIgJMI3yoLO/1679675896641495041_0.jpg' width='480' height='500'><br><br>
