@@ -1,0 +1,1 @@
+D每日反共 北京时间 2023-07-18T09:25:00Z 1681112804722630656<br>非洲留学生表示：钱是国家给的，跟你们半毛钱关系都没有👇 https://t.co/NZUUJBnJmT<br><img src='../../../../temp/video/2023/s-Month-7/h-Day-18/FHtxWIgJMI3yoLO/1681112804722630656_0.jpg' width='480' height='500'><br><br>
