@@ -1,4 +1,4 @@
-A李老师不是你老师 北京时间 2022-11-27T18:37:25Z 1596815452654960640<br>新疆 喀什叶城县
+A李老师不是你老师 北京时间 2022-11-27T17:32:07Z 1596799019220881408<br>武汉，民众走到哪拆到哪 https://t.co/GuUMBLK6Lu<br><img src='../../../../temp/video/2022/o-Month-11/ax-Day-27/whyyoutouzhele/1596799019220881408_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2022-11-27T18:37:25Z 1596815452654960640<br>新疆 喀什叶城县
 越城小区下午五点半左右 https://t.co/1JaaghIHDK<br><img src='../../../../temp/video/2022/o-Month-11/ax-Day-27/whyyoutouzhele/1596815452654960640_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2022-11-27T03:10:02Z 1596582066593927168<br>上海乌鲁木齐路 最新视频
 警察开始围堵，民众大声质问警察 https://t.co/KbYucQEJCW<br><img src='../../../../temp/video/2022/o-Month-11/ax-Day-27/whyyoutouzhele/1596582066593927168_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2022-11-27T15:34:58Z 1596769534308126720<br>上海警局门口 民众要求释放昨晚被抓的人 https://t.co/Z1k5cDE7g7<br><img src='../../../../temp/video/2022/o-Month-11/ax-Day-27/whyyoutouzhele/1596769534308126720_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2022-11-27T01:07:47Z 1596551300925325312<br>北京大学 家园食堂门口
 不要封控要自由！不要核酸要吃饭！
