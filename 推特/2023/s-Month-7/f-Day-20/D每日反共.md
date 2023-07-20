@@ -1,4 +1,4 @@
-D每日反共 北京时间 2023-07-20T19:20:31Z 1681987447268458503<br>匪三代的家👇
+D每日反共 北京时间 2023-07-20T19:18:10Z 1681986852356751360<br>能打胜仗，作风优良👇🤬 https://t.co/CZpWbFjSTn<br><img src='../../../../temp/video/2023/s-Month-7/f-Day-20/FHtxWIgJMI3yoLO/1681986852356751360_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-07-20T19:20:31Z 1681987447268458503<br>匪三代的家👇
 
 七十多年，匪气依旧不改，品味还是一样差🤮 https://t.co/rHmARQSwoI<br><img src='../../../../temp/video/2023/s-Month-7/f-Day-20/FHtxWIgJMI3yoLO/1681987447268458503_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-07-20T20:12:14Z 1682000460658638848<br>RT @lilaoshizuikeai: 把一切都归咎为“境外势力”的人
 本质上是不把中国人当人的人。
