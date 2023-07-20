@@ -1,4 +1,5 @@
-A李老师不是你老师 北京时间 2022-11-27T22:39:42Z 1596876423515365376<br>上海 补充视频
+A李老师不是你老师 北京时间 2022-11-27T22:33:43Z 1596874917550530560<br>北京 亮马河
+民众一起高喊 我要做核酸 https://t.co/A53yGQzlXS<br><img src='../../../../temp/video/2022/o-Month-11/ax-Day-27/whyyoutouzhele/1596874917550530560_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2022-11-27T22:39:42Z 1596876423515365376<br>上海 补充视频
 8点左右 常熟路与五原路交叉口
 民众宣读四通桥口号，随后有民众宣读宪法 https://t.co/1q6mTfWu5V<br><img src='../../../../temp/video/2022/o-Month-11/ax-Day-27/whyyoutouzhele/1596876423515365376_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2022-11-27T21:27:30Z 1596858254792892416<br>补充 上海警察在大巴里殴打被捕的人 https://t.co/wh9HEeRM4k<br><img src='../../../../temp/video/2022/o-Month-11/ax-Day-27/whyyoutouzhele/1596858254792892416_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2022-11-27T22:36:40Z 1596875660529917959<br>今天白天 浙江乌镇 https://t.co/yttXuD2vLM<br><img src='../../../../temp/video/2022/o-Month-11/ax-Day-27/whyyoutouzhele/1596875660529917959_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2022-11-27T22:09:35Z 1596868843645071360<br>突发 上海 乌鲁木齐中路路牌被紧急拆除 https://t.co/byn0Vldv6v<br><img src='../../../../temp/image/2022/o-Month-11/1596868843645071360_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2022-11-27T15:51:15Z 1596773635112390657<br>上海，乌鲁木齐路与安福路路口
 一男子举着花演讲，随后被警察逮捕
