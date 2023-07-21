@@ -1,4 +1,5 @@
-D每日反共 北京时间 2023-07-21T13:18:31Z 1682258733056032768<br>中共国笑话👇 https://t.co/6CNSruKf0f<br><img src='../../../../temp/image/2023/s-Month-7/1682258733056032768_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-07-21T13:20:10Z 1682259146681520128<br>这才是真正的教授！为李玲点赞👍 https://t.co/TmHsBPKuCF<br><img src='../../../../temp/image/2023/s-Month-7/1682259146681520128_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-07-21T13:21:28Z 1682259474432806912<br>RT @wangqingpeng1: 🙏请方便加入 #一人一推 的海外推友联系我
+D每日反共 北京时间 2023-07-21T13:17:30Z 1682258476888899584<br>鹅爹飞弹精准命中🎯共匪驻敖德萨总领事馆👇
+与魔鬼合作无上限，终将自食其果～ https://t.co/gJTJOAhJ6v<br><img src='../../../../temp/image/2023/s-Month-7/1682258476888899584_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-07-21T13:18:31Z 1682258733056032768<br>中共国笑话👇 https://t.co/6CNSruKf0f<br><img src='../../../../temp/image/2023/s-Month-7/1682258733056032768_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-07-21T13:20:10Z 1682259146681520128<br>这才是真正的教授！为李玲点赞👍 https://t.co/TmHsBPKuCF<br><img src='../../../../temp/image/2023/s-Month-7/1682259146681520128_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-07-21T13:21:28Z 1682259474432806912<br>RT @wangqingpeng1: 🙏请方便加入 #一人一推 的海外推友联系我
 根据@liangxinfan_DB ；https://t.co/mKB3ZVv2Cg
 统计 , 广西目前在押良心犯有11人
 有主推推友的：
