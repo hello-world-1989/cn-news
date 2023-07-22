@@ -1,0 +1,1 @@
+D每日反共 北京时间 2023-07-22T09:51:27Z 1682569009341038592<br>“请善待自己的同胞”这句话，盲猜不是马斯克说的，就是蓬佩奥说的，但绝不可能是匪共官员说的～ https://t.co/P1zrmhSRwW<br><img src='../../../../temp/video/2023/s-Month-7/d-Day-22/FHtxWIgJMI3yoLO/1682569009341038592_0.jpg' width='480' height='500'><br><br>
