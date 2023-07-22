@@ -1,4 +1,4 @@
-A李老师不是你老师 北京时间 2023-07-22T18:43:04Z 1682702795810516995<br>7月22日，西安网友消息
+A李老师不是你老师 北京时间 2023-07-22T20:40:43Z 1682732404903911424<br>RT @TGTM_Official: At the University of Queensland in Australia, Chinese students bullied a Hongkong student and shouted, "I support genoci…<br><br><br>A李老师不是你老师 北京时间 2023-07-22T18:43:04Z 1682702795810516995<br>7月22日，西安网友消息
 目前，西安大雁塔紧急关闭 
 本来西安家长计划下午七点在玄奘像下集会 
 现在保安警察已经围起来了 https://t.co/oJ9e0YnL5y<br><img src='../../../../temp/image/2023/s-Month-7/1682702795810516995_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-07-22T17:10:48Z 1682679577129234432<br>网友投稿
