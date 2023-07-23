@@ -1,0 +1,3 @@
+D每日反共 北京时间 2023-07-23T09:36:46Z 1682927702981087233<br>RT @gushenyiren8964: 給大家分享清醒的中國人的發言。
+
+中國百姓覺醒的越來越多，不願意當共產黨的炮灰幫他們賣命。如果共產黨非逼著要人民上戰場，拿到槍之後就打真正的敵人。真正的敵人就是共產黨。 https://t.co/lLVe168lHh<br><img src='../../../../temp/image/2023/s-Month-7/1682927702981087233_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1682927702981087233_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1682927702981087233_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1682927702981087233_3.jpg' width='480' height='500'><br><br>
