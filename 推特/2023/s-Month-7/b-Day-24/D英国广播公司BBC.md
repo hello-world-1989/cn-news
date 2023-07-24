@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2023-07-24T09:04:10Z 1683281887052300289<br>Tekkon是一款风格类似“Pokémon GO”的游戏。它正在包括日本和菲律宾在内的亚洲国家掀起一场“街道保卫战”。玩家们可以透过它找到损坏的基础设施，并通过拍照上传而赚钱。 https://t.co/RBcqnlFZUj<br><img src='../../../../temp/video/2023/s-Month-7/b-Day-24/bbcchinese/1683281887052300289_0.jpg' width='480' height='500'><br><br>
