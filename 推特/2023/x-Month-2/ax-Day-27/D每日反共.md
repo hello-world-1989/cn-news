@@ -1,0 +1,2 @@
+D每日反共 北京时间 2023-02-27T23:23:09Z 1630227040619364359<br>这么恐怖的塌方，无数同胞被活埋，怎么不见中共官媒有报道俄亥俄火车爆炸千分之一的热情？
+ https://t.co/KQ6I7JmkvQ<br><img src='../../../../temp/video/2023/x-Month-2/ax-Day-27/FHtxWIgJMI3yoLO/1630227040619364359_0.jpg' width='480' height='500'><br><br>
