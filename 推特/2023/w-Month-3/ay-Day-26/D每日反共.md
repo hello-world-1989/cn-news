@@ -1,0 +1,2 @@
+D每日反共 北京时间 2023-03-26T22:35:36Z 1639999545458434049<br>不卑不亢，字字铿锵有力，句句掷地有声！
+我要为蔡总统点赞👍 https://t.co/diUxJkJzc5<br><img src='../../../../temp/video/2023/w-Month-3/ay-Day-26/FHtxWIgJMI3yoLO/1639999545458434049_0.jpg' width='480' height='500'><br><br>
