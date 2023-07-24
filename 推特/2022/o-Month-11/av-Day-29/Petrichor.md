@@ -1,0 +1,1 @@
+Petrichor 北京时间 2022-11-29T06:48:17Z 1597361765930921984<br>白纸上什么也没写,但独裁者在上面看到了自己的累累罪行。 https://t.co/DtDt3DT8Ne<br><img src='../../../../temp/image/2022/o-Month-11/1597361765930921984_0.jpg' width='480' height='500'><br><br>
