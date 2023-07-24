@@ -1,1 +1,3 @@
-D每日反共 北京时间 2023-05-17T23:57:22Z 1658864292421337088<br>中共国笑话👇 https://t.co/2BZuD4OwLI<br><img src='../../../../temp/image/2023/u-Month-5/1658864292421337088_0.jpg' width='480' height='500'><br><br>
+D每日反共 北京时间 2023-05-17T21:22:39Z 1658825358534144001<br>中共军事区驶出一辆法拉利SF90👇
+
+能不能打胜仗不清楚，但这作风绝对优良😊 https://t.co/8tzcVJdWBB<br><img src='../../../../temp/video/2023/u-Month-5/i-Day-17/FHtxWIgJMI3yoLO/1658825358534144001_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-05-17T23:57:22Z 1658864292421337088<br>中共国笑话👇 https://t.co/2BZuD4OwLI<br><img src='../../../../temp/image/2023/u-Month-5/1658864292421337088_0.jpg' width='480' height='500'><br><br>
