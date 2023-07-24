@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2022-10-19T18:00:09Z 1582672944324440064<br>BBC一百岁了。从记者被鸵鸟咬，到主持人被撞出画面，以下是100秒BBC新闻出错集锦。 https://t.co/68X4j3H7DP<br><img src='../../../../temp/video/2022/p-Month-10/g-Day-19/bbcchinese/1582672944324440064_0.jpg' width='480' height='500'><br><br>
