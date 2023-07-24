@@ -1,0 +1,1 @@
+Petrichor 北京时间 2022-10-22T10:45:10Z 1583650639963648000<br>他，创造了中文新的词汇。从此，中文进入习近平新时代。 https://t.co/ucZHHowsDO<br><img src='../../../../temp/image/2022/p-Month-10/1583650639963648000_0.jpg' width='480' height='500'><br><br>
