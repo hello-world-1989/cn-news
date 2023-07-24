@@ -1,0 +1,1 @@
+Petrichor 北京时间 2023-02-02T12:21:19Z 1621000787823566848<br>犹如单口相声，对习某连任讽刺得刀刀见血。 https://t.co/VoklSqwxqE<br><img src='../../../../temp/video/2023/x-Month-2/x-Day-02/Jam79922967/1621000787823566848_0.jpg' width='480' height='500'><br><br>
