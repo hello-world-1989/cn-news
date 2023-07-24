@@ -1,0 +1,1 @@
+Petrichor 北京时间 2022-11-22T11:17:57Z 1594892917021507584<br>我们中华民国的总统，讲话不需要小本本，而且非常平实、接地气。 https://t.co/i3vyhvol9Q<br><img src='../../../../temp/video/2022/o-Month-11/d-Day-22/Jam79922967/1594892917021507584_0.jpg' width='480' height='500'><br><br>
