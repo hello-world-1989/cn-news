@@ -1,0 +1,2 @@
+D每日反共 北京时间 2023-02-06T11:13:33Z 1622433285266866176<br>原来是在本国内部视察啊
+看这阵仗，还以为是去敌国访问呢😅 https://t.co/huDcJeaAkd<br><img src='../../../../temp/video/2023/x-Month-2/t-Day-06/FHtxWIgJMI3yoLO/1622433285266866176_0.jpg' width='480' height='500'><img src='../../../../temp/video/2023/x-Month-2/t-Day-06/FHtxWIgJMI3yoLO/1622433285266866176_1.jpg' width='480' height='500'><br><br>
