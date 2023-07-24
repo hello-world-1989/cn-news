@@ -1,1 +1,3 @@
-D英国广播公司BBC 北京时间 2023-07-24T09:04:10Z 1683281887052300289<br>Tekkon是一款风格类似“Pokémon GO”的游戏。它正在包括日本和菲律宾在内的亚洲国家掀起一场“街道保卫战”。玩家们可以透过它找到损坏的基础设施，并通过拍照上传而赚钱。 https://t.co/RBcqnlFZUj<br><img src='../../../../temp/video/2023/s-Month-7/b-Day-24/bbcchinese/1683281887052300289_0.jpg' width='480' height='500'><br><br>
+D英国广播公司BBC 北京时间 2023-07-24T11:42:14Z 1683321665478971393<br>莱西·桑托斯（Leicy Santos）出身哥伦比亚的草根家庭，在童年时她为了追求职业足球梦想，她依靠在学校里卖糖果赚钱。
+
+她的付出换来了回报，她成为西班牙足坛最被看好的拉美球员之一。今年27岁她代表哥伦比亚出征女足世界杯。 https://t.co/2IqDLEZygA<br><img src='../../../../temp/video/2023/s-Month-7/b-Day-24/bbcchinese/1683321665478971393_0.jpg' width='480' height='500'><br><br>D英国广播公司BBC 北京时间 2023-07-24T09:04:10Z 1683281887052300289<br>Tekkon是一款风格类似“Pokémon GO”的游戏。它正在包括日本和菲律宾在内的亚洲国家掀起一场“街道保卫战”。玩家们可以透过它找到损坏的基础设施，并通过拍照上传而赚钱。 https://t.co/RBcqnlFZUj<br><img src='../../../../temp/video/2023/s-Month-7/b-Day-24/bbcchinese/1683281887052300289_0.jpg' width='480' height='500'><br><br>
