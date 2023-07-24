@@ -1,0 +1,1 @@
+Petrichor 北京时间 2022-06-24T09:30:35Z 1540145329714171906<br>我的心情无法用语言表达，只想为这位同学鼓掌。为他担心，希望他不被大学开除学籍。 https://t.co/sNTOMjhAbA<br><img src='../../../../temp/video/2022/t-Month-6/b-Day-24/Jam79922967/1540145329714171906_0.jpg' width='480' height='500'><br><br>
