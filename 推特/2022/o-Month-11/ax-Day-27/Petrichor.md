@@ -1,0 +1,1 @@
+Petrichor 北京时间 2022-11-27T10:17:27Z 1596689631008915456<br>“动态清零，操你妈”。动态清零，是习近平的馊主意，矛头直指习近平。 https://t.co/W3Acf3hVyM<br><img src='../../../../temp/video/2022/o-Month-11/ax-Day-27/Jam79922967/1596689631008915456_0.jpg' width='480' height='500'><br><br>
