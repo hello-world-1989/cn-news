@@ -1,0 +1,1 @@
+Petrichor 北京时间 2022-10-26T06:26:56Z 1585035208717631488<br>哪位反贼胆这么大，恶毒攻击人民领袖，不怕被报复？ https://t.co/4M0JezvZYP<br><img src='../../../../temp/video/2022/p-Month-10/ay-Day-26/Jam79922967/1585035208717631488_0.jpg' width='480' height='500'><br><br>
