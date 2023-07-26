@@ -1,0 +1,1 @@
+D每日反共 北京时间 2023-07-26T06:31:10Z 1683968160968605696<br>愿总统早日康复🙏 https://t.co/JforFQ5tTE<br><img src='../../../../temp/image/2023/s-Month-7/1683968160968605696_0.jpg' width='480' height='500'><br><br>
