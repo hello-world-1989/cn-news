@@ -1,4 +1,8 @@
-A李老师不是你老师 北京时间 2023-07-29T19:35:34Z 1685252722226814977<br>网友投稿
+A李老师不是你老师 北京时间 2023-07-29T19:32:29Z 1685251948402917376<br>网友投稿
+一则“举报投诉没人管，中央来撑腰”的视频下方
+网友纷纷表达了吐槽。
+
+而事实上，根据河南村镇银行储户此前的采访，进京上访本就困难重重，即使成功递交材料，案件也会被打回当地审理。 https://t.co/l0AFKacGf8<br><img src='../../../../temp/image/2023/s-Month-7/1685251948402917376_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1685251948402917376_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1685251948402917376_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/s-Month-7/1685251948402917376_3.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-07-29T19:35:34Z 1685252722226814977<br>网友投稿
 7月28日，济南暴雨引起内涝 https://t.co/gkJ9TWB7u1<br><img src='../../../../temp/video/2023/s-Month-7/av-Day-29/whyyoutouzhele/1685252722226814977_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-07-29T16:58:07Z 1685213098238435328<br>RT @LauraHarth: 🔴German Federal Office for Protection of the Constitution warns of contacts with CCP International Liaison Dep’t, which “ac…<br><br><br>A李老师不是你老师 北京时间 2023-07-29T16:59:36Z 1685213472047439872<br>网友投稿
 7月28日，浙江杭州某酒店贴的告示。 https://t.co/ty6wHIJ2Qy<br><img src='../../../../temp/image/2023/s-Month-7/1685213472047439872_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-07-29T17:11:25Z 1685216447843483648<br>网友投稿
 烟台养马岛音乐节发布的禁止带入现场的旗帜： https://t.co/riY0NXZNOC<br><img src='../../../../temp/image/2023/s-Month-7/1685216447843483648_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-07-29T18:09:56Z 1685231173558001664<br>RT @RFA_Chinese: 周五早上，#卢思位 在登上开往泰国的火车时，被老挝警方抓捕。当时，他正在前往曼谷的途中，准备飞往美国，与妻子和女儿团聚。
