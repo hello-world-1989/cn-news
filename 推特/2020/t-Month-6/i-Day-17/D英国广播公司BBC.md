@@ -1,2 +1,0 @@
-D英国广播公司BBC 北京时间 2020-06-17T12:02:08Z 1273103611690704899<br>中印冲突造成死伤后，在印度博帕尔，有反中示威者高叫口号，并焚烧中国国家主席习近平的海报。
-相关报道：https://t.co/Vpm0ndZ5YQ https://t.co/2ZaQoT7BHc<br><img src='../../../../temp/image/2020/t-Month-6/1273103611690704899_0.jpg' width='480' height='500'><img src='../../../../temp/image/2020/t-Month-6/1273103611690704899_1.jpg' width='480' height='500'><br><br>
