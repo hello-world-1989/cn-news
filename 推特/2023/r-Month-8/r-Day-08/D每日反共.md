@@ -1,0 +1,1 @@
+D每日反共 北京时间 2023-08-08T12:01:48Z 1688762410130378752<br>RT @gushenyiren8964: 有誰可以幫忙把這個黑皮開個盒？查出他的姓名年齡住址，讓全世界好好認識一下他！未來審判共產黨打手的時候不要放過他。 https://t.co/9vNZ3SsWSZ<br><img src='../../../../temp/video/2023/r-Month-8/r-Day-08/FHtxWIgJMI3yoLO/1688762410130378752_0.jpg' width='480' height='500'><br><br>
