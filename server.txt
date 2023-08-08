@@ -1,21 +1,22 @@
-8/8/2023, 10:19:13 PM    L2TP/IPSec, 
+8/8/2023, 11:20:18 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-161.97.64.25 Germany, 163.182.174.159 United States
-173.198.248.39 United States, 157.14.205.23 Japan
-171.232.91.28 Viet Nam, 153.129.23.11 Japan
-125.242.132.229 Korea, 103.201.129.18 Japan
-146.70.205.2 Romania, 146.70.205.6 Romania
-103.201.129.226 Japan, 41.196.0.59 Egypt
-5.181.235.14 Romania, 45.125.0.246 Hong Kong
-122.208.194.111 Japan, 91.193.75.5 Germany
-178.249.213.39 United Kingdom, 103.201.129.170 Japan
-78.142.193.246 Germany, 82.208.22.235 Germany
-62.133.35.246 Germany, 200.98.128.112 Brazil
-103.108.236.71 Japan, 222.255.11.117 Viet Nam
+, 161.97.64.25 Germany
+163.182.174.159 United States, 173.198.248.39 United States
+171.232.91.28 Viet Nam, 157.14.205.23 Japan
+153.129.23.11 Japan, 125.242.132.229 Korea
+146.70.205.2 Romania, 103.201.129.18 Japan
+146.70.205.6 Romania, 45.125.0.246 Hong Kong
+91.193.75.5 Germany, 41.196.0.59 Egypt
+103.201.129.226 Japan, 5.181.235.14 Romania
+122.208.194.111 Japan, 103.201.129.170 Japan
+178.249.213.39 United Kingdom, 82.208.22.235 Germany
+78.142.193.246 Germany, 62.133.35.246 Germany
+200.98.128.112 Brazil, 103.108.236.71 Japan
 159.69.20.186 Germany, 109.111.243.206 Serbia
-202.137.113.55 Philippines, 176.63.222.76 Hungary
+222.255.11.117 Viet Nam, 202.137.113.55 Philippines
+176.63.222.76 Hungary
                                                                                           
 
  Mirror List                                                           
@@ -24,4 +25,4 @@ http://5.181.235.14:29916/cn/
 http://146.70.205.2:6283/cn/                                                           
 http://122.208.194.111:54239/cn/                                                           
 http://103.201.129.18:40254/cn/                                                           
-http://78.142.193.246:33304/cn/
+http://v-dot-pn-ams1.opengw.net:33304/cn/
