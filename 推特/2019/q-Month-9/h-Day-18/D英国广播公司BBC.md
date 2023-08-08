@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2019-09-18T13:00:08Z 1174186319641305089<br>一群香港人在美国国会内合唱《愿荣光归香港》🎶 https://t.co/dx0ZXb0HTQ<br><img src='../../../../temp/video/2019/q-Month-9/h-Day-18/bbcchinese/1174186319641305089_0.jpg' width='480' height='500'><br><br>
