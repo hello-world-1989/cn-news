@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2020-10-26T14:00:07Z 1320606112811569153<br>“光复香港、时代革命”，这个在香港国安法生效后被指违法的口号，在对岸的台湾重新响彻街头。 https://t.co/tS9HKjweBm<br><img src='../../../../temp/video/2020/p-Month-10/ay-Day-26/bbcchinese/1320606112811569153_0.jpg' width='480' height='500'><br><br>
