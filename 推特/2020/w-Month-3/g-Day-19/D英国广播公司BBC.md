@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2020-03-19T20:00:08Z 1240608995238428672<br>美国总统特朗普再三称新型冠状病毒为“中国病毒”，但他坚持，该术语与种族主义无关。 https://t.co/c7E8EnfcMJ<br><img src='../../../../temp/video/2020/w-Month-3/g-Day-19/bbcchinese/1240608995238428672_0.jpg' width='480' height='500'><br><br>
