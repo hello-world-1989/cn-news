@@ -1,20 +1,20 @@
-8/9/2023, 12:22:38 PM    L2TP/IPSec, 
+8/9/2023, 1:19:26 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-, 163.182.174.159 United States
-171.232.91.28 Viet Nam, 173.198.248.39 United States
-153.201.39.81 Japan, 157.14.205.23 Japan
-82.208.22.235 Germany, 103.201.129.18 Japan
-146.70.205.2 Romania, 146.70.205.6 Romania
-41.196.0.59 Egypt, 103.201.129.226 Japan
-45.125.0.246 Hong Kong, 91.193.75.5 Germany
-178.249.213.39 United Kingdom, 122.208.194.111 Japan
-5.181.235.14 Romania, 103.201.129.170 Japan
-78.142.193.246 Germany, 161.97.64.25 Germany
-222.255.11.117 Viet Nam, 103.108.236.71 Japan
-62.133.35.246 Germany, 109.111.243.206 Serbia
-200.98.128.112 Brazil, 202.137.113.55 Philippines
+163.182.174.159 United States, 171.232.91.28 Viet Nam
+173.198.248.39 United States, 157.14.205.23 Japan
+207.231.105.153 United States, 146.70.205.2 Romania
+103.201.129.18 Japan, 41.196.0.59 Egypt
+146.70.205.6 Romania, 82.208.22.235 Germany
+103.201.129.226 Japan, 45.125.0.246 Hong Kong
+91.193.75.5 Germany, 5.181.235.14 Romania
+122.208.194.111 Japan, 103.201.129.170 Japan
+78.142.193.246 Germany, 178.249.213.39 United Kingdom
+200.98.128.112 Brazil, 161.97.64.25 Germany
+222.255.11.117 Viet Nam, 62.133.35.246 Germany
+103.108.236.71 Japan, 109.111.243.206 Serbia
+159.69.20.186 Germany, 202.137.113.55 Philippines
                                                                                           
 
  Mirror List                                                           
@@ -22,5 +22,5 @@ http://178.249.213.39:24288/cn/
 http://146.70.205.2:6283/cn/                                                           
 http://5.181.235.14:29916/cn/                                                           
 http://122.208.194.111:54239/cn/                                                           
-http://103.201.129.18:40254/cn/                                                           
-http://222.255.11.117:54621/cn/
+http://222.255.11.117:54621/cn/                                                           
+http://78.142.193.246:33304/cn/
