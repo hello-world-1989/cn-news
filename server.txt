@@ -1,21 +1,20 @@
-8/11/2023, 11:19:07 PM    L2TP/IPSec, 
+8/12/2023, 1:17:43 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-161.97.64.25 Germany, 
-157.14.205.23 Japan, 
-163.182.174.159 United States, 
-173.198.248.39 United States, 153.201.39.81 Japan
-207.231.105.153 United States, 27.77.243.90 Viet Nam
-146.70.205.2 Romania, 103.201.129.18 Japan
-146.70.205.6 Romania, 82.208.22.235 Germany
-91.193.75.5 Germany, 103.201.129.226 Japan
-62.133.35.246 Germany, 5.181.235.14 Romania
-122.208.194.111 Japan, 103.201.129.170 Japan
-45.125.0.246 Hong Kong, 159.69.20.186 Germany
+, 163.182.174.159 United States
+153.201.39.81 Japan, 173.198.248.39 United States
+157.14.205.23 Japan, 207.231.105.153 United States
+27.77.243.90 Viet Nam, 146.70.205.2 Romania
+103.201.129.18 Japan, 146.70.205.6 Romania
+91.193.75.5 Germany, 161.97.64.25 Germany
+103.201.129.226 Japan, 5.181.235.14 Romania
+103.201.129.170 Japan, 122.208.194.111 Japan
+82.208.22.235 Germany, 62.133.35.246 Germany
+159.69.20.186 Germany, 45.125.0.246 Hong Kong
 178.249.213.39 United Kingdom, 78.142.193.246 Germany
-103.108.236.71 Japan, 41.196.0.59 Egypt
-202.137.113.55 Philippines, 200.98.128.112 Brazil
+200.98.128.112 Brazil, 103.108.236.71 Japan
+41.196.0.59 Egypt, 202.137.113.55 Philippines
 109.111.243.206 Serbia, 222.255.11.117 Viet Nam
                                                                                           
 
@@ -25,4 +24,4 @@ http://222.255.11.117:54621/cn/
 http://146.70.205.2:6283/cn/                                                           
 http://103.201.129.226:14684/cn/                                                           
 http://5.181.235.14:29916/cn/                                                           
-http://121.137.174.237:27891/cn/
+http://122.208.194.111:54239/cn/
