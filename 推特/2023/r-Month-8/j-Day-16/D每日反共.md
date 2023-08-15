@@ -1,0 +1,1 @@
+D每日反共 北京时间 2023-08-16T00:44:33Z 1691491073842147328<br>全是自相矛盾的空话，和毛匪的“团结紧张”、“严肃活泼”异曲同工👇 https://t.co/tJgQUlfUeA<br><img src='../../../../temp/video/2023/r-Month-8/j-Day-16/FHtxWIgJMI3yoLO/1691491073842147328_0.jpg' width='480' height='500'><br><br>
