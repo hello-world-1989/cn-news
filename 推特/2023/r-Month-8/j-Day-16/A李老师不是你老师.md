@@ -1,1 +1,5 @@
-A李老师不是你老师 北京时间 2023-08-16T15:20:17Z 1691711462174073111<br>有人在郑州桥洞留下新的诗歌 https://t.co/9PpHewPlGZ<br><img src='../../../../temp/image/2023/r-Month-8/1691711462174073111_0.jpg' width='480' height='500'><br><br>
+A李老师不是你老师 北京时间 2023-08-16T16:38:52Z 1691731237767946566<br>两万一天的ICU，老人一住就是四年
+网友热议“我的医保去哪儿了？”
+
+20000*365*4=29200000
+去年城乡居民基本医疗保险基金支出9273亿元，参保人数是98349万，人均支出942元。 https://t.co/i0ZFGvRgj3<br><img src='../../../../temp/video/2023/r-Month-8/j-Day-16/whyyoutouzhele/1691731237767946566_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/r-Month-8/1691731237767946566_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/r-Month-8/1691731237767946566_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/r-Month-8/1691731237767946566_2.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-08-16T15:20:17Z 1691711462174073111<br>有人在郑州桥洞留下新的诗歌 https://t.co/9PpHewPlGZ<br><img src='../../../../temp/image/2023/r-Month-8/1691711462174073111_0.jpg' width='480' height='500'><br><br>
