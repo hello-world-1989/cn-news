@@ -1,1 +1,3 @@
-D每日反共 北京时间 2023-08-18T07:44:12Z 1692321461934190656<br>地震开始了～ https://t.co/6hsc5Xs6JU<br><img src='../../../../temp/image/2023/r-Month-8/1692321461934190656_0.jpg' width='480' height='500'><br><br>
+D每日反共 北京时间 2023-08-18T07:20:05Z 1692315392713318909<br>中共“女子”运动员受访👇
+
+这也是一种制度自信😅 https://t.co/RA3LW2RBhK<br><img src='../../../../temp/video/2023/r-Month-8/h-Day-18/FHtxWIgJMI3yoLO/1692315392713318909_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-08-18T07:44:12Z 1692321461934190656<br>地震开始了～ https://t.co/6hsc5Xs6JU<br><img src='../../../../temp/image/2023/r-Month-8/1692321461934190656_0.jpg' width='480' height='500'><br><br>
