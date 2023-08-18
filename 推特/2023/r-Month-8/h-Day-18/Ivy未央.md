@@ -1,0 +1,2 @@
+Ivy未央 北京时间 2023-08-18T11:56:57Z 1692385068130414827<br>“人吃人事件的统计分析”
+那些否定“人吃人历史”的小粉红们，该如何？ https://t.co/wyfoSGskB1<br><img src='../../../../temp/image/2023/r-Month-8/1692385068130414827_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/r-Month-8/1692385068130414827_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/r-Month-8/1692385068130414827_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/r-Month-8/1692385068130414827_3.jpg' width='480' height='500'><br><br>
