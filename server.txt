@@ -1,19 +1,19 @@
-8/19/2023, 12:22:44 PM    L2TP/IPSec, 
+8/19/2023, 1:17:34 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-, 163.182.174.159 United States
-173.198.248.39 United States, 171.232.106.241 Viet Nam
-122.223.30.2 Japan, 58.153.55.173 Hong Kong
-82.208.22.235 Germany, 159.69.20.186 Germany
-62.133.35.246 Germany, 146.70.205.2 Romania
-146.70.205.6 Romania, 41.196.0.59 Egypt
-91.193.75.5 Germany, 103.201.129.226 Japan
-178.249.213.39 United Kingdom, 45.125.0.246 Hong Kong
-5.181.235.14 Romania, 78.142.193.246 Germany
-202.137.113.55 Philippines, 200.98.128.112 Brazil
-103.108.236.71 Japan, 222.255.11.117 Viet Nam
-109.111.243.206 Serbia, 159.69.109.10 Germany
+163.182.174.159 United States, 173.198.248.39 United States
+171.232.106.241 Viet Nam, 122.223.30.2 Japan
+58.153.55.173 Hong Kong, 146.70.205.2 Romania
+159.69.20.186 Germany, 62.133.35.246 Germany
+82.208.22.235 Germany, 146.70.205.6 Romania
+41.196.0.59 Egypt, 178.249.213.39 United Kingdom
+5.181.235.14 Romania, 103.201.129.226 Japan
+78.142.193.246 Germany, 91.193.75.5 Germany
+45.125.0.246 Hong Kong, 202.137.113.55 Philippines
+200.98.128.112 Brazil, 103.108.236.71 Japan
+222.255.11.117 Viet Nam, 109.111.243.206 Serbia
+159.69.109.10 Germany
                                                                                           
 
  Mirror List                                                           
@@ -21,5 +21,5 @@ http://178.249.213.39:24288/cn/
 http://222.255.11.117:54621/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
 http://41.196.0.59:44962/cn/                                                           
-http://78.142.193.246:33304/cn/                                                           
-http://173-198-248-39.static.as40244.net:18358/cn/
+http://v-dot-pn-ams1.opengw.net:33304/cn/                                                           
+http://173.198.248.39:18358/cn/
