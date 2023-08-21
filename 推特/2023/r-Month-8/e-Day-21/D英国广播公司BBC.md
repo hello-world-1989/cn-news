@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2023-08-21T09:44:07Z 1693438800595456497<br>Blackswan是一个K-pop女子流行音乐团体，但该组合的成员并不来自韩国，而是不同大洲。随着韩流文化在全球流行，没有韩国人的K-pop会成为一种新趋势吗？ https://t.co/Ibrd4dR50M<br><img src='../../../../temp/video/2023/r-Month-8/e-Day-21/bbcchinese/1693438800595456497_0.jpg' width='480' height='500'><br><br>
