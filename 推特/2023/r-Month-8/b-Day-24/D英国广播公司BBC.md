@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2023-08-24T00:14:23Z 1694382587501072652<br>金砖国家（BRICS）南非峰会出现小插曲。在中国领导人习近平走入会场时，他的一名助手似乎引起安保人员的怀疑，被阻止入场。 https://t.co/WWeHpnhzZZ<br><img src='../../../../temp/video/2023/r-Month-8/b-Day-24/bbcchinese/1694382587501072652_0.jpg' width='480' height='500'><br><br>
