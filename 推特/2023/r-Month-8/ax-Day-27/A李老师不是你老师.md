@@ -1,0 +1,3 @@
+A李老师不是你老师 北京时间 2023-08-27T00:16:53Z 1695470378250830180<br>小红书上一名重庆公安称，单位不让用苹果手机了。
+评论有人说三星也可能不让用了。
+另有评论说，据说因为“出了事，通告快出来了。” https://t.co/9tUg8AtdZr<br><img src='../../../../temp/image/2023/r-Month-8/1695470378250830180_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/r-Month-8/1695470378250830180_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/r-Month-8/1695470378250830180_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/r-Month-8/1695470378250830180_3.jpg' width='480' height='500'><br><br>
