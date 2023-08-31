@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2023-08-31T09:25:01Z 1697057872864235624<br>在日本向太平洋正式排放经处理的放射性污水后，中国的反日情绪高涨。两国政府则相互指责有滋扰行动发生。 https://t.co/XMsuTadwIH<br><img src='../../../../temp/video/2023/r-Month-8/at-Day-31/bbcchinese/1697057872864235624_0.jpg' width='480' height='500'><br><br>
