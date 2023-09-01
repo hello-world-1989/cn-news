@@ -1,4 +1,4 @@
-9/2/2023, 4:19:01 AM    L2TP/IPSec, 
+9/2/2023, 5:16:05 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
@@ -20,5 +20,5 @@ http://178.249.213.39:24288/cn/
 http://222.255.11.117:54621/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
 http://109.111.243.206:17579/cn/                                                           
-http://pl25968.ag2525.nttpc.ne.jp:49910/cn/                                                           
-http://78.142.193.246:33304/cn/
+http://78.142.193.246:33304/cn/                                                           
+http://173.198.248.39:18358/cn/
