@@ -1,0 +1,2 @@
+Petrichor 北京时间 2023-09-06T03:26:25Z 1699141953965744586<br>中共宣传能力，强，实在的强。
+不知道美国人怎么看？ https://t.co/ssaZsm9Agw<br><img src='../../../../temp/video/2023/q-Month-9/t-Day-06/Jam79922967/1699141953965744586_0.jpg' width='480' height='500'><br><br>
