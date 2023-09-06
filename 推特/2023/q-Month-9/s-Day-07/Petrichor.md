@@ -1,0 +1,1 @@
+Petrichor 北京时间 2023-09-07T01:16:41Z 1699471694455304518<br>华为新手机发布会，这是什么神翻译？语音机器翻译？彻底不懂了。老外听了费劲吧。 https://t.co/ubJzGTmETp<br><img src='../../../../temp/video/2023/q-Month-9/s-Day-07/Jam79922967/1699471694455304518_0.jpg' width='480' height='500'><br><br>
