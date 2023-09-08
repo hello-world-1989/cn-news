@@ -1,19 +1,19 @@
-9/8/2023, 10:24:21 AM    L2TP/IPSec, 
+9/8/2023, 11:19:07 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-153.129.103.138 Japan, 
-, 163.182.174.159 United States
-173.198.248.39 United States, 115.73.161.206 Viet Nam
-118.69.65.145 Viet Nam, 146.70.205.2 Romania
-103.201.129.18 Japan, 146.70.205.6 Romania
-178.249.213.39 United Kingdom, 5.181.235.14 Romania
-103.201.129.226 Japan, 122.208.194.111 Japan
-45.125.0.246 Hong Kong, 91.193.75.5 Germany
-78.142.193.246 Germany, 103.201.129.170 Japan
-200.98.128.112 Brazil, 62.133.35.246 Germany
-222.255.11.117 Viet Nam, 109.111.243.206 Serbia
-5.161.154.160 Germany, 77.98.59.117 United Kingdom
+, 153.129.103.138 Japan
+163.182.174.159 United States, 173.198.248.39 United States
+115.73.161.206 Viet Nam, 118.69.65.145 Viet Nam
+146.70.205.2 Romania, 103.201.129.18 Japan
+146.70.205.6 Romania, 45.125.0.246 Hong Kong
+103.201.129.226 Japan, 178.249.213.39 United Kingdom
+91.193.75.5 Germany, 5.181.235.14 Romania
+122.208.194.111 Japan, 78.142.193.246 Germany
+103.201.129.170 Japan, 200.98.128.112 Brazil
+62.133.35.246 Germany, 109.111.243.206 Serbia
+222.255.11.117 Viet Nam, 5.161.154.160 Germany
+77.98.59.117 United Kingdom
                                                                                           
 
  Mirror List                                                           
@@ -21,5 +21,5 @@ http://178.249.213.39:24288/cn/
 http://222.255.11.117:54621/cn/                                                           
 http://109.111.243.206:17579/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
-http://59.21.30.77:2689/cn/                                                           
-http://78.142.193.246:33304/cn/
+http://78.142.193.246:33304/cn/                                                           
+http://173.198.248.39:18358/cn/
