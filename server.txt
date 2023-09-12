@@ -1,17 +1,17 @@
-9/12/2023, 9:16:26 AM    L2TP/IPSec, 
+9/12/2023, 10:24:04 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
 153.129.103.138 Japan, 173.198.248.39 United States
 115.72.26.172 Viet Nam, 176.63.222.76 Hungary
 103.201.129.18 Japan, 146.70.205.2 Romania
-146.70.205.6 Romania, 103.201.129.226 Japan
-5.181.235.14 Romania, 45.125.0.246 Hong Kong
-91.193.75.5 Germany, 122.208.194.111 Japan
-178.249.213.39 United Kingdom, 103.201.129.170 Japan
-62.133.35.246 Germany, 78.142.193.246 Germany
-200.98.128.112 Brazil, 222.255.11.117 Viet Nam
-109.111.243.206 Serbia, 103.119.2.159 Japan
+146.70.205.6 Romania, 5.181.235.14 Romania
+103.201.129.226 Japan, 45.125.0.246 Hong Kong
+178.249.213.39 United Kingdom, 91.193.75.5 Germany
+122.208.194.111 Japan, 78.142.193.246 Germany
+103.201.129.170 Japan, 62.133.35.246 Germany
+200.98.128.112 Brazil, 109.111.243.206 Serbia
+222.255.11.117 Viet Nam, 103.119.2.159 Japan
 37.120.213.34 Romania
                                                                                           
 
@@ -19,6 +19,6 @@
 http://178.249.213.39:24288/cn/                                                           
 http://103.201.129.226:14684/cn/                                                           
 http://109.111.243.206:17579/cn/                                                           
-http://78.142.193.246:33304/cn/                                                           
+http://v-dot-pn-ams1.opengw.net:33304/cn/                                                           
 http://173.198.248.39:18358/cn/                                                           
 http://200.98.128.112:9745/cn/
