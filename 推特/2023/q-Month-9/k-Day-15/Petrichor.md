@@ -1,4 +1,6 @@
-Petrichor 北京时间 2023-09-15T05:34:18Z 1702435628363759632<br>No zuo no die (Chinese: 不作死就不會死 or 不作不死) is a Chinese internet meme. The original wording of the Chinese phrase, meaning "one would not be in trouble had one not asked for it", is half-translated to Chinglish where it retains one of its Chinese characters in pinyin.”Zuo" (作) is a Shanghainese word meaning to "act silly or daring (for attention)".
+Petrichor 北京时间 2023-09-15T09:36:47Z 1702496651393310776<br>原来中国《治安管理处罚法》的修订草案的第34条是抄袭1935年希特勒纳粹德国的《帝国刑法典》的。
+
+万万没想到，情况是这样的。中国人，也该醒醒了。 https://t.co/vuQippWXnS<br><img src='../../../../temp/image/2023/q-Month-9/1702496651393310776_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2023-09-15T05:34:18Z 1702435628363759632<br>No zuo no die (Chinese: 不作死就不會死 or 不作不死) is a Chinese internet meme. The original wording of the Chinese phrase, meaning "one would not be in trouble had one not asked for it", is half-translated to Chinglish where it retains one of its Chinese characters in pinyin.”Zuo" (作) is a Shanghainese word meaning to "act silly or daring (for attention)".
 
 The original Chinese phrase has become very popular in China. When its Chinglish translation was included in Urban Dictionary in 2014, it generated a lot of interest in the media, interpreted by many Chinese as a sign of China's growing soft power.
 
