@@ -1,4 +1,8 @@
-Petrichor 北京时间 2023-09-15T07:47:03Z 1702469037719007674<br>这样视频竟然流传到海外，这不是给华春莹等说“中国人民有言论自由”一耳光？在微信群里说几句话，就受到如此非人待遇。
+Petrichor 北京时间 2023-09-15T05:34:18Z 1702435628363759632<br>No zuo no die (Chinese: 不作死就不會死 or 不作不死) is a Chinese internet meme. The original wording of the Chinese phrase, meaning "one would not be in trouble had one not asked for it", is half-translated to Chinglish where it retains one of its Chinese characters in pinyin.”Zuo" (作) is a Shanghainese word meaning to "act silly or daring (for attention)".
+
+The original Chinese phrase has become very popular in China. When its Chinglish translation was included in Urban Dictionary in 2014, it generated a lot of interest in the media, interpreted by many Chinese as a sign of China's growing soft power.
+
+以上维基百科的解释。<br><img src='../../../../temp/image/2023/q-Month-9/1702435628363759632_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2023-09-15T07:47:03Z 1702469037719007674<br>这样视频竟然流传到海外，这不是给华春莹等说“中国人民有言论自由”一耳光？在微信群里说几句话，就受到如此非人待遇。
 
 Such a video has been circulated overseas. Isn't this a slap in the face to Hua Chunying and others who said that "Chinese people have freedom of speech"? If you say a few words in a WeChat group, you will be treated so
 inhumanely.<br><img src='../../../../temp/video/2023/q-Month-9/k-Day-15/Jam79922967/1702469037719007674_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2023-09-15T08:13:55Z 1702475800228835734<br>朱镕基说过：“如果香港搞不好，不但你们（港府官员）有责任，我们（北京中央政府）也有责任！”“香港回归祖国了，如果在我们手里搞坏了，那我（中央政府）岂不成了民族罪人？”
