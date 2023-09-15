@@ -1,4 +1,7 @@
-Petrichor 北京时间 2023-09-15T08:13:55Z 1702475800228835734<br>朱镕基说过：“如果香港搞不好，不但你们（港府官员）有责任，我们（北京中央政府）也有责任！”“香港回归祖国了，如果在我们手里搞坏了，那我（中央政府）岂不成了民族罪人？”
+Petrichor 北京时间 2023-09-15T07:47:03Z 1702469037719007674<br>这样视频竟然流传到海外，这不是给华春莹等说“中国人民有言论自由”一耳光？在微信群里说几句话，就受到如此非人待遇。
+
+Such a video has been circulated overseas. Isn't this a slap in the face to Hua Chunying and others who said that "Chinese people have freedom of speech"? If you say a few words in a WeChat group, you will be treated so
+inhumanely.<br><img src='../../../../temp/video/2023/q-Month-9/k-Day-15/Jam79922967/1702469037719007674_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2023-09-15T08:13:55Z 1702475800228835734<br>朱镕基说过：“如果香港搞不好，不但你们（港府官员）有责任，我们（北京中央政府）也有责任！”“香港回归祖国了，如果在我们手里搞坏了，那我（中央政府）岂不成了民族罪人？”
 
 一语成谶。民族罪人是谁？ https://t.co/DOLE4OStaN<br><img src='../../../../temp/image/2023/q-Month-9/1702475800228835734_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2023-09-15T08:59:54Z 1702487372376481852<br>会不会中国武器假过朝鲜送到俄军手中？ https://t.co/qZqt2kpR9k<br><img src='../../../../temp/image/2023/q-Month-9/1702487372376481852_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2023-09-15T06:08:41Z 1702444281938489454<br>假新闻，CCAV，😄，做的跟真的似的。哈哈，我晕。 https://t.co/3HcV7taLJo<br><img src='../../../../temp/video/2023/q-Month-9/k-Day-15/Jam79922967/1702444281938489454_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2023-09-15T02:12:44Z 1702384905743729078<br>德国哲学家黑格尔曾经断言：“任何进步都不会从中国产生。” 人们不得不佩服他的聪明和洞察力。
 
