@@ -1,1 +1,3 @@
-A李老师不是你老师 北京时间 2023-09-21T02:10:33Z 1704558683361849784<br>赛后，武汉球迷在场外点燃并撕毁了日本国旗 https://t.co/bzHxqiX4rO<br><img src='../../../../temp/video/2023/q-Month-9/e-Day-21/whyyoutouzhele/1704558683361849784_0.jpg' width='480' height='500'><br><br>
+A李老师不是你老师 北京时间 2023-09-21T05:34:52Z 1704610101166854640<br>事件后续
+石班瑜称，目前派出所已经联系并了解了情况，自己已经彻底搬出了原先的工作室。
+视频被下架了，不是被删除的。 https://t.co/sHcwmSi774<br><img src='../../../../temp/image/2023/q-Month-9/1704610101166854640_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-09-21T02:10:33Z 1704558683361849784<br>赛后，武汉球迷在场外点燃并撕毁了日本国旗 https://t.co/bzHxqiX4rO<br><img src='../../../../temp/video/2023/q-Month-9/e-Day-21/whyyoutouzhele/1704558683361849784_0.jpg' width='480' height='500'><br><br>
