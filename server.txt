@@ -1,14 +1,15 @@
-9/20/2023, 2:25:11 PM    L2TP/IPSec, 
+9/20/2023, 3:18:07 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-126.25.70.242 Japan, 122.26.218.75 Japan
-173.198.248.39 United States, 115.72.26.172 Viet Nam
+, 126.25.70.242 Japan
+122.26.218.75 Japan, 173.198.248.39 United States
+115.72.26.172 Viet Nam, 
 18.134.245.89 United States, 146.70.205.2 Romania
-146.70.205.6 Romania, 45.125.0.246 Hong Kong
-91.193.75.5 Germany, 122.208.194.111 Japan
-103.201.129.226 Japan, 202.137.113.55 Philippines
-178.249.213.39 United Kingdom, 62.133.35.246 Germany
+146.70.205.6 Romania, 122.208.194.111 Japan
+103.201.129.226 Japan, 91.193.75.5 Germany
+45.125.0.246 Hong Kong, 178.249.213.39 United Kingdom
+62.133.35.246 Germany, 202.137.113.55 Philippines
 78.142.193.246 Germany, 222.255.11.117 Viet Nam
 109.111.243.206 Serbia, 200.98.128.112 Brazil
                                                                                           
