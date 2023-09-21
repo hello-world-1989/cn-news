@@ -1,18 +1,19 @@
-9/22/2023, 12:24:47 AM    L2TP/IPSec, 
+9/22/2023, 1:18:57 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
 , 122.26.218.75 Japan
-173.198.248.39 United States, 18.134.245.89 United States
-, 126.25.70.242 Japan
-58.153.55.238 Hong Kong, 171.232.87.210 Viet Nam
-146.70.205.2 Romania, 146.70.205.6 Romania
-91.193.75.5 Germany, 45.125.0.246 Hong Kong
-122.208.194.111 Japan, 202.137.113.55 Philippines
-103.201.129.226 Japan, 178.249.213.39 United Kingdom
-78.142.193.246 Germany, 62.133.35.246 Germany
-222.255.11.117 Viet Nam, 109.111.243.206 Serbia
-200.98.128.112 Brazil, 185.242.234.137 Hong Kong
+, 173.198.248.39 United States
+18.134.245.89 United States, 126.25.70.242 Japan
+58.153.55.238 Hong Kong, 
+171.232.87.210 Viet Nam, 146.70.205.2 Romania
+146.70.205.6 Romania, 45.125.0.246 Hong Kong
+91.193.75.5 Germany, 202.137.113.55 Philippines
+103.201.129.226 Japan, 122.208.194.111 Japan
+78.142.193.246 Germany, 178.249.213.39 United Kingdom
+62.133.35.246 Germany, 109.111.243.206 Serbia
+222.255.11.117 Viet Nam, 200.98.128.112 Brazil
+185.242.234.137 Hong Kong
                                                                                           
 
  Mirror List                                                           
