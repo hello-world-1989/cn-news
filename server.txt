@@ -1,23 +1,24 @@
-9/22/2023, 11:19:50 PM    L2TP/IPSec, 
+9/23/2023, 12:25:12 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-122.26.218.75 Japan, 
-126.25.70.242 Japan, 173.198.248.39 United States
-42.98.224.87 Hong Kong, 171.232.87.210 Viet Nam
-146.70.205.2 Romania, 146.70.205.6 Romania
-62.133.35.246 Germany, 103.201.129.226 Japan
-91.193.75.5 Germany, 122.208.194.111 Japan
-45.125.0.246 Hong Kong, 202.137.113.55 Philippines
-178.249.213.39 United Kingdom, 78.142.193.246 Germany
-109.111.243.206 Serbia, 200.98.128.112 Brazil
-222.255.11.117 Viet Nam, 185.242.234.137 Hong Kong
+, 122.26.218.75 Japan
+, 173.198.248.39 United States
+126.25.70.242 Japan, 42.98.224.87 Hong Kong
+171.232.87.210 Viet Nam, 146.70.205.2 Romania
+146.70.205.6 Romania, 45.125.0.246 Hong Kong
+91.193.75.5 Germany, 103.201.129.226 Japan
+122.208.194.111 Japan, 62.133.35.246 Germany
+178.249.213.39 United Kingdom, 202.137.113.55 Philippines
+78.142.193.246 Germany, 109.111.243.206 Serbia
+222.255.11.117 Viet Nam, 200.98.128.112 Brazil
+185.242.234.137 Hong Kong
                                                                                           
 
  Mirror List                                                           
 http://103.201.129.226:14684/cn/                                                           
 http://109.111.243.206:17579/cn/                                                           
-http://122x208x194x111.ap122.ftth.ucom.ne.jp:54239/cn/                                                           
-http://78.142.193.246:33304/cn/                                                           
-http://173.198.248.39:18358/cn/                                                           
+http://122.208.194.111:54239/cn/                                                           
+http://v-dot-pn-ams1.opengw.net:33304/cn/                                                           
+http://173-198-248-39.static.as40244.net:18358/cn/                                                           
 http://91.193.75.5:45082/cn/
