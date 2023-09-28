@@ -1,0 +1,1 @@
+D每日反共 北京时间 2023-09-28T09:06:35Z 1707200094741897634<br>这一耳光，有助于深刻理解中共国的官民关系👇 https://t.co/6HK7K9JsNC<br><img src='../../../../temp/video/2023/q-Month-9/aw-Day-28/FHtxWIgJMI3yoLO/1707200094741897634_0.jpg' width='480' height='500'><br><br>
