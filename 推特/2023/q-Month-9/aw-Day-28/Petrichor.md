@@ -1,4 +1,5 @@
-Petrichor 北京时间 2023-09-28T23:02:57Z 1707410574743625956<br>“学术屁话”的分类（Kirchherr, J. (2023). Bullshit in the Sustainability and Transitions Literature: a Provocation. Circular Economy and Sustainability (Online), 3(1), 167–172. https://t.co/czZDbJzFGo）：
+Petrichor 北京时间 2023-09-28T22:37:45Z 1707404231529959514<br>本届亚运会，集中展示了真正的中共和中国力量。在饭菜上，20块钱的奥运餐，愣是搞出了国宴般的标准。在交通上，科学规划，认真调研，合理安排，面对海量人潮，愣是没有出现拥堵。在服务上，就光找手机这一举动，就惊艳到了香港媒体。只要中共想办的事，一定办的圆满，因为不惜代价。那么问题来了，每年数万的孩子丢了，找不回来，20年后变八孩妈铁链女了。不是政府找不到，而是他们不想找。
+把盛会标准，普及到神州的每一处，才是真正的中国力量。<br><img src='../../../../temp/image/2023/q-Month-9/1707404231529959514_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/q-Month-9/1707404231529959514_1.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2023-09-28T23:02:57Z 1707410574743625956<br>“学术屁话”的分类（Kirchherr, J. (2023). Bullshit in the Sustainability and Transitions Literature: a Provocation. Circular Economy and Sustainability (Online), 3(1), 167–172. https://t.co/czZDbJzFGo）：
 
 1乏味问题的研究：这类研究往往是对前人工作的简单复制，例如不断研究中小企业的循环经济的障碍和推动因素，虽然没有太多新意，但也为该领域知识体系加固了基础。因此，这种类型可能只是边缘性“屁话”。
 2文献综述的文献综述：这种“屁话”是由于文献综述研究的过度增长，尤其是对那些已经被详尽探讨的子领域。这些综述只是重复我们已经知道的事实，而没有提供任何新的见解。
