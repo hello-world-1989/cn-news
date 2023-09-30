@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2023-09-30T09:36:40Z 1707932442592784470<br>恒大的倒下如何给中国房地产市场甚至整个经济带来震荡？我们为你梳理这一危机的背景。 https://t.co/CTEfueA8YJ<br><img src='../../../../temp/video/2023/q-Month-9/au-Day-30/bbcchinese/1707932442592784470_0.jpg' width='480' height='500'><br><br>
