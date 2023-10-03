@@ -1,1 +1,0 @@
-Petrichor 北京时间 2020-02-09T10:59:39Z 1226339851152318470<br>朋友，如果你的微信因为发了一些中共不喜欢的文字而被腾讯封了户头，请联系David Gilbert 记者，他正在做这方面的调查。以希美国立法禁止与美国有业务往来的腾讯公司干涉公民言论自由，与中共狼狈为奸。他的电邮：david.gilbert@gmail.com https://t.co/l9JZD7Cb7v<br><img src='../../../../temp/image/2020/x-Month-2/1226339851152318470_0.jpg' width='480' height='500'><br><br>

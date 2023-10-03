@@ -1,1 +1,0 @@
-D英国广播公司BBC 北京时间 2020-10-02T14:36:27Z 1311917946307047429<br>印度总理莫迪率先在Twitter上慰问确诊感染新冠病毒的特朗普夫妇。 https://t.co/PITMpcbMlg<br><img src='../../../../temp/image/2020/p-Month-10/1311917946307047429_0.jpg' width='480' height='500'><br><br>
