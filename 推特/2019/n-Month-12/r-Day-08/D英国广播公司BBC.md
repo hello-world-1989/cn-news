@@ -1,1 +1,0 @@
-D英国广播公司BBC 北京时间 2019-12-08T19:12:09Z 1203633358913331201<br>香港遊行在入夜後仍然持續。 https://t.co/QTXqZ7c6KZ<br><img src='../../../../temp/video/2019/n-Month-12/r-Day-08/bbcchinese/1203633358913331201_0.jpg' width='480' height='500'><br><br>
