@@ -1,0 +1,1 @@
+Petrichor 北京时间 2023-10-05T00:06:46Z 1709600961704894938<br>独裁者都喜欢形式主义，最后又都被形式主义搞死。 https://t.co/j07KJo7b4A<br><img src='../../../../temp/image/2023/p-Month-10/1709600961704894938_0.jpg' width='480' height='500'><br><br>
