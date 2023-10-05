@@ -1,0 +1,1 @@
+D每日反共 北京时间 2023-10-05T14:03:56Z 1709811642421444869<br>中共国特有土匪👇 https://t.co/R5ApSpkUHy<br><img src='../../../../temp/video/2023/p-Month-10/u-Day-05/FHtxWIgJMI3yoLO/1709811642421444869_0.jpg' width='480' height='500'><br><br>
