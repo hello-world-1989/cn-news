@@ -1,0 +1,2 @@
+A李老师不是你老师 北京时间 2023-10-09T00:19:28Z 1711053707977076983<br>10月8日下午，福建省漳州市芗城区市医院门口
+一辆越野车突然失控乱撞，造成多人受伤 https://t.co/phcaBfLlgW<br><img src='../../../../temp/video/2023/p-Month-10/q-Day-09/whyyoutouzhele/1711053707977076983_0.jpg' width='480' height='500'><br><br>
