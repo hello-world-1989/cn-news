@@ -1,0 +1,2 @@
+Ivy未央 北京时间 2023-10-08T09:18:17Z 1710826917719331144<br>什么叫说的比唱的好听？粉红们敢去骂毛泽东亲美吗？
+毛泽东不愧是好话说尽坏事做绝 https://t.co/ADXlwDpoqx<br><img src='../../../../temp/image/2023/p-Month-10/1710826917719331144_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/p-Month-10/1710826917719331144_1.jpg' width='480' height='500'><br><br>
