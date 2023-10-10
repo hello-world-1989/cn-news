@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2023-10-11T00:29:16Z 1711780948227117488<br>在哈马斯突袭以色列后，以色列连续多日对加沙地带展开了大规模空袭。BBC记者拉什迪·阿布卢夫（Rushdi Abualouf）在加沙城从车上记录了当地的情况。 https://t.co/0kYRpmvkgT<br><img src='../../../../temp/video/2023/p-Month-10/o-Day-11/bbcchinese/1711780948227117488_0.jpg' width='480' height='500'><br><br>
