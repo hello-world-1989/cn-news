@@ -1,4 +1,4 @@
-D每日反共 北京时间 2023-10-10T13:18:22Z 1711612114580971940<br>以军小队肃清恐怖分子，霸气！💪 https://t.co/otTOiYrmBm<br><img src='../../../../temp/video/2023/p-Month-10/p-Day-10/FHtxWIgJMI3yoLO/1711612114580971940_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-10-10T10:11:01Z 1711564963364630563<br>中華民國萬歲！🇹🇼
+D每日反共 北京时间 2023-10-10T12:26:29Z 1711599054239772916<br>粉蛆对同胞总是无限冷血🙄 https://t.co/7u7TSaziYz<br><img src='../../../../temp/image/2023/p-Month-10/1711599054239772916_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-10-10T13:18:22Z 1711612114580971940<br>以军小队肃清恐怖分子，霸气！💪 https://t.co/otTOiYrmBm<br><img src='../../../../temp/video/2023/p-Month-10/p-Day-10/FHtxWIgJMI3yoLO/1711612114580971940_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-10-10T10:11:01Z 1711564963364630563<br>中華民國萬歲！🇹🇼
 
 祝大家國慶快樂🥳 https://t.co/CchfJbcMOC<br><img src='../../../../temp/image/2023/p-Month-10/1711564963364630563_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-10-10T10:38:45Z 1711571941805764990<br>巴勒斯坦父亲抱着死去的女儿👇
 
