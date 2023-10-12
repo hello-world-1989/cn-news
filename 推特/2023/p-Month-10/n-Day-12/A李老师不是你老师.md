@@ -1,0 +1,1 @@
+A李老师不是你老师 北京时间 2023-10-12T08:02:49Z 1712257479340376205<br>美国总统拜登在记者会上承认自己已经看到了哈马斯在突袭以色列南部村庄时斩首婴儿的照片。 https://t.co/ackhkoUpY7<br><img src='../../../../temp/video/2023/p-Month-10/n-Day-12/whyyoutouzhele/1712257479340376205_0.jpg' width='480' height='500'><br><br>
