@@ -1,1 +1,2 @@
-D每日反共 北京时间 2023-10-13T09:09:04Z 1712636536175694175<br>黄钟毁弃，瓦釜雷鸣😮‍💨 https://t.co/1Bgn5vWp3w<br><img src='../../../../temp/image/2023/p-Month-10/1712636536175694175_0.jpg' width='480' height='500'><br><br>
+D每日反共 北京时间 2023-10-13T09:06:55Z 1712635997828379000<br>共军054A型护卫舰👇
+这是移动的烽火台吗？ https://t.co/31RvQpaYNO<br><img src='../../../../temp/video/2023/p-Month-10/m-Day-13/FHtxWIgJMI3yoLO/1712635997828379000_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-10-13T09:09:04Z 1712636536175694175<br>黄钟毁弃，瓦釜雷鸣😮‍💨 https://t.co/1Bgn5vWp3w<br><img src='../../../../temp/image/2023/p-Month-10/1712636536175694175_0.jpg' width='480' height='500'><br><br>
