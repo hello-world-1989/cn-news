@@ -1,4 +1,4 @@
-10/16/2023, 12:23:08 AM    L2TP/IPSec, 
+10/16/2023, 1:18:24 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
@@ -17,4 +17,4 @@ http://222.255.11.117:54621/cn/
 http://146.70.205.6:34299/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
 http://125.63.88.251:18109/cn/                                                           
-http://122x208x194x111.ap122.ftth.ucom.ne.jp:54239/cn/
+http://211.198.35.84:34926/cn/
