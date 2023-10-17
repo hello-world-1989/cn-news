@@ -1,0 +1,1 @@
+Petrichor 北京时间 2023-10-18T00:07:31Z 1714312190402908409<br>视频的解说音，如同CCTV，可见制作人的专业水平，非播音专业人士所为。 https://t.co/RYLShQyEju<br><img src='../../../../temp/video/2023/p-Month-10/h-Day-18/Jam79922967/1714312190402908409_0.jpg' width='480' height='500'><br><br>
