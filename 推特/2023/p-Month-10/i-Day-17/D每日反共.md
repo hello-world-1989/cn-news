@@ -1,1 +1,3 @@
-D每日反共 北京时间 2023-10-17T12:21:30Z 1714134518330966074<br>网友总结这十年的变化，令人唏嘘不已😮‍💨 https://t.co/J87k7sOUxc<br><img src='../../../../temp/image/2023/p-Month-10/1714134518330966074_0.jpg' width='480' height='500'><br><br>
+D每日反共 北京时间 2023-10-17T10:37:25Z 1714108321739984967<br>俄爹普京访问中共国👇
+
+共匪向来只会与邪恶绑定，没有例外🤦 https://t.co/CjduKlA5GZ<br><img src='../../../../temp/video/2023/p-Month-10/i-Day-17/FHtxWIgJMI3yoLO/1714108321739984967_0.jpg' width='480' height='500'><br><br>D每日反共 北京时间 2023-10-17T12:21:30Z 1714134518330966074<br>网友总结这十年的变化，令人唏嘘不已😮‍💨 https://t.co/J87k7sOUxc<br><img src='../../../../temp/image/2023/p-Month-10/1714134518330966074_0.jpg' width='480' height='500'><br><br>
