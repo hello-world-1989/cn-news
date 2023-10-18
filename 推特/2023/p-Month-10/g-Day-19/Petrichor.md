@@ -1,0 +1,1 @@
+Petrichor 北京时间 2023-10-19T00:51:07Z 1714685552685891882<br>把俄罗斯占领中国的领土还回来，再谈平等互利吧？老毛子对周围国家从来就是亡我之心不死。 https://t.co/jBHe7o6ZUJ<br><img src='../../../../temp/image/2023/p-Month-10/1714685552685891882_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/p-Month-10/1714685552685891882_1.jpg' width='480' height='500'><br><br>
