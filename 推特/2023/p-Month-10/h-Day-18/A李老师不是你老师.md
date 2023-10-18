@@ -1,1 +1,2 @@
-A李老师不是你老师 北京时间 2023-10-18T01:59:44Z 1714340430479782174<br>10月17日，普京接受CCTV采访时表示，习近平是世界公认的领导者，是真正的世界领袖，和那些“临时工”不同。 https://t.co/J6N0CrbxsF<br><img src='../../../../temp/video/2023/p-Month-10/h-Day-18/whyyoutouzhele/1714340430479782174_0.jpg' width='480' height='500'><br><br>
+A李老师不是你老师 北京时间 2023-10-18T12:08:00Z 1714493505895379351<br>10月18日，北京
+凌晨4点的守桥人。 https://t.co/naHNG1PDPF<br><img src='../../../../temp/image/2023/p-Month-10/1714493505895379351_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-10-18T01:59:44Z 1714340430479782174<br>10月17日，普京接受CCTV采访时表示，习近平是世界公认的领导者，是真正的世界领袖，和那些“临时工”不同。 https://t.co/J6N0CrbxsF<br><img src='../../../../temp/video/2023/p-Month-10/h-Day-18/whyyoutouzhele/1714340430479782174_0.jpg' width='480' height='500'><br><br>
