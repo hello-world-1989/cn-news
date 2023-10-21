@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2023-10-21T12:12:11Z 1715581724548268219<br>以色列警告加沙北部居民撤离至南部后，南部城市汗尤尼斯（Khan Younis）人口激增。当地一些志愿者正在向这些新移民提供帮助。 https://t.co/c5fS3lkVRb<br><img src='../../../../temp/video/2023/p-Month-10/e-Day-21/bbcchinese/1715581724548268219_0.jpg' width='480' height='500'><br><br>
