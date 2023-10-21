@@ -1,0 +1,1 @@
+D每日反共 北京时间 2023-10-21T08:49:58Z 1715530833644454026<br>此现象在中共国尤甚👇 https://t.co/Dmff4NIAaC<br><img src='../../../../temp/image/2023/p-Month-10/1715530833644454026_0.jpg' width='480' height='500'><br><br>
