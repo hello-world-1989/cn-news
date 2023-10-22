@@ -1,1 +1,2 @@
-A李老师不是你老师 北京时间 2023-10-23T02:13:38Z 1716155868629139821<br>微信指数将“移民”移除了 https://t.co/o03g4t9LWH<br><img src='../../../../temp/image/2023/p-Month-10/1716155868629139821_0.jpg' width='480' height='500'><br><br>
+A李老师不是你老师 北京时间 2023-10-23T02:05:03Z 1716153707417464911<br>10月22日，黑龙江绥化。
+因被肆意压榨，近百名美团骑手集体罢工， 上街游行。 https://t.co/lYEubWDKfV<br><img src='../../../../temp/video/2023/p-Month-10/c-Day-23/whyyoutouzhele/1716153707417464911_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-10-23T02:13:38Z 1716155868629139821<br>微信指数将“移民”移除了 https://t.co/o03g4t9LWH<br><img src='../../../../temp/image/2023/p-Month-10/1716155868629139821_0.jpg' width='480' height='500'><br><br>
