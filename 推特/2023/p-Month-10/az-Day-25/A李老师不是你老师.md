@@ -1,1 +1,2 @@
-A李老师不是你老师 北京时间 2023-10-25T03:48:20Z 1716904478035829055<br>10月24日晚，南昌绿滋肴庙街，烂尾楼业主举着“中国共产党万岁”的牌子维权 https://t.co/kPrDBo3coA<br><img src='../../../../temp/video/2023/p-Month-10/az-Day-25/whyyoutouzhele/1716904478035829055_0.jpg' width='480' height='500'><br><br>
+A李老师不是你老师 北京时间 2023-10-25T02:50:02Z 1716889803910959246<br>现象级
+最后，媒体称主人是主动将犬只交出，并感谢政府帮忙解决了难题👍 https://t.co/pxQVLAs8eP<br><img src='../../../../temp/image/2023/p-Month-10/1716889803910959246_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-10-25T03:48:20Z 1716904478035829055<br>10月24日晚，南昌绿滋肴庙街，烂尾楼业主举着“中国共产党万岁”的牌子维权 https://t.co/kPrDBo3coA<br><img src='../../../../temp/video/2023/p-Month-10/az-Day-25/whyyoutouzhele/1716904478035829055_0.jpg' width='480' height='500'><br><br>
