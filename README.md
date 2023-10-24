@@ -4,9 +4,7 @@
 
 >已知漏洞: 1 有视频和多张图片时只能获取视频预览图片，无法获取剩余图片 2 未存储视频
 
-# 李老师推文离线PDF版本, 每月更新, 2022年11月 - 2023年5月 [链接](https://github.com/hello-world-1989/whyyoutouzhele) 
-
-Resilio Sync(BTSync）同步密码 BGLCKIVXUMFYVASCASDKT7RHT7L7IYX76
+# 李老师推文离线PDF版本, 每月更新, 2022年11月 - 2023年9月 [链接](https://github.com/hello-world-1989/whyyoutouzhele) 
 
 ## 最新推文在最上边，方便查看， Month 月份, Day 几号， 例如u-Month-5 d-Day-22代表 5月22日推文
 ## 更新频率 每2小时， 时间为北京时间
@@ -27,6 +25,6 @@ Resilio Sync(BTSync）同步密码 BGLCKIVXUMFYVASCASDKT7RHT7L7IYX76
 3. [twitter-scraper](https://github.com/n0madic/twitter-scraper) 抓取推特
 
 
->如有问题或需帮助请[发邮件](mailto:free.vpn.list@hotmail.com)或者提Issue，希望能帮助到在墙内的小伙伴
+>如有问题或需帮助请[发邮件](mailto:end.gfw@hotmail.com)或者提Issue，希望能帮助到在墙内的小伙伴
 
 >如果帮助到你，欢迎Star, Fork，让GFW无法屏蔽，使更多人看到，帮助更多人
