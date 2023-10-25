@@ -1,12 +1,12 @@
-10/25/2023, 9:22:55 PM    L2TP/IPSec, 
+10/25/2023, 10:20:03 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
 , 153.228.42.55 Japan
-103.48.182.20 India, 118.69.65.145 Viet Nam
-146.70.205.2 Romania, 146.70.205.6 Romania
-62.133.35.246 Germany, 45.125.0.246 Hong Kong
-103.201.129.226 Japan, 91.193.75.5 Germany
+118.69.65.145 Viet Nam, 27.69.185.216 Viet Nam
+62.133.35.246 Germany, 146.70.205.2 Romania
+146.70.205.6 Romania, 91.193.75.5 Germany
+45.125.0.246 Hong Kong, 103.201.129.226 Japan
 78.142.193.246 Germany, 222.255.11.117 Viet Nam
 109.111.243.206 Serbia, 185.242.234.137 Hong Kong
 125.63.88.251 India
@@ -15,7 +15,7 @@
  Mirror List                                                           
 http://103.201.129.226:14684/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
-http://115.39.187.108:2084/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
 http://78.142.193.246:33304/cn/                                                           
-http://211.217.169.145:50965/cn/
+http://222.255.11.117:54621/cn/                                                           
+http://109.111.243.206:17579/cn/
