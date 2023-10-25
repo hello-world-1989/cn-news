@@ -1,8 +1,9 @@
-10/26/2023, 2:23:21 AM    L2TP/IPSec, 
+10/26/2023, 3:15:21 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-153.228.42.55 Japan, 118.69.65.145 Viet Nam
+, 153.228.42.55 Japan
+118.69.65.145 Viet Nam, 
 146.70.205.2 Romania, 146.70.205.6 Romania
 62.133.35.246 Germany, 45.125.0.246 Hong Kong
 91.193.75.5 Germany, 103.201.129.226 Japan
@@ -14,7 +15,7 @@
  Mirror List                                                           
 http://103.201.129.226:14684/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
+http://211.216.174.242:2948/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
-http://FL1-110-233-76-53.stm.mesh.ad.jp:7683/cn/                                                           
-http://78.142.193.246:33304/cn/                                                           
-http://222.255.11.117:54621/cn/
+http://27.113.76.169:41259/cn/                                                           
+http://78.142.193.246:33304/cn/
