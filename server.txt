@@ -1,21 +1,21 @@
-10/29/2023, 4:22:36 PM    L2TP/IPSec, 
+10/30/2023, 12:25:11 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-153.228.42.55 Japan, 
-122.208.194.109 Japan, 146.70.205.2 Romania
-146.70.205.6 Romania, 62.133.35.246 Germany
-45.125.0.246 Hong Kong, 91.193.75.5 Germany
-103.201.129.226 Japan, 78.142.193.246 Germany
-222.255.11.117 Viet Nam, 185.242.234.137 Hong Kong
-125.63.88.251 India, 109.111.243.206 Serbia
-202.137.113.55 Philippines
+, 153.228.42.55 Japan
+, 122.208.194.109 Japan
+146.70.205.2 Romania, 62.133.35.246 Germany
+146.70.205.6 Romania, 45.125.0.246 Hong Kong
+103.201.129.226 Japan, 91.193.75.5 Germany
+78.142.193.246 Germany, 185.242.234.137 Hong Kong
+125.63.88.251 India, 222.255.11.117 Viet Nam
+109.111.243.206 Serbia, 202.137.113.55 Philippines
                                                                                           
 
  Mirror List                                                           
-http://211.219.251.50:7233/cn/                                                           
-http://183.105.189.12:7152/cn/                                                           
-http://60.151.123.112:17731/cn/                                                           
-http://220.82.47.233:26864/cn/                                                           
-http://49.165.53.91:8896/cn/                                                           
-http://catv219122099124.ucatv.ne.jp:36149/cn/
+http://103.201.129.226:14684/cn/                                                           
+http://146.70.205.2:6283/cn/                                                           
+http://146.70.205.6:34299/cn/                                                           
+http://114.207.155.47:51196/cn/                                                           
+http://126.65.229.233:21315/cn/                                                           
+http://1.241.38.172:60820/cn/
