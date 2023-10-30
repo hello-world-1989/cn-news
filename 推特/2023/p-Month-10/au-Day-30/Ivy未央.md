@@ -1,0 +1,2 @@
+Ivy未央 北京时间 2023-10-30T11:43:44Z 1718836055552532540<br>还记得小学课本里的《十里长街送总理》吗？当年的老百姓都觉得他们的总理是个好东西吧？
+又有多少人知道周恩来当面是人背后是鬼呢？ https://t.co/0HBvMYKLgA<br><img src='../../../../temp/image/2023/p-Month-10/1718836055552532540_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/p-Month-10/1718836055552532540_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/p-Month-10/1718836055552532540_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/p-Month-10/1718836055552532540_3.jpg' width='480' height='500'><br><br>
