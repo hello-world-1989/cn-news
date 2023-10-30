@@ -1,22 +1,21 @@
-10/30/2023, 9:21:16 AM    L2TP/IPSec, 
+10/30/2023, 4:25:23 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-, 153.228.42.55 Japan
-122.208.194.109 Japan, 146.70.205.2 Romania
+153.228.42.55 Japan, 122.208.194.109 Japan
+92.116.212.136 Germany, 146.70.205.2 Romania
 62.133.35.246 Germany, 146.70.205.6 Romania
-103.201.129.226 Japan, 91.193.75.5 Germany
-45.125.0.246 Hong Kong, 78.142.193.246 Germany
+45.125.0.246 Hong Kong, 91.193.75.5 Germany
+103.201.129.226 Japan, 78.142.193.246 Germany
 185.242.234.137 Hong Kong, 222.255.11.117 Viet Nam
 125.63.88.251 India, 109.111.243.206 Serbia
-202.137.113.55 Philippines, 42.98.224.190 Hong Kong
-41.38.151.34 Egypt
+202.137.113.55 Philippines
                                                                                           
 
  Mirror List                                                           
+http://220.87.84.206:42091/cn/                                                           
 http://103.201.129.226:14684/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
-http://115.37.223.75:6103/cn/                                                           
-http://120.74.199.146:22625/cn/                                                           
-http://softbank126171146115.bbtec.net:62934/cn/
+http://126.36.25.106:9251/cn/                                                           
+http://123.212.70.142:32765/cn/
