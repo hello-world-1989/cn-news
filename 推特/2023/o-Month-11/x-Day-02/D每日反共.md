@@ -1,0 +1,1 @@
+D每日反共 北京时间 2023-11-02T08:36:16Z 1719876040317948084<br>北大学子悼念李克强👇 https://t.co/Vb6MB0BZWE<br><img src='../../../../temp/video/2023/o-Month-11/x-Day-02/FHtxWIgJMI3yoLO/1719876040317948084_0.jpg' width='480' height='500'><br><br>
