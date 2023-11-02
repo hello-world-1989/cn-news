@@ -1,4 +1,7 @@
-A李老师不是你老师 北京时间 2023-11-02T05:36:23Z 1719830771504955831<br>英国伦敦king's cross 车站
+A李老师不是你老师 北京时间 2023-11-02T05:33:21Z 1719830009454403770<br>巴黎
+中央美术学院
+北京理工大学
+UC Berkeley https://t.co/hsypbJIfqQ<br><img src='../../../../temp/image/2023/o-Month-11/1719830009454403770_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1719830009454403770_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1719830009454403770_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1719830009454403770_3.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-11-02T05:36:23Z 1719830771504955831<br>英国伦敦king's cross 车站
 爱丁堡大学
 中国驻德国使领馆
 天津 https://t.co/9uvrX5VOQy<br><img src='../../../../temp/image/2023/o-Month-11/1719830771504955831_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1719830771504955831_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1719830771504955831_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1719830771504955831_3.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-11-02T05:43:58Z 1719832680760492032<br>佛山
