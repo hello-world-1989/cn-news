@@ -1,4 +1,7 @@
-A李老师不是你老师 北京时间 2023-11-02T05:33:04Z 1719829937454973399<br>杭州维权人员邹巍 https://t.co/yNfZ6zBan9<br><img src='../../../../temp/image/2023/o-Month-11/1719829937454973399_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-11-02T05:33:21Z 1719830009454403770<br>巴黎
+A李老师不是你老师 北京时间 2023-11-02T05:30:04Z 1719829182568374274<br>广州
+爱尔兰梅努斯大学
+大连 滨海路
+宾夕法尼亚大学 https://t.co/5wuWbDSiUJ<br><img src='../../../../temp/image/2023/o-Month-11/1719829182568374274_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1719829182568374274_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1719829182568374274_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1719829182568374274_3.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-11-02T05:33:04Z 1719829937454973399<br>杭州维权人员邹巍 https://t.co/yNfZ6zBan9<br><img src='../../../../temp/image/2023/o-Month-11/1719829937454973399_0.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-11-02T05:33:21Z 1719830009454403770<br>巴黎
 中央美术学院
 北京理工大学
 UC Berkeley https://t.co/hsypbJIfqQ<br><img src='../../../../temp/image/2023/o-Month-11/1719830009454403770_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1719830009454403770_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1719830009454403770_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1719830009454403770_3.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-11-02T05:36:23Z 1719830771504955831<br>英国伦敦king's cross 车站
