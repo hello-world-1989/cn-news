@@ -1,9 +1,8 @@
-11/3/2023, 2:26:10 PM    L2TP/IPSec, 
+11/3/2023, 3:19:04 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-, 103.48.182.20 India
-122.21.255.183 Japan, 45.94.210.50 Australia
+103.48.182.20 India, 122.21.255.183 Japan
 146.70.205.2 Romania, 62.133.35.246 Germany
 146.70.205.6 Romania, 45.125.0.246 Hong Kong
 103.201.129.226 Japan, 91.193.75.5 Germany
@@ -16,6 +15,6 @@
 http://103.201.129.226:14684/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
-http://softbank126056249025.bbtec.net:25672/cn/                                                           
 http://222.255.11.117:54621/cn/                                                           
+http://175.207.132.79:39023/cn/                                                           
 http://109.111.243.206:17579/cn/
