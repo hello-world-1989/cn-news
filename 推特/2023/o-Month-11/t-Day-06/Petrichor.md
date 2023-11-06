@@ -1,0 +1,1 @@
+Petrichor 北京时间 2023-11-06T10:39:25Z 1721356583190266309<br>网上有人拿美国波士顿公共图书馆的标语“free to all（本馆服务一律免费）”作为对比，更是让国家图书馆颜面扫地。 https://t.co/iT2M0e7cVB<br><img src='../../../../temp/image/2023/o-Month-11/1721356583190266309_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1721356583190266309_1.jpg' width='480' height='500'><br><br>
