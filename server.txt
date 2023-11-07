@@ -1,9 +1,10 @@
-11/7/2023, 12:24:41 PM    L2TP/IPSec, 
+11/7/2023, 1:22:34 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-122.21.255.183 Japan, 122.208.194.109 Japan
-92.116.212.145 Germany, 74.79.120.242 United States
+, 74.79.120.242 United States
+, 122.208.194.109 Japan
+122.21.255.183 Japan, 92.116.212.145 Germany
 146.70.205.6 Romania, 146.70.205.2 Romania
 103.201.129.226 Japan, 45.125.0.246 Hong Kong
 78.142.193.246 Germany, 91.193.75.5 Germany
@@ -17,5 +18,5 @@ http://103.201.129.226:14684/cn/
 http://146.70.205.2:6283/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
 http://222.255.11.117:54621/cn/                                                           
-http://staticline58926.toya.net.pl:22702/cn/                                                           
-http://109.111.243.206:17579/cn/
+http://58.124.109.232:33533/cn/                                                           
+http://59.12.179.200:6674/cn/
