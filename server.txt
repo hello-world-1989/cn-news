@@ -1,4 +1,4 @@
-11/10/2023, 5:20:03 PM    L2TP/IPSec, 
+11/10/2023, 7:17:15 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
@@ -8,6 +8,7 @@
 45.125.0.246 Hong Kong, 91.193.75.5 Germany
 78.142.193.246 Germany, 176.112.152.56 Estonia
 222.255.11.117 Viet Nam, 109.111.243.206 Serbia
+147.50.240.76 Thailand
                                                                                           
 
  Mirror List                                                           
