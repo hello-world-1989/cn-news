@@ -1,0 +1,2 @@
+A李老师不是你老师 北京时间 2023-11-11T06:09:08Z 1723100505952395474<br>RT @YesterdayBigcat: 11月9日，吉林省长春市九台区上河湾镇，数百居民将交通阻断，抗议物业收钱不供暖。
+完整视频：https://t.co/WPXCxzsurG https://t.co/Kiur7LxwLO<br><img src='../../../../temp/video/2023/o-Month-11/o-Day-11/whyyoutouzhele/1723100505952395474_0.jpg' width='480' height='500'><br><br>
