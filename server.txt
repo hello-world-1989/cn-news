@@ -1,4 +1,4 @@
-11/12/2023, 7:16:44 PM    L2TP/IPSec, 
+11/12/2023, 8:35:22 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
@@ -15,6 +15,6 @@
 http://146.70.205.2:6283/cn/                                                           
 http://222.255.11.117:54621/cn/                                                           
 http://109.111.243.206:17579/cn/                                                           
-http://v-dot-pn-ams1.opengw.net:33304/cn/                                                           
+http://78.142.193.246:33304/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
-http://126.57.182.235:51685/cn/
+http://91.193.75.5:45082/cn/
