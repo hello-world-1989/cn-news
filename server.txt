@@ -1,13 +1,13 @@
-11/14/2023, 3:18:27 PM    L2TP/IPSec, 
+11/14/2023, 4:25:20 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-92.116.213.173 Germany, 
-180.1.47.140 Japan, 146.70.205.6 Romania
-78.142.193.246 Germany, 222.255.11.117 Viet Nam
-176.112.152.56 Estonia, 146.70.205.2 Romania
-62.133.35.246 Germany, 109.111.243.206 Serbia
-91.193.75.5 Germany, 147.50.240.76 Thailand
+, 92.116.213.173 Germany
+, 180.1.47.140 Japan
+146.70.205.6 Romania, 78.142.193.246 Germany
+222.255.11.117 Viet Nam, 146.70.205.2 Romania
+62.133.35.246 Germany, 176.112.152.56 Estonia
+109.111.243.206 Serbia, 91.193.75.5 Germany
 41.32.214.68 Egypt, 202.137.113.55 Philippines
                                                                                           
 
