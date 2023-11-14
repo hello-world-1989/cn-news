@@ -1,12 +1,13 @@
-11/14/2023, 11:22:24 PM    L2TP/IPSec, 
+11/15/2023, 12:23:05 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-92.116.213.173 Germany, 103.48.182.20 India
+92.116.213.173 Germany, 
+, 103.48.182.20 India
 180.1.47.140 Japan, 62.133.35.246 Germany
-45.125.0.246 Hong Kong, 146.70.205.2 Romania
-176.112.152.56 Estonia, 146.70.205.6 Romania
-147.50.240.76 Thailand, 91.193.75.5 Germany
+45.125.0.246 Hong Kong, 146.70.205.6 Romania
+146.70.205.2 Romania, 147.50.240.76 Thailand
+176.112.152.56 Estonia, 91.193.75.5 Germany
 109.111.243.206 Serbia, 78.142.193.246 Germany
 222.255.11.117 Viet Nam, 41.32.214.68 Egypt
 202.137.113.55 Philippines
@@ -17,5 +18,5 @@ http://222.255.11.117:54621/cn/
 http://109.111.243.206:17579/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
-http://v-dot-pn-ams1.opengw.net:33304/cn/                                                           
-http://91.193.75.5:45082/cn/
+http://78.142.193.246:33304/cn/                                                           
+http://v118-27-81-28.8u1h.static.cnode.io:48977/cn/
