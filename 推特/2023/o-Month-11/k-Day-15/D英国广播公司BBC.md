@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2023-11-15T08:36:46Z 1724587207791710423<br>【现场画面】中国国家主席习近平抵达美国旧金山。他将与美国总统拜登（Joe Biden）会晤并出席亚太经合组织（APEC）会议。 https://t.co/6tz0oQHCt8<br><img src='../../../../temp/video/2023/o-Month-11/k-Day-15/bbcchinese/1724587207791710423_0.jpg' width='480' height='500'><br><br>
