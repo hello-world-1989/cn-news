@@ -1,1 +1,4 @@
-A李老师不是你老师 北京时间 2023-11-23T00:45:25Z 1727367694410715186<br>RT @WilliamYang120: Chinese dissident journalist Sun Lin, who used the pen name Jie Mu, has died following a raid by state security police…<br><br><br>
+A李老师不是你老师 北京时间 2023-11-23T03:53:15Z 1727414962505834743<br>网友投稿
+每天深夜的抖音，人们依然在默默发帖悼念前总理李克强。
+为了避免被删除，网友们就只能把他的脸裁掉，也不提他的名字，
+可是这些悼念的帖子依然会在第二天天亮时被删掉。 https://t.co/z9ixb1ScCD<br><img src='../../../../temp/image/2023/o-Month-11/1727414962505834743_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1727414962505834743_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1727414962505834743_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1727414962505834743_3.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-11-23T00:45:25Z 1727367694410715186<br>RT @WilliamYang120: Chinese dissident journalist Sun Lin, who used the pen name Jie Mu, has died following a raid by state security police…<br><br><br>
