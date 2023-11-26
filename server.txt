@@ -1,9 +1,8 @@
-11/26/2023, 2:25:18 PM    L2TP/IPSec, 
+11/26/2023, 3:18:37 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-, 153.166.128.117 Japan
-, 41.38.151.34 Egypt
+153.166.128.117 Japan, 41.238.9.1 Egypt
 146.70.205.2 Romania, 146.70.205.6 Romania
 62.133.35.246 Germany, 103.201.129.226 Japan
 45.125.0.246 Hong Kong, 91.193.75.5 Germany
@@ -16,6 +15,6 @@
 http://103.201.129.226:14684/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
-http://v-dot-pn-ams1.opengw.net:33304/cn/                                                           
+http://78.142.193.246:33304/cn/                                                           
 http://91.193.75.5:45082/cn/                                                           
 http://62.133.35.246:2265/cn/
