@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2023-11-30T10:04:55Z 1730045208862093488<br>【最新消息】美国前国务卿亨利·基辛格（Henry Kissinger）在家中去世，享年100岁。 https://t.co/itcpVKZ900<br><img src='../../../../temp/image/2023/o-Month-11/1730045208862093488_0.jpg' width='480' height='500'><br><br>
