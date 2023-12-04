@@ -1,22 +1,22 @@
-12/5/2023, 6:23:44 AM    L2TP/IPSec, 
+12/5/2023, 7:21:33 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-198.46.174.145 United States, 210.132.205.228 Japan
-18.218.91.54 United States, 62.133.35.246 Germany
-146.70.205.2 Romania, 146.70.205.6 Romania
-38.180.98.184 Latvia, 45.125.0.246 Hong Kong
-91.193.75.5 Germany, 78.142.193.246 Germany
-202.137.113.55 Philippines, 176.112.152.56 Estonia
-103.201.129.226 Japan, 109.111.243.206 Serbia
-222.255.11.117 Viet Nam, 154.83.17.155 Hong Kong
-41.32.214.68 Egypt
+198.46.174.145 United States, 
+210.132.205.228 Japan, 18.218.91.54 United States
+146.70.205.2 Romania, 62.133.35.246 Germany
+146.70.205.6 Romania, 38.180.98.184 Latvia
+91.193.75.5 Germany, 45.125.0.246 Hong Kong
+176.112.152.56 Estonia, 78.142.193.246 Germany
+202.137.113.55 Philippines, 103.201.129.226 Japan
+109.111.243.206 Serbia, 222.255.11.117 Viet Nam
+154.83.17.155 Hong Kong, 41.32.214.68 Egypt
                                                                                           
 
  Mirror List                                                           
+http://121.142.148.212:19604/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
+http://p7663121-ipngn35201marunouchi.tokyo.ocn.ne.jp:10813/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
 http://62.133.35.246:2265/cn/                                                           
-http://78.142.193.246:33304/cn/                                                           
-http://91.193.75.5:45082/cn/                                                           
-http://36.13.237.4:42086/cn/
+http://v-dot-pn-ams1.opengw.net:33304/cn/
