@@ -1,17 +1,18 @@
-12/10/2023, 12:24:56 PM    L2TP/IPSec, 
+12/10/2023, 1:22:45 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-18.218.91.54 United States, 146.70.205.2 Romania
-146.70.205.6 Romania, 103.201.129.226 Japan
-176.112.152.56 Estonia, 153.166.128.117 Japan
-154.83.17.155 Hong Kong, 41.32.214.68 Egypt
+, 18.218.91.54 United States
+146.70.205.2 Romania, 146.70.205.6 Romania
+103.201.129.226 Japan, 176.112.152.56 Estonia
+153.166.128.117 Japan, 154.83.17.155 Hong Kong
+41.32.214.68 Egypt
                                                                                           
 
  Mirror List                                                           
-http://175.193.61.100:26326/cn/                                                           
-http://118.238.68.70:26164/cn/                                                           
-http://fp6fd93988.ap.nuro.jp:58981/cn/                                                           
-http://175.214.75.109:29688/cn/                                                           
-http://119.192.223.125:36198/cn/                                                           
-http://180.70.83.249:46849/cn/
+http://183.97.0.129:58416/cn/                                                           
+http://203.229.62.3:12720/cn/                                                           
+http://118.156.238.249:52487/cn/                                                           
+http://221.163.214.61:26473/cn/                                                           
+http://183.108.6.136:8183/cn/                                                           
+http://121.166.212.194:26845/cn/
