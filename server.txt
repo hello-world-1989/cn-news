@@ -1,20 +1,20 @@
-12/11/2023, 2:28:30 PM    L2TP/IPSec, 
+12/11/2023, 3:20:03 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-153.166.128.117 Japan, 110.66.40.61 Japan
-92.116.213.217 Germany, 146.70.205.2 Romania
-62.133.35.246 Germany, 146.70.205.6 Romania
-103.201.129.226 Japan, 45.125.0.246 Hong Kong
-91.193.75.5 Germany, 176.112.152.56 Estonia
-78.142.193.246 Germany, 109.111.243.206 Serbia
-154.83.17.155 Hong Kong
+, 153.166.128.117 Japan
+110.66.40.61 Japan, 92.116.213.217 Germany
+146.70.205.2 Romania, 146.70.205.6 Romania
+62.133.35.246 Germany, 103.201.129.226 Japan
+45.125.0.246 Hong Kong, 176.112.152.56 Estonia
+91.193.75.5 Germany, 78.142.193.246 Germany
+109.111.243.206 Serbia, 154.83.17.155 Hong Kong
                                                                                           
 
  Mirror List                                                           
+http://KD059138007095.ppp-bb.dion.ne.jp:41359/cn/                                                           
 http://103.201.129.226:14684/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
-http://153.166.128.117:23068/cn/                                                           
-http://218.38.89.20:52189/cn/                                                           
-http://176.112.152.56:56708/cn/
+http://176.112.152.56:56708/cn/                                                           
+http://219.98.171.151:19100/cn/
