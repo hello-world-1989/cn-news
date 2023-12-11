@@ -1,0 +1,1 @@
+Petrichor 北京时间 2023-12-12T03:57:23Z 1734301373020192999<br>中国知识分子的无奈，即使做了院士，也要学习小学生思想。 https://t.co/TIr31TTJnn<br><img src='../../../../temp/image/2023/n-Month-12/1734301373020192999_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/n-Month-12/1734301373020192999_1.jpg' width='480' height='500'><br><br>
