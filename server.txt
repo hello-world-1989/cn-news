@@ -1,4 +1,4 @@
-12/14/2023, 2:25:14 AM    L2TP/IPSec, 
+12/14/2023, 3:17:16 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
@@ -14,7 +14,7 @@
  Mirror List                                                           
 http://103.201.129.226:14684/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
+http://160.86.87.105:9116/cn/                                                           
 http://176.112.152.56:56708/cn/                                                           
 http://109.111.243.206:17579/cn/                                                           
-http://59.138.248.97:54173/cn/                                                           
 http://62.133.35.246:2265/cn/
