@@ -1,4 +1,8 @@
-Petrichor 北京时间 2023-12-15T02:24:07Z 1735365063618212242<br>听说有些海外华人强烈要求所在国对中国访客采取对等的待遇，“持中华人民共和国护照的外国人在访问国任何地方居住，应当在入住后24小时内（偏远地区72小时内）向居住地的警察机关办理登记，未依规定向警察机关报送外国人住宿登记资料者，将给予警告；情节严重者，处1000美元以上5000美元以下罚款。”
+Petrichor 北京时间 2023-12-15T04:03:48Z 1735390149565898813<br>I heard that some overseas Chinese strongly demand that the host country adopts reciprocal treatment for Chinese visitors. “Foreigners holding passports of the People’s Republic of China who live anywhere in the country they are visiting should report to the resident within 24 hours after check-in (within 72 hours in remote areas). Registration with the local police agency, and those who fail to submit foreigner accommodation registration information to the police agency in accordance with regulations will be given a warning; in serious cases, a fine of not less than US$1,000 but not more than US$5,000 will be imposed.”
+
+Diplomacy should always be reciprocal, and do not do to others what you do not want others to do to you. If you don't let people use Google and browse the Internet, then foreign countries should take reciprocal measures to treat them, prohibit the CCP's foreign propaganda in any form, and file cases for review and trial of overseas propaganda personnel.
+
+No one wants to go to Xi’s country unless necessary. White people don’t dare not go, and overseas Chinese don’t dare to go either.<br><br><br>Petrichor 北京时间 2023-12-15T02:24:07Z 1735365063618212242<br>听说有些海外华人强烈要求所在国对中国访客采取对等的待遇，“持中华人民共和国护照的外国人在访问国任何地方居住，应当在入住后24小时内（偏远地区72小时内）向居住地的警察机关办理登记，未依规定向警察机关报送外国人住宿登记资料者，将给予警告；情节严重者，处1000美元以上5000美元以下罚款。”
 
 外交上理应一律对等，己所不欲，勿施于人。 你不让人用Google，看外网，那么外国应该采取对等措施待之，禁止中共任何形式的大外宣，对海外大外宣人员予以立案审查、审判。
 
