@@ -1,4 +1,10 @@
-Petrichor 北京时间 2023-12-15T04:03:48Z 1735390149565898813<br>I heard that some overseas Chinese strongly demand that the host country adopts reciprocal treatment for Chinese visitors. “Foreigners holding passports of the People’s Republic of China who live anywhere in the country they are visiting should report to the resident within 24 hours after check-in (within 72 hours in remote areas). Registration with the local police agency, and those who fail to submit foreigner accommodation registration information to the police agency in accordance with regulations will be given a warning; in serious cases, a fine of not less than US$1,000 but not more than US$5,000 will be imposed.”
+Petrichor 北京时间 2023-12-15T03:39:59Z 1735384155892937181<br>20世纪80年代，苏联军队东德276个地点有777处兵营，其中包括47个机场及116个训练场。共含24个师，33.8万名士兵，并编成五支集团军及一支航空集团军除战斗人员外，驻军外围还包括20.8万人左右的军属及社会编制人员，以及约9万名军人子女。住东德苏军有4200辆坦克，8200辆装甲车辆，3600门各型火炮，10.6万辆机动车辆，690架飞机，680架直升机以及180架火箭炮及导弹系统。
+
+柏林墙倒，东西德统一，驻德的苏军一直停留在东德境内。对于没钱的苏联来说，这30万大军明显是一块烫手山芋。这些军人回国之后如何安置？用了5年这些人才回到俄罗斯。
+
+德国主动拿出300多亿马克，将近110亿美元酬劳苏军，并在俄罗斯各地建造很多房屋提供给苏联士兵居住，德国政府为了早日送走这些大神，还贴心地派遣专业人士，对安置在德国边境地区的苏军进行工商管理、会计等专业的培训。
+
+避免他们回国之后失业，而法国、西班牙、意大利等西欧国家，也拿出了75亿美元的贷款和援助，就这样，驻德苏军在1994年年底，才全数撤离德国境内，大军整整撤离了60个月，然而等到他们回来时，苏联已经不复存在。<br><br><br>Petrichor 北京时间 2023-12-15T04:03:48Z 1735390149565898813<br>I heard that some overseas Chinese strongly demand that the host country adopts reciprocal treatment for Chinese visitors. “Foreigners holding passports of the People’s Republic of China who live anywhere in the country they are visiting should report to the resident within 24 hours after check-in (within 72 hours in remote areas). Registration with the local police agency, and those who fail to submit foreigner accommodation registration information to the police agency in accordance with regulations will be given a warning; in serious cases, a fine of not less than US$1,000 but not more than US$5,000 will be imposed.”
 
 Diplomacy should always be reciprocal, and do not do to others what you do not want others to do to you. If you don't let people use Google and browse the Internet, then foreign countries should take reciprocal measures to treat them, prohibit the CCP's foreign propaganda in any form, and file cases for review and trial of overseas propaganda personnel.
 
