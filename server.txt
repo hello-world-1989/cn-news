@@ -1,23 +1,23 @@
-12/19/2023, 7:21:06 AM    L2TP/IPSec, 
+12/19/2023, 9:28:50 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
+, 198.46.174.145 United States
 , 18.218.91.54 United States
-198.46.174.145 United States, 92.116.213.201 Germany
-153.207.126.30 Japan, 183.80.251.193 Viet Nam
-62.133.35.246 Germany, 146.70.205.2 Romania
-146.70.205.6 Romania, 45.125.0.246 Hong Kong
-103.201.129.226 Japan, 91.193.75.5 Germany
-78.142.193.246 Germany, 176.112.152.56 Estonia
-154.83.17.155 Hong Kong, 202.137.113.55 Philippines
-136.243.217.198 Germany, 109.111.243.206 Serbia
-138.201.173.225 Germany
+92.116.213.201 Germany, 153.207.126.30 Japan
+183.80.251.193 Viet Nam, 146.70.205.2 Romania
+62.133.35.246 Germany, 146.70.205.6 Romania
+103.201.129.226 Japan, 45.125.0.246 Hong Kong
+78.142.193.246 Germany, 91.193.75.5 Germany
+154.83.17.155 Hong Kong, 136.243.217.198 Germany
+176.112.152.56 Estonia, 202.137.113.55 Philippines
+109.111.243.206 Serbia, 138.201.173.225 Germany
                                                                                           
 
  Mirror List                                                           
-http://138.201.173.225:58292/cn/                                                           
+http://static.225.173.201.138.clients.your-server.de:58292/cn/                                                           
 http://103.201.129.226:14684/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
-http://softbank126153245024.bbtec.net:61798/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
-http://176.112.152.56:56708/cn/
+http://176.112.152.56:56708/cn/                                                           
+http://109.111.243.206:17579/cn/
