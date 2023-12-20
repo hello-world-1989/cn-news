@@ -1,4 +1,4 @@
-12/21/2023, 4:22:13 AM    L2TP/IPSec, 
+12/21/2023, 5:18:18 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
@@ -10,7 +10,7 @@
 78.142.193.246 Germany, 202.137.113.55 Philippines
 176.112.152.56 Estonia, 136.243.217.198 Germany
 154.83.17.155 Hong Kong, 109.111.243.206 Serbia
-138.201.173.225 Germany, 88.198.160.222 Germany
+88.198.160.222 Germany, 138.201.173.225 Germany
                                                                                           
 
  Mirror List                                                           
@@ -18,5 +18,5 @@ http://static.225.173.201.138.clients.your-server.de:58292/cn/
 http://103.201.129.226:14684/cn/                                                           
 http://146.70.205.2:6283/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
-http://176.112.152.56:56708/cn/                                                           
-http://109.111.243.206:17579/cn/
+http://211.53.87.201:12057/cn/                                                           
+http://176.112.152.56:56708/cn/
