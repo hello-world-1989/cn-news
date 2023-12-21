@@ -1,0 +1,3 @@
+Petrichor 北京时间 2023-12-22T00:14:09Z 1737869072665067767<br>两岸和平，是你主张就能实现的？吞并台湾，是中共的初心，你改变不了。所以，柯文哲不是蠢就是坏，用两岸和平，麻痹选民。
+
+ https://t.co/jgJXuk9507<br><img src='../../../../temp/video/2023/n-Month-12/d-Day-22/Jam79922967/1737869072665067767_0.jpg' width='480' height='500'><img src='../../../../temp/video/2023/n-Month-12/d-Day-22/Jam79922967/1737869072665067767_1.jpg' width='480' height='500'><img src='../../../../temp/video/2023/n-Month-12/d-Day-22/Jam79922967/1737869072665067767_2.jpg' width='480' height='500'><br><br>
