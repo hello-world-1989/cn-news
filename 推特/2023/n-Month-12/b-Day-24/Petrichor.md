@@ -1,4 +1,8 @@
-Petrichor 北京时间 2023-12-24T22:43:05Z 1738933317754310747<br>消灭私有制，是共产党的初心和目标。既然不能保护私有制的国家不可能发达和富裕，那么哪里有了共产党，哪里人民就贫穷。人民的贫穷，丝毫不影响共党官员的奢侈生活，因为全民所有制就是官员所有制，他们随意动用公款支付他们奢侈的消费，看看习近平如何请客的宴会排场就知道了。
+Petrichor 北京时间 2023-12-24T22:50:38Z 1738935218545795544<br>In a word, they deserved all the suffering they suffered.
+Leeks love sickles, slaves praise slave owners, women in chains sing human traffickers, continue on….
+Suffering is ahead, a great famine is on the way, and people are being harassed on the road, while the Cultural Revolution is taking place.
+
+Keep tossing<br><br><br>Petrichor 北京时间 2023-12-24T22:43:05Z 1738933317754310747<br>消灭私有制，是共产党的初心和目标。既然不能保护私有制的国家不可能发达和富裕，那么哪里有了共产党，哪里人民就贫穷。人民的贫穷，丝毫不影响共党官员的奢侈生活，因为全民所有制就是官员所有制，他们随意动用公款支付他们奢侈的消费，看看习近平如何请客的宴会排场就知道了。
 
 邓小平意识到百姓贫穷会引起造反而让共产党失去政权，为了延续共党政权而不得以允许个体和民营经济发展，于是经济发展迅速。习近平上台后，怕民营资本家要和共产党争话语权，赶紧搞国进民退，立竿见影，经济下行，外资撤离，富人移民海外。<br><img src='../../../../temp/video/2023/n-Month-12/b-Day-24/Jam79922967/1738933317754310747_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2023-12-24T12:35:20Z 1738780370974191761<br>前苏联政府总理雷日科夫在评价苏联冷战失败的时候，也曾经说过，“我们最大的错误，另一方面来说，则在于关键时刻低估了美国的实力，这严重损害了我们后来的内部政策回旋空间。”
 
