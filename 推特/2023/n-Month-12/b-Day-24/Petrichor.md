@@ -1,4 +1,16 @@
-Petrichor 北京时间 2023-12-24T22:50:38Z 1738935218545795544<br>In a word, they deserved all the suffering they suffered.
+Petrichor 北京时间 2023-12-24T22:48:41Z 1738934729422807394<br>一句话，他们配得上受过的所有苦难。
+韭菜爱镰刀
+奴隶颂奴隶主
+铁链女讴歌人贩子
+继续
+继续
+….
+苦难在前头
+大饥荒在路上
+人整人进行时
+文革发生中
+
+继续折腾 https://t.co/5JWakQRFsA<br><img src='../../../../temp/video/2023/n-Month-12/b-Day-24/Jam79922967/1738934729422807394_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2023-12-24T22:50:38Z 1738935218545795544<br>In a word, they deserved all the suffering they suffered.
 Leeks love sickles, slaves praise slave owners, women in chains sing human traffickers, continue on….
 Suffering is ahead, a great famine is on the way, and people are being harassed on the road, while the Cultural Revolution is taking place.
 
