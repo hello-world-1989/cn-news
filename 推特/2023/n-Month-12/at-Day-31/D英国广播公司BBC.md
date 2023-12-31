@@ -1,1 +1,3 @@
-D英国广播公司BBC 北京时间 2023-12-31T15:27:51Z 1741360502108746139<br>俄罗斯称一边境城市遭乌克兰空袭致20死包括三名儿童 https://t.co/YmkPdMsSzV<br><br><br>
+D英国广播公司BBC 北京时间 2023-12-31T20:35:43Z 1741437980752105959<br>过去的12个月可以说是流行音乐和电影业“女性赋权”的一年。收入最高的两场巡回演唱会分别是泰勒·斯威夫特（Taylor Swift）的《Eras》和碧昂斯（Beyoncé）的《Renaissance》。
+
+票房最高的电影是由女性导演执导的《芭比》（Barbie）。她们的成功意味着什么？ https://t.co/hul098vNaU<br><img src='../../../../temp/video/2023/n-Month-12/at-Day-31/bbcchinese/1741437980752105959_0.jpg' width='480' height='500'><br><br>D英国广播公司BBC 北京时间 2023-12-31T15:27:51Z 1741360502108746139<br>俄罗斯称一边境城市遭乌克兰空袭致20死包括三名儿童 https://t.co/YmkPdMsSzV<br><br><br>
