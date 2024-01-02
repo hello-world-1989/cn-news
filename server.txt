@@ -1,16 +1,15 @@
-1/2/2024, 1:23:38 PM    L2TP/IPSec, 
+1/2/2024, 2:26:36 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-198.46.174.145 United States, 
-153.207.126.30 Japan, 
+198.46.174.145 United States, 153.207.126.30 Japan
 119.201.4.69 Korea, 146.70.205.2 Romania
-62.133.35.246 Germany, 176.112.152.56 Estonia
-146.70.205.6 Romania, 45.125.0.246 Hong Kong
-91.193.75.5 Germany, 103.201.129.226 Japan
+62.133.35.246 Germany, 146.70.205.6 Romania
+45.125.0.246 Hong Kong, 176.112.152.56 Estonia
+103.201.129.226 Japan, 91.193.75.5 Germany
 78.142.193.246 Germany, 185.110.188.4 Armenia
-109.111.243.206 Serbia, 154.83.17.155 Hong Kong
-202.137.113.55 Philippines, 166.88.35.139 Malaysia
+154.83.17.155 Hong Kong, 202.137.113.55 Philippines
+109.111.243.206 Serbia, 166.88.35.139 Malaysia
                                                                                           
 
  Mirror List                                                           
