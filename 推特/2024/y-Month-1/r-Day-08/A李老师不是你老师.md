@@ -1,0 +1,2 @@
+A李老师不是你老师 北京时间 2024-01-08T02:53:33Z 1744069781953654988<br>1月7日，广东深圳前海天境小区业主维权。
+业主们指责开发商偷工减料，公区未完工就强行交楼。 https://t.co/rxmDAWqNvo<br><img src='../../../../temp/video/2024/y-Month-1/r-Day-08/whyyoutouzhele/1744069781953654988_0.jpg' width='480' height='500'><br><br>
