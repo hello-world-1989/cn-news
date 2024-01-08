@@ -1,13 +1,13 @@
-1/8/2024, 3:19:50 PM    L2TP/IPSec, 
+1/8/2024, 4:26:54 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
 180.1.45.103 Japan, 173.198.248.39 United States
-198.46.174.145 Canada, 62.133.35.246 Germany
-45.125.0.246 Hong Kong, 103.201.129.226 Japan
-91.193.75.5 Germany, 78.142.193.246 Germany
-109.111.243.206 Serbia, 154.83.17.155 Hong Kong
-202.137.113.55 Philippines, 34.39.130.111 United States
+34.39.130.111 United States, 198.46.174.145 Canada
+62.133.35.246 Germany, 103.201.129.226 Japan
+45.125.0.246 Hong Kong, 91.193.75.5 Germany
+78.142.193.246 Germany, 154.83.17.155 Hong Kong
+109.111.243.206 Serbia, 202.137.113.55 Philippines
                                                                                           
 
  Mirror List                                                           
