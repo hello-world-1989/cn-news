@@ -1,4 +1,10 @@
-Petrichor 北京时间 2024-01-12T05:47:24Z 1745563081889960169<br>不看不知道，一看吓一跳。
+Petrichor 北京时间 2024-01-12T05:39:02Z 1745560978870169703<br>中共有诚信？遵守契约？
+香港制度50年不变？
+中国加入世贸兑现承诺？
+计划生育政府养老？
+中共得政权后实习美国式三权分立的政治制度？
+
+呵呵 https://t.co/Red8xe8zDm<br><img src='../../../../temp/image/2024/y-Month-1/1745560978870169703_0.jpg' width='480' height='500'><img src='../../../../temp/image/2024/y-Month-1/1745560978870169703_1.jpg' width='480' height='500'><img src='../../../../temp/image/2024/y-Month-1/1745560978870169703_2.jpg' width='480' height='500'><img src='../../../../temp/image/2024/y-Month-1/1745560978870169703_3.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2024-01-12T05:47:24Z 1745563081889960169<br>不看不知道，一看吓一跳。
 中国艾滋病患者这么多？
 2010年开始中国消灭艾滋病患者入境限制。 https://t.co/VyiYhz2Gs6<br><img src='../../../../temp/image/2024/y-Month-1/1745563081889960169_0.jpg' width='480' height='500'><img src='../../../../temp/image/2024/y-Month-1/1745563081889960169_1.jpg' width='480' height='500'><img src='../../../../temp/image/2024/y-Month-1/1745563081889960169_2.jpg' width='480' height='500'><img src='../../../../temp/image/2024/y-Month-1/1745563081889960169_3.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2024-01-12T05:57:25Z 1745565604763849194<br>中国高干，吃特供的食品，对他们的食品安全国家监管力度全球最强。
 
