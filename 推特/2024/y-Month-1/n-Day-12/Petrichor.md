@@ -1,1 +1,3 @@
-Petrichor 北京时间 2024-01-12T06:15:49Z 1745570233555816640<br>我也不理解。袭击民用商船，是典型的恐怖活动，中国为什么不反对？ https://t.co/RH30JOXNkv<br><img src='../../../../temp/image/2024/y-Month-1/1745570233555816640_0.jpg' width='480' height='500'><br><br>
+Petrichor 北京时间 2024-01-12T06:04:55Z 1745567491273728477<br>中国大陆何时有这样选举活动，那时候才能选举出人才出来。
+
+ https://t.co/zPxCqX7vIU<br><img src='../../../../temp/video/2024/y-Month-1/n-Day-12/Jam79922967/1745567491273728477_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2024-01-12T06:15:49Z 1745570233555816640<br>我也不理解。袭击民用商船，是典型的恐怖活动，中国为什么不反对？ https://t.co/RH30JOXNkv<br><img src='../../../../temp/image/2024/y-Month-1/1745570233555816640_0.jpg' width='480' height='500'><br><br>
