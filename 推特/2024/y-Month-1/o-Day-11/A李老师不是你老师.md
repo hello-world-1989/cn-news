@@ -1,0 +1,3 @@
+A李老师不是你老师 北京时间 2024-01-11T16:20:53Z 1745360115467686109<br>1月11日，南京师范大学校园发生车祸
+一名女生在过马路时遭遇车辆拦腰碾压。
+之后学校官方大面积删帖并称受伤同学没有危险，引发学生们的不满 https://t.co/zyZwqTArDd<br><img src='../../../../temp/image/2024/y-Month-1/1745360115467686109_0.jpg' width='480' height='500'><img src='../../../../temp/image/2024/y-Month-1/1745360115467686109_1.jpg' width='480' height='500'><img src='../../../../temp/image/2024/y-Month-1/1745360115467686109_2.jpg' width='480' height='500'><img src='../../../../temp/image/2024/y-Month-1/1745360115467686109_3.jpg' width='480' height='500'><br><br>
