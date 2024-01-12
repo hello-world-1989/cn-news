@@ -1,4 +1,4 @@
-1/13/2024, 2:26:17 AM    L2TP/IPSec, 
+1/13/2024, 3:17:02 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
