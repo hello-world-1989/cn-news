@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2024-01-19T10:25:08Z 1748169693171421448<br>在博茨瓦纳梅科罗河上，一名女撑船人正在重塑传统的水上划船（mekoro poling）景观。她除了带领游客领略独特的野生动物之外，还在挑战陈规陋习，引导变革。 https://t.co/qUJBzYPGXy<br><img src='../../../../temp/video/2024/y-Month-1/g-Day-19/bbcchinese/1748169693171421448_0.jpg' width='480' height='500'><br><br>
