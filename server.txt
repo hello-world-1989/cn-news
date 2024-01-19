@@ -1,16 +1,15 @@
-1/19/2024, 2:27:28 PM    L2TP/IPSec, 
+1/19/2024, 3:19:38 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
 , 104.234.140.167 United States
 , 153.227.66.129 Japan
 , 173.198.248.39 United States
-, 165.73.28.219 South Africa
 62.133.35.246 Germany, 146.70.205.6 Romania
-103.201.129.226 Japan, 45.125.0.246 Hong Kong
-91.193.75.5 Germany, 78.142.193.246 Germany
-202.137.113.55 Philippines, 91.249.203.112 Germany
-109.111.243.206 Serbia
+103.201.129.226 Japan, 91.193.75.5 Germany
+45.125.0.246 Hong Kong, 78.142.193.246 Germany
+202.137.113.55 Philippines, 165.73.28.219 South Africa
+91.249.203.112 Germany, 109.111.243.206 Serbia
                                                                                           
 
  Mirror List                                                           
@@ -18,5 +17,5 @@ http://103.201.129.226:14684/cn/
 http://146.70.205.6:34299/cn/                                                           
 http://62.133.35.246:2265/cn/                                                           
 http://109.111.243.206:17579/cn/                                                           
-http://v-dot-pn-ams1.opengw.net:33304/cn/                                                           
+http://78.142.193.246:33304/cn/                                                           
 http://173.198.248.39:18358/cn/
