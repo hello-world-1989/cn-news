@@ -1,4 +1,4 @@
-1/24/2024, 4:22:47 AM    L2TP/IPSec, 
+1/24/2024, 5:19:12 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
@@ -15,6 +15,6 @@
 http://103.201.129.226:14684/cn/                                                           
 http://109.111.243.206:17579/cn/                                                           
 http://62.133.35.246:2265/cn/                                                           
-http://78.142.193.246:33304/cn/                                                           
-http://173-198-248-39.static.as40244.net:18358/cn/                                                           
+http://v-dot-pn-ams1.opengw.net:33304/cn/                                                           
+http://173.198.248.39:18358/cn/                                                           
 http://91.193.75.5:45082/cn/
