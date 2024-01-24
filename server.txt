@@ -1,12 +1,12 @@
-1/24/2024, 10:24:39 PM    L2TP/IPSec, 
+1/24/2024, 11:23:53 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-173.198.248.39 United States, 
-, 165.73.28.219 South Africa
+, 173.198.248.39 United States
+165.73.28.219 South Africa, 
 153.228.42.218 Japan, 222.110.142.157 Korea
 62.133.35.246 Germany, 45.125.0.246 Hong Kong
-91.193.75.5 Germany, 78.142.193.246 Germany
+78.142.193.246 Germany, 91.193.75.5 Germany
 109.111.243.206 Serbia, 202.137.113.55 Philippines
 185.66.91.247 Ukraine, 222.255.11.117 Viet Nam
                                                                                           
@@ -17,4 +17,4 @@ http://62.133.35.246:2265/cn/
 http://78.142.193.246:33304/cn/                                                           
 http://173-198-248-39.static.as40244.net:18358/cn/                                                           
 http://91.193.75.5:45082/cn/                                                           
-http://126.58.212.66:63133/cn/
+http://119.197.55.163:12581/cn/
