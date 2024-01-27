@@ -1,4 +1,4 @@
-Petrichor 北京时间 2024-01-27T13:18:32Z 1751112431726625079<br>首长与战士 https://t.co/Vfdqsg0gMJ<br><img src='../../../../temp/image/2024/y-Month-1/1751112431726625079_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2024-01-27T10:30:30Z 1751070144137146757<br>要不是穷，谁卖血？这是第一个问题。
+Petrichor 北京时间 2024-01-27T02:35:51Z 1750950694390050868<br>What country is this? Are rescue workers on duty without formal training? And it’s a rescue worker. This is a waste of human life!<br><br><br>Petrichor 北京时间 2024-01-27T13:18:32Z 1751112431726625079<br>首长与战士 https://t.co/Vfdqsg0gMJ<br><img src='../../../../temp/image/2024/y-Month-1/1751112431726625079_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2024-01-27T10:30:30Z 1751070144137146757<br>要不是穷，谁卖血？这是第一个问题。
 要不支付钱，谁会献血？这是第二个问题。
 这两个问题都发生在中国。
 而在世界上其他国家，献血都是无偿的，是人道主义的象征。 https://t.co/MVqGq8GZCE<br><img src='../../../../temp/video/2024/y-Month-1/ax-Day-27/Jam79922967/1751070144137146757_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2024-01-27T10:39:50Z 1751072491810787636<br>加拿大保守派报纸《多伦多太阳报》曾刊登该报创办人彼得．沃辛顿（Peter Worthington）的文章，“如果白求恩活着，他会为自己一再被（中共）人利用而暴怒。”
