@@ -1,4 +1,4 @@
-1/29/2024, 9:22:57 PM    L2TP/IPSec, 
+1/29/2024, 10:21:51 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
@@ -7,7 +7,7 @@
 146.70.205.6 Romania, 45.125.0.246 Hong Kong
 91.193.75.5 Germany, 103.201.129.226 Japan
 78.142.193.246 Germany, 185.66.91.247 Ukraine
-202.137.113.55 Philippines, 222.255.11.117 Viet Nam
+222.255.11.117 Viet Nam, 202.137.113.55 Philippines
 109.111.243.206 Serbia, 165.73.28.219 South Africa
                                                                                           
 
