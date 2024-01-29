@@ -1,4 +1,4 @@
-1/29/2024, 10:25:32 AM    L2TP/IPSec, 
+1/29/2024, 11:20:54 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
@@ -12,8 +12,8 @@
 
  Mirror List                                                           
 http://103.201.129.226:14684/cn/                                                           
-http://122.152.62.154:52572/cn/                                                           
 http://109.111.243.206:17579/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
 http://62.133.35.246:2265/cn/                                                           
-http://p7635136-ipngn36201marunouchi.tokyo.ocn.ne.jp:10813/cn/
+http://v-dot-pn-ams1.opengw.net:33304/cn/                                                           
+http://173.198.248.39:18358/cn/
