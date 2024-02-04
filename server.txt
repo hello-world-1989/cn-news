@@ -1,12 +1,12 @@
-2/5/2024, 12:23:34 AM    L2TP/IPSec, 
+2/5/2024, 1:20:47 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
 81.28.4.185 United States, 173.198.248.39 United States
 165.73.28.219 South Africa, 121.162.73.225 Korea
 62.133.35.246 Germany, 146.70.205.6 Romania
-45.125.0.246 Hong Kong, 202.137.113.55 Philippines
-91.193.75.5 Germany, 78.142.193.246 Germany
+45.125.0.246 Hong Kong, 78.142.193.246 Germany
+91.193.75.5 Germany, 202.137.113.55 Philippines
 185.66.91.247 Ukraine
                                                                                           
 
