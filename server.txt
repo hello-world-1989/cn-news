@@ -1,18 +1,18 @@
-2/5/2024, 6:26:42 PM    L2TP/IPSec, 
+2/5/2024, 7:17:09 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
 , 81.28.4.185 United States
 180.1.61.182 Japan, 62.133.35.246 Germany
-103.201.129.226 Japan, 146.70.205.6 Romania
+146.70.205.6 Romania, 103.201.129.226 Japan
 91.193.75.5 Germany, 202.137.113.55 Philippines
 185.66.91.247 Ukraine
                                                                                           
 
  Mirror List                                                           
 http://103.201.129.226:14684/cn/                                                           
-http://153.178.178.111:17355/cn/                                                           
 http://146.70.205.6:34299/cn/                                                           
 http://62.133.35.246:2265/cn/                                                           
 http://91.193.75.5:45082/cn/                                                           
+http://218.145.181.197:28035/cn/                                                           
 http://185.66.91.247:53862/cn/
