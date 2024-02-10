@@ -1,0 +1,3 @@
+Ivy未央 北京时间 2024-02-10T08:18:16Z 1756110297092280562<br>洗脑欺骗 盘点中共制造的假“英雄”：雷锋、董存瑞、邱少云
+中共谎言治国到几时？
+除习快乐各位X友🎉🎉🎉 https://t.co/op361tMNuP<br><img src='../../../../temp/image/2024/x-Month-2/1756110297092280562_0.jpg' width='480' height='500'><img src='../../../../temp/image/2024/x-Month-2/1756110297092280562_1.jpg' width='480' height='500'><img src='../../../../temp/image/2024/x-Month-2/1756110297092280562_2.jpg' width='480' height='500'><img src='../../../../temp/image/2024/x-Month-2/1756110297092280562_3.jpg' width='480' height='500'><br><br>
