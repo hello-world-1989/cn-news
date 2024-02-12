@@ -1,22 +1,8 @@
-2/13/2024, 6:28:28 AM    L2TP/IPSec, 
+2/13/2024, 6:58:43 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise], [object Promise]
-[object Promise]
+180.1.61.182 Japan, 109.111.243.206 Serbia
                                                                                           
 
  Mirror List                                                           
