@@ -1,0 +1,1 @@
+D英国广播公司BBC 北京时间 2024-02-12T09:00:01Z 1756845581597626820<br>随着龙年的到来，全球各地的华人都举办了盛大的活动，辞旧迎新。🐉 https://t.co/I7BoAOcYnj<br><img src='../../../../temp/video/2024/x-Month-2/n-Day-12/bbcchinese/1756845581597626820_0.jpg' width='480' height='500'><br><br>
