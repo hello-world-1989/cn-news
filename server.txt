@@ -1,4 +1,4 @@
-2/14/2024, 9:03:08 AM    L2TP/IPSec, 
+2/14/2024, 9:24:53 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
@@ -6,4 +6,3 @@
                                                                                           
 
  Mirror List                                                           
-http://ccnetptb.64.63.106.36.nns.ne.jp:17660/cn/
