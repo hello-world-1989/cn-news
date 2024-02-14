@@ -1,4 +1,4 @@
-2/14/2024, 2:30:05 PM    L2TP/IPSec, 
+2/14/2024, 4:20:13 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
@@ -6,4 +6,5 @@
                                                                                           
 
  Mirror List                                                           
-http://1.242.49.173:24359/cn/
+http://58.183.134.144:39168/cn/                                                           
+http://180-199-177-100.dz.commufa.jp:29041/cn/
