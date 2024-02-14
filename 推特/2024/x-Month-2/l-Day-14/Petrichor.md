@@ -1,4 +1,4 @@
-Petrichor 北京时间 2024-02-14T10:09:19Z 1757587797085454689<br>Don't touch it. Stop touching it. ….. Stop touching it. https://t.co/BiSSoAKtEO<br><img src='../../../../temp/video/2024/x-Month-2/l-Day-14/Jam79922967/1757587797085454689_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2024-02-14T07:27:46Z 1757547139473797407<br>昨天（2月7日，周三）上午，美国联邦调查局大批警察包围了洛杉矶华人聚居的柔似密（Rosemead）几处民宅，搜出大量冰毒，大批华人被要求坐在民宅外的空地上等待调查。其中5人已经被捕。
+Petrichor 北京时间 2024-02-14T09:57:32Z 1757584830785569276<br>人民警察爱人民 https://t.co/JQIqMphlIn<br><img src='../../../../temp/video/2024/x-Month-2/l-Day-14/Jam79922967/1757584830785569276_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2024-02-14T10:09:19Z 1757587797085454689<br>Don't touch it. Stop touching it. ….. Stop touching it. https://t.co/BiSSoAKtEO<br><img src='../../../../temp/video/2024/x-Month-2/l-Day-14/Jam79922967/1757587797085454689_0.jpg' width='480' height='500'><br><br>Petrichor 北京时间 2024-02-14T07:27:46Z 1757547139473797407<br>昨天（2月7日，周三）上午，美国联邦调查局大批警察包围了洛杉矶华人聚居的柔似密（Rosemead）几处民宅，搜出大量冰毒，大批华人被要求坐在民宅外的空地上等待调查。其中5人已经被捕。
 陈阳强（Yangqiang Chen，音译），45 岁，家住蒙特利公园市
 陈杰（Jie Chen，音译），40 岁，家住柔似密
 陈美美（MeiMei Chen，音译），41 岁，家住柔似密
