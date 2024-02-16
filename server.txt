@@ -1,9 +1,9 @@
-2/16/2024, 9:55:42 AM    L2TP/IPSec, 
+2/16/2024, 2:30:28 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-109.111.243.206 Serbia
+180.1.61.182 Japan, 109.111.243.206 Serbia
                                                                                           
 
  Mirror List                                                           
-http://126.123.63.242:46670/cn/
+http://static.113.41.55.162.clients.your-server.de:51370/cn/
