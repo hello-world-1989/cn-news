@@ -1,4 +1,4 @@
-2/16/2024, 4:32:38 PM    L2TP/IPSec, 
+2/16/2024, 4:43:30 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
@@ -6,5 +6,4 @@
                                                                                           
 
  Mirror List                                                           
-http://1.231.153.173:56221/cn/                                                           
-http://pl18759.ag1313.nttpc.ne.jp:2734/cn/
+http://static.113.41.55.162.clients.your-server.de:51370/cn/
