@@ -1,0 +1,2 @@
+A李老师不是你老师 北京时间 2024-02-19T00:15:01Z 1759250172456911096<br>2月18日，湖南省委下发通知，在全省开展解放思想大讨论。
+随后有网友发现，微博上相关评论区出现大量IP为湖南的水军 https://t.co/QMVD2FUdLe<br><img src='../../../../temp/image/2024/x-Month-2/1759250172456911096_0.jpg' width='480' height='500'><img src='../../../../temp/image/2024/x-Month-2/1759250172456911096_1.jpg' width='480' height='500'><img src='../../../../temp/image/2024/x-Month-2/1759250172456911096_2.jpg' width='480' height='500'><img src='../../../../temp/image/2024/x-Month-2/1759250172456911096_3.jpg' width='480' height='500'><br><br>
