@@ -1,9 +1,9 @@
-2/19/2024, 12:35:44 AM    L2TP/IPSec, 
+2/19/2024, 12:45:25 AM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-109.111.243.206 Serbia
+180.1.61.182 Japan, 109.111.243.206 Serbia
                                                                                           
 
  Mirror List                                                           
-http://KD027095087218.ppp-bb.dion.ne.jp:44581/cn/
+http://220.87.22.221:52859/cn/
