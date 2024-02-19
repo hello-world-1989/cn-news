@@ -1,8 +1,8 @@
-2/19/2024, 5:11:37 PM    L2TP/IPSec, 
+2/19/2024, 5:30:07 PM    L2TP/IPSec, 
  username: vpn, password: vpn, pre-shared key: vpn         
 
                                                                                           
-109.111.243.206 Serbia
+
                                                                                           
 
  Mirror List                                                           
