@@ -1,1 +1,4 @@
-Ivy未央 北京时间 2024-02-19T10:20:24Z 1759402525319471291<br>中共贪官情色奇葩榜，玩弄女人的花样超乎你的想象https://t.co/CGunhKlIGl https://t.co/IXmSbUDeg2<br><img src='../../../../temp/image/2024/x-Month-2/1759402525319471291_0.jpg' width='480' height='500'><br><br>
+Ivy未央 北京时间 2024-02-19T11:31:18Z 1759420367288885407<br>RT @Ivy01011: 对日本，他们说忘记历史等于背叛；
+对苏俄，他们说纠缠历史没有意义...
+
+海兰泡惨案，江东六十四屯惨案，史称“庚子俄难”，上万中国人被屠杀。海参崴超过20万华人全被杀光。中国人知之甚少。 https://t.co/EyNfBGo9yu<br><img src='../../../../temp/video/2024/x-Month-2/g-Day-19/Ivy01011/1759420367288885407_0.jpg' width='480' height='500'><br><br>Ivy未央 北京时间 2024-02-19T10:20:24Z 1759402525319471291<br>中共贪官情色奇葩榜，玩弄女人的花样超乎你的想象https://t.co/CGunhKlIGl https://t.co/IXmSbUDeg2<br><img src='../../../../temp/image/2024/x-Month-2/1759402525319471291_0.jpg' width='480' height='500'><br><br>
