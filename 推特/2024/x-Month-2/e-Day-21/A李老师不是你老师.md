@@ -1,0 +1,1 @@
+A李老师不是你老师 北京时间 2024-02-21T03:33:36Z 1760024926709527010<br>21日凌晨，网传宿迁市第一人民医院门诊大厅顶棚坍塌 https://t.co/htoCoMz3QX<br><img src='../../../../temp/video/2024/x-Month-2/e-Day-21/whyyoutouzhele/1760024926709527010_0.jpg' width='480' height='500'><br><br>
