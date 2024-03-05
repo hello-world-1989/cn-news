@@ -1,4 +1,7 @@
-A李老师不是你老师 北京时间 2023-11-03 04:13:12 1720172227444748528<br>NYU
+A李老师不是你老师 北京时间 2023-11-03 04:08:04 1720170934802235711<br>四川成都，四川科技馆
+Simon Fraser University
+京杭大运河
+西南交大 https://t.co/npOwfVHX76<br><img src='../../../../temp/image/2023/o-Month-11/1720170934802235711_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1720170934802235711_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1720170934802235711_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1720170934802235711_3.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-11-03 04:13:12 1720172227444748528<br>NYU
 爱尔兰梅努斯圣帕特里克学院
 上海宋教仁墓
 杭州 https://t.co/Sdx28Mfeh5<br><img src='../../../../temp/image/2023/o-Month-11/1720172227444748528_0.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1720172227444748528_1.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1720172227444748528_2.jpg' width='480' height='500'><img src='../../../../temp/image/2023/o-Month-11/1720172227444748528_3.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2023-11-03 04:18:40 1720173602807427363<br>深圳北大汇丰商学院
