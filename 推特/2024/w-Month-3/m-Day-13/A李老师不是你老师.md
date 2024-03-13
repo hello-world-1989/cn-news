@@ -1,1 +1,2 @@
-A李老师不是你老师 北京时间 2024-03-13 09:06:58 1767718965432734186<br>https://t.co/STAlR1Ryou<br><img src='../../../../temp/video/2024/w-Month-3/m-Day-13/whyyoutouzhele/1767718965432734186_0.jpg' width='480' height='500'><br><br>
+A李老师不是你老师 北京时间 2024-03-13 09:04:32 1767718350782652782<br>事发地点
+从视频中看，疑似为一建筑内的天然气泄露引发爆炸 https://t.co/8MbQG9wzWb<br><img src='../../../../temp/image/2024/w-Month-3/1767718350782652782_0.jpg' width='480' height='500'><img src='../../../../temp/image/2024/w-Month-3/1767718350782652782_1.jpg' width='480' height='500'><br><br>A李老师不是你老师 北京时间 2024-03-13 09:06:58 1767718965432734186<br>https://t.co/STAlR1Ryou<br><img src='../../../../temp/video/2024/w-Month-3/m-Day-13/whyyoutouzhele/1767718965432734186_0.jpg' width='480' height='500'><br><br>
