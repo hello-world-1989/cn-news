@@ -1,6 +1,5 @@
 2024-06-28
 Mirror List
 http://109.111.243.206:17579/cn/
+http://v160-251-62-107.41z4.static.cnode.io:46080/cn/
 http://62.133.35.246:2265/cn/
-http://KD036013237004.ppp-bb.dion.ne.jp:42086/cn/
-http://78.142.193.246:33304/cn/
