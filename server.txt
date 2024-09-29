@@ -1,4 +1,6 @@
 2024-09-29
 Mirror List
-http://210.234.9.2:37912/cn/
-http://41.185.97.70:62056/cn/
+http://124.154.86.121:25500/cn/
+http://14.3.90.157:31896/cn/
+http://thi201-nix08.hostserv.co.za:62056/cn/
+http://v160-251-62-107.41z4.static.cnode.io:46080/cn/
