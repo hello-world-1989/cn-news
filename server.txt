@@ -1,4 +1,6 @@
 2024-10-01
 Mirror List
 http://216.73.158.38:29744/cn/
+http://fp5ccbe9b5.knge335.ap.nuro.jp:36573/cn/
+http://41.185.97.70:62056/cn/
 http://222.255.11.117:54621/cn/
