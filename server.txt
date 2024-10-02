@@ -1,6 +1,5 @@
-2024-10-01
+2024-10-02
 Mirror List
 http://216.73.158.38:29744/cn/
-http://fp5ccbe9b5.knge335.ap.nuro.jp:36573/cn/
-http://41.185.97.70:62056/cn/
-http://222.255.11.117:54621/cn/
+http://fpa056c11a.oski707.ap.nuro.jp:10194/cn/
+http://thi201-nix08.hostserv.co.za:62056/cn/
