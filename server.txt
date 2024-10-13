@@ -1,7 +1,7 @@
 2024-10-13
 Mirror List
-http://41.185.97.70:62056/cn/
+http://222.255.11.117:54621/cn/
+http://thi201-nix08.hostserv.co.za:62056/cn/
 http://193.218.118.192:55490/cn/
-http://v160-251-62-107.41z4.static.cnode.io:46080/cn/
+http://160.251.62.107:46080/cn/
 http://193.218.118.170:62563/cn/
-http://softbank126071000050.bbtec.net:11924/cn/
