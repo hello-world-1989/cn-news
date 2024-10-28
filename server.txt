@@ -1,7 +1,5 @@
 2024-10-28
 Mirror List
-http://softbank060147003093.bbtec.net:30890/cn/
-http://fp76edd6a0.ap.nuro.jp:50245/cn/
-http://119.230.37.224:15491/cn/
-http://softbank126023195153.bbtec.net:31357/cn/
 http://193.218.118.170:62563/cn/
+http://219.94.251.58:28783/cn/
+http://218.152.174.85:26234/cn/
