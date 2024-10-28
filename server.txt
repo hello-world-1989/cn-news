@@ -1,5 +1,7 @@
 2024-10-28
 Mirror List
-http://220.121.210.79:58633/cn/
-http://115.162.121.207:11192/cn/
-http://46.250.254.192:15258/cn/
+http://softbank060147003093.bbtec.net:30890/cn/
+http://fp76edd6a0.ap.nuro.jp:50245/cn/
+http://119.230.37.224:15491/cn/
+http://softbank126023195153.bbtec.net:31357/cn/
+http://193.218.118.170:62563/cn/
