@@ -1,7 +1,6 @@
 2024-11-01
 Mirror List
-http://p4318217-ipxg12801sapodori.hokkaido.ocn.ne.jp:53633/cn/
+http://softbank221105250027.bbtec.net:3966/cn/
 http://219.94.251.58:28783/cn/
-http://193.218.118.170:62563/cn/
-http://113.148.121.15:2601/cn/
+http://110.54.90.81:10468/cn/
 http://162.254.224.221:30101/cn/
