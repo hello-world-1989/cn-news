@@ -1,3 +1,4 @@
 2024-12-07
 Mirror List
-http://211.38.24.100:2370/cn/
+http://39.119.124.179:53727/cn/
+http://softbank060132229163.bbtec.net:31419/cn/
