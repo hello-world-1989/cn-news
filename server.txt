@@ -1,3 +1,4 @@
 2024-12-16
 Mirror List
-http://softbank060131223013.bbtec.net:46380/cn/
+http://14.138.226.235:47444/cn/
+http://FL1-118-109-229-232.hkd.mesh.ad.jp:2696/cn/
