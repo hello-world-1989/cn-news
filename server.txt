@@ -1,4 +1,3 @@
 2024-12-24
 Mirror List
-http://p9693dd7c.tokynt01.ap.so-net.ne.jp:49993/cn/
-http://58.95.181.112:62653/cn/
+http://58.87.164.191:22487/cn/
