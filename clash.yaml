@@ -5,11 +5,11 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: end-gfw.com, server: 54.199.8.75, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
+  - {name: end-gfw.com, server: 54.249.10.120, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
   - {name: end-gfw.com 2, server: 13.124.132.103, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
-  - {name: end-gfw.com 3, server: 54.199.8.75, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
+  - {name: end-gfw.com 3, server: 54.249.10.120, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
   - {name: end-gfw.com 4, server: 13.124.132.103, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
-  - {name: end-gfw.com 5, server: 54.199.8.75, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
+  - {name: end-gfw.com 5, server: 54.249.10.120, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
   - {name: end-gfw.com 6, server: 13.124.132.103, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
 proxy-groups:
   - name: 🔰 节点选择
@@ -221,24 +221,24 @@ rules:
   - DOMAIN,bdtj.tagtic.cn,🎯 全球直连
   - DOMAIN,log.mmstat.com,🎯 全球直连
   - DOMAIN,sycm.mmstat.com,🎯 全球直连
-  - DOMAIN-SUFFIX,blog.google,🎯 全球直连
-  - DOMAIN-SUFFIX,googletraveladservices.com,🎯 全球直连
-  - DOMAIN,clientservices.googleapis.com,🎯 全球直连
-  - DOMAIN,dl.google.com,🎯 全球直连
-  - DOMAIN,dl.l.google.com,🎯 全球直连
-  - DOMAIN,update.googleapis.com,🎯 全球直连
-  - DOMAIN,translate.googleapis.com,🎯 全球直连
-  - DOMAIN,fonts.googleapis.com,🎯 全球直连
-  - DOMAIN,fonts.gstatic.com,🎯 全球直连
-  - DOMAIN,mtalk.google.com,🎯 全球直连
-  - DOMAIN,alt1-mtalk.google.com,🎯 全球直连
-  - DOMAIN,alt2-mtalk.google.com,🎯 全球直连
-  - DOMAIN,alt3-mtalk.google.com,🎯 全球直连
-  - DOMAIN,alt4-mtalk.google.com,🎯 全球直连
-  - DOMAIN,alt5-mtalk.google.com,🎯 全球直连
-  - DOMAIN,alt6-mtalk.google.com,🎯 全球直连
-  - DOMAIN,alt7-mtalk.google.com,🎯 全球直连
-  - DOMAIN,alt8-mtalk.google.com,🎯 全球直连
+  - DOMAIN-SUFFIX,blog.google,🔰 节点选择
+  - DOMAIN-SUFFIX,googletraveladservices.com,🔰 节点选择
+  - DOMAIN,clientservices.googleapis.com,🔰 节点选择
+  - DOMAIN,dl.google.com,🔰 节点选择
+  - DOMAIN,dl.l.google.com,🔰 节点选择
+  - DOMAIN,update.googleapis.com,🔰 节点选择
+  - DOMAIN,translate.googleapis.com,🔰 节点选择
+  - DOMAIN,fonts.googleapis.com,🔰 节点选择
+  - DOMAIN,fonts.gstatic.com,🔰 节点选择
+  - DOMAIN,mtalk.google.com,🔰 节点选择
+  - DOMAIN,alt1-mtalk.google.com,🔰 节点选择
+  - DOMAIN,alt2-mtalk.google.com,🔰 节点选择
+  - DOMAIN,alt3-mtalk.google.com,🔰 节点选择
+  - DOMAIN,alt4-mtalk.google.com,🔰 节点选择
+  - DOMAIN,alt5-mtalk.google.com,🔰 节点选择
+  - DOMAIN,alt6-mtalk.google.com,🔰 节点选择
+  - DOMAIN,alt7-mtalk.google.com,🔰 节点选择
+  - DOMAIN,alt8-mtalk.google.com,🔰 节点选择
   - DOMAIN,pubads.g.doubleclick.net,🎯 全球直连
   - DOMAIN,fairplay.l.qq.com,🎯 全球直连
   - DOMAIN,livew.l.qq.com,🎯 全球直连
