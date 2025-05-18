@@ -7,13 +7,16 @@ external-controller: 127.0.0.1:9090
 proxies:
   - {name: end-gfw.com@jp89, server: 52.194.249.32, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
   - {name: end-gfw.com@kr64, server: 54.180.244.62, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
+  - {name: end-gfw.com@us19, server: 44.245.100.75, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
   - {name: end-gfw.com@sg64, server: 13.212.35.187, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
   - {name: end-gfw.com, server: 52.194.249.32, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
   - {name: end-gfw.com 2, server: 54.180.244.62, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
-  - {name: end-gfw.com 3, server: 13.212.35.187, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
-  - {name: end-gfw.com 4, server: 52.194.249.32, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
-  - {name: end-gfw.com 5, server: 54.180.244.62, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
-  - {name: end-gfw.com 6, server: 13.212.35.187, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
+  - {name: end-gfw.com 3, server: 44.245.100.75, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
+  - {name: end-gfw.com 4, server: 13.212.35.187, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
+  - {name: end-gfw.com 5, server: 52.194.249.32, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
+  - {name: end-gfw.com 6, server: 54.180.244.62, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
+  - {name: end-gfw.com 7, server: 44.245.100.75, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
+  - {name: end-gfw.com 8, server: 13.212.35.187, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -22,6 +25,7 @@ proxy-groups:
       - 🎯 全球直连
       - end-gfw.com@jp89
       - end-gfw.com@kr64
+      - end-gfw.com@us19
       - end-gfw.com@sg64
       - end-gfw.com
       - end-gfw.com 2
@@ -29,6 +33,8 @@ proxy-groups:
       - end-gfw.com 4
       - end-gfw.com 5
       - end-gfw.com 6
+      - end-gfw.com 7
+      - end-gfw.com 8
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -36,6 +42,7 @@ proxy-groups:
     proxies:
       - end-gfw.com@jp89
       - end-gfw.com@kr64
+      - end-gfw.com@us19
       - end-gfw.com@sg64
       - end-gfw.com
       - end-gfw.com 2
@@ -43,6 +50,8 @@ proxy-groups:
       - end-gfw.com 4
       - end-gfw.com 5
       - end-gfw.com 6
+      - end-gfw.com 7
+      - end-gfw.com 8
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -51,6 +60,7 @@ proxy-groups:
       - 🎯 全球直连
       - end-gfw.com@jp89
       - end-gfw.com@kr64
+      - end-gfw.com@us19
       - end-gfw.com@sg64
       - end-gfw.com
       - end-gfw.com 2
@@ -58,6 +68,8 @@ proxy-groups:
       - end-gfw.com 4
       - end-gfw.com 5
       - end-gfw.com 6
+      - end-gfw.com 7
+      - end-gfw.com 8
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -78,6 +90,7 @@ proxy-groups:
       - 🎯 全球直连
       - end-gfw.com@jp89
       - end-gfw.com@kr64
+      - end-gfw.com@us19
       - end-gfw.com@sg64
       - end-gfw.com
       - end-gfw.com 2
@@ -85,6 +98,8 @@ proxy-groups:
       - end-gfw.com 4
       - end-gfw.com 5
       - end-gfw.com 6
+      - end-gfw.com 7
+      - end-gfw.com 8
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -97,6 +112,7 @@ proxy-groups:
       - 🔰 节点选择
       - end-gfw.com@jp89
       - end-gfw.com@kr64
+      - end-gfw.com@us19
       - end-gfw.com@sg64
       - end-gfw.com
       - end-gfw.com 2
@@ -104,6 +120,8 @@ proxy-groups:
       - end-gfw.com 4
       - end-gfw.com 5
       - end-gfw.com 6
+      - end-gfw.com 7
+      - end-gfw.com 8
   - name: 📲 电报信息
     type: select
     proxies:
@@ -111,6 +129,7 @@ proxy-groups:
       - 🎯 全球直连
       - end-gfw.com@jp89
       - end-gfw.com@kr64
+      - end-gfw.com@us19
       - end-gfw.com@sg64
       - end-gfw.com
       - end-gfw.com 2
@@ -118,6 +137,8 @@ proxy-groups:
       - end-gfw.com 4
       - end-gfw.com 5
       - end-gfw.com 6
+      - end-gfw.com 7
+      - end-gfw.com 8
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -126,6 +147,7 @@ proxy-groups:
       - ♻️ 自动选择
       - end-gfw.com@jp89
       - end-gfw.com@kr64
+      - end-gfw.com@us19
       - end-gfw.com@sg64
       - end-gfw.com
       - end-gfw.com 2
@@ -133,6 +155,8 @@ proxy-groups:
       - end-gfw.com 4
       - end-gfw.com 5
       - end-gfw.com 6
+      - end-gfw.com 7
+      - end-gfw.com 8
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -150,6 +174,7 @@ proxy-groups:
       - ♻️ 自动选择
       - end-gfw.com@jp89
       - end-gfw.com@kr64
+      - end-gfw.com@us19
       - end-gfw.com@sg64
       - end-gfw.com
       - end-gfw.com 2
@@ -157,6 +182,8 @@ proxy-groups:
       - end-gfw.com 4
       - end-gfw.com 5
       - end-gfw.com 6
+      - end-gfw.com 7
+      - end-gfw.com 8
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
