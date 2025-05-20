@@ -5,18 +5,18 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: end-gfw.com@jp89, server: 3.112.125.122, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
-  - {name: end-gfw.com@kr64, server: 3.36.103.163, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
+  - {name: end-gfw.com@jp89, server: 13.230.120.17, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
+  - {name: end-gfw.com@kr64, server: 3.34.51.227, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
   - {name: end-gfw.com@kr64an, server: 3.39.242.222, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
   - {name: end-gfw.com@jp89tian, server: 18.181.205.129, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
   - {name: end-gfw.com@sg64men, server: 47.129.163.38, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17b19d-4896-4531-af79-6e91d8ef8228}
-  - {name: end-gfw.com, server: 3.112.125.122, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
-  - {name: end-gfw.com 2, server: 3.36.103.163, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
+  - {name: end-gfw.com, server: 13.230.120.17, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
+  - {name: end-gfw.com 2, server: 3.34.51.227, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
   - {name: end-gfw.com 3, server: 3.39.242.222, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
   - {name: end-gfw.com 4, server: 18.181.205.129, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
   - {name: end-gfw.com 5, server: 47.129.163.38, port: 6668, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: true}
-  - {name: end-gfw.com 6, server: 3.112.125.122, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
-  - {name: end-gfw.com 7, server: 3.36.103.163, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
+  - {name: end-gfw.com 6, server: 13.230.120.17, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
+  - {name: end-gfw.com 7, server: 3.34.51.227, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
   - {name: end-gfw.com 8, server: 3.39.242.222, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
   - {name: end-gfw.com 9, server: 18.181.205.129, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
   - {name: end-gfw.com 10, server: 47.129.163.38, port: 6868, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}}
