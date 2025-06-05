@@ -114,20 +114,20 @@ proxies:
       headers:
         Host: end-gfw.com
   - name: end-gfw.com50@kr89an
-    server: 43.203.153.46
+    server: 15.165.34.154
     port: 9898
     type: ss
     cipher: chacha20-ietf-poly1305
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
   - name: end-gfw.com51@kr89an
-    server: 43.203.153.46
+    server: 15.165.34.154
     port: 6668
     type: trojan
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
     sni: baidu.com
     skip-cert-verify: true
   - name: end-gfw.com52@kr89an
-    server: 43.203.153.46
+    server: 15.165.34.154
     port: 6868
     type: vmess
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
@@ -281,6 +281,26 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - end-gfw.com10@jp89
+      - end-gfw.com11@jp89
+      - end-gfw.com12@jp89
+      - end-gfw.com20@kr64
+      - end-gfw.com21@kr64
+      - end-gfw.com22@kr64
+      - end-gfw.com30@jp19tian
+      - end-gfw.com31@jp19tian
+      - end-gfw.com32@jp19tian
+      - end-gfw.com40@us19
+      - end-gfw.com41@us19
+      - end-gfw.com42@us19
+      - end-gfw.com50@kr89an
+      - end-gfw.com51@kr89an
+      - end-gfw.com52@kr89an
+  - name: Ⓜ️ 微软服务
+    type: select
+    proxies:
+      - 🎯 全球直连
+      - 🔰 节点选择
       - end-gfw.com10@jp89
       - end-gfw.com11@jp89
       - end-gfw.com12@jp89
