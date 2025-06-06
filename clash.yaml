@@ -60,20 +60,20 @@ proxies:
       headers:
         Host: end-gfw.com
   - name: end-gfw.com30@jp19tian
-    server: 35.73.228.9
+    server: 18.177.119.172
     port: 9898
     type: ss
     cipher: chacha20-ietf-poly1305
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
   - name: end-gfw.com31@jp19tian
-    server: 35.73.228.9
+    server: 18.177.119.172
     port: 6668
     type: trojan
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
     sni: baidu.com
     skip-cert-verify: true
   - name: end-gfw.com32@jp19tian
-    server: 35.73.228.9
+    server: 18.177.119.172
     port: 6868
     type: vmess
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
@@ -87,20 +87,20 @@ proxies:
       headers:
         Host: end-gfw.com
   - name: end-gfw.com40@us19
-    server: 52.25.58.181
+    server: 34.220.36.206
     port: 9898
     type: ss
     cipher: chacha20-ietf-poly1305
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
   - name: end-gfw.com41@us19
-    server: 52.25.58.181
+    server: 34.220.36.206
     port: 6668
     type: trojan
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
     sni: baidu.com
     skip-cert-verify: true
   - name: end-gfw.com42@us19
-    server: 52.25.58.181
+    server: 34.220.36.206
     port: 6868
     type: vmess
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
