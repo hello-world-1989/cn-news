@@ -60,47 +60,20 @@ proxies:
       headers:
         Host: end-gfw.com
   - name: end-gfw.com30@jp19tian
-    server: 13.230.40.198
+    server: 57.183.38.114
     port: 9898
     type: ss
     cipher: chacha20-ietf-poly1305
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
   - name: end-gfw.com31@jp19tian
-    server: 13.230.40.198
+    server: 57.183.38.114
     port: 6668
     type: trojan
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
     sni: baidu.com
     skip-cert-verify: true
   - name: end-gfw.com32@jp19tian
-    server: 13.230.40.198
-    port: 6868
-    type: vmess
-    uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
-    alterId: 0
-    cipher: auto
-    tls: false
-    servername: baidu.com
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: end-gfw.com
-  - name: end-gfw.com40@us19
-    server: 34.220.7.20
-    port: 9898
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: 1a17b19d-4896-4531-af79-6e91d8ef8228
-  - name: end-gfw.com41@us19
-    server: 34.220.7.20
-    port: 6668
-    type: trojan
-    password: 1a17b19d-4896-4531-af79-6e91d8ef8228
-    sni: baidu.com
-    skip-cert-verify: true
-  - name: end-gfw.com42@us19
-    server: 34.220.7.20
+    server: 57.183.38.114
     port: 6868
     type: vmess
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
@@ -128,9 +101,6 @@ proxy-groups:
       - end-gfw.com30@jp19tian
       - end-gfw.com31@jp19tian
       - end-gfw.com32@jp19tian
-      - end-gfw.com40@us19
-      - end-gfw.com41@us19
-      - end-gfw.com42@us19
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -145,9 +115,6 @@ proxy-groups:
       - end-gfw.com30@jp19tian
       - end-gfw.com31@jp19tian
       - end-gfw.com32@jp19tian
-      - end-gfw.com40@us19
-      - end-gfw.com41@us19
-      - end-gfw.com42@us19
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -163,9 +130,6 @@ proxy-groups:
       - end-gfw.com30@jp19tian
       - end-gfw.com31@jp19tian
       - end-gfw.com32@jp19tian
-      - end-gfw.com40@us19
-      - end-gfw.com41@us19
-      - end-gfw.com42@us19
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -193,9 +157,6 @@ proxy-groups:
       - end-gfw.com30@jp19tian
       - end-gfw.com31@jp19tian
       - end-gfw.com32@jp19tian
-      - end-gfw.com40@us19
-      - end-gfw.com41@us19
-      - end-gfw.com42@us19
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -210,9 +171,6 @@ proxy-groups:
       - end-gfw.com30@jp19tian
       - end-gfw.com31@jp19tian
       - end-gfw.com32@jp19tian
-      - end-gfw.com40@us19
-      - end-gfw.com41@us19
-      - end-gfw.com42@us19
   - name: 📲 电报信息
     type: select
     proxies:
@@ -227,9 +185,6 @@ proxy-groups:
       - end-gfw.com30@jp19tian
       - end-gfw.com31@jp19tian
       - end-gfw.com32@jp19tian
-      - end-gfw.com40@us19
-      - end-gfw.com41@us19
-      - end-gfw.com42@us19
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -245,9 +200,6 @@ proxy-groups:
       - end-gfw.com30@jp19tian
       - end-gfw.com31@jp19tian
       - end-gfw.com32@jp19tian
-      - end-gfw.com40@us19
-      - end-gfw.com41@us19
-      - end-gfw.com42@us19
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -262,9 +214,6 @@ proxy-groups:
       - end-gfw.com30@jp19tian
       - end-gfw.com31@jp19tian
       - end-gfw.com32@jp19tian
-      - end-gfw.com40@us19
-      - end-gfw.com41@us19
-      - end-gfw.com42@us19
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -289,9 +238,6 @@ proxy-groups:
       - end-gfw.com30@jp19tian
       - end-gfw.com31@jp19tian
       - end-gfw.com32@jp19tian
-      - end-gfw.com40@us19
-      - end-gfw.com41@us19
-      - end-gfw.com42@us19
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
