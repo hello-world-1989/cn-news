@@ -1,3 +1,23 @@
+# 请多查看[大翻墙运动网站](https://end-gfw.com)广告支持添加更多服务器节点
+
+## V2Ray订阅链接
+```
+https://raw.githubusercontent.com/hello-world-1989/cn-news/main/end-gfw-together
+```
+
+## Clash订阅链接
+```
+https://raw.githubusercontent.com/hello-world-1989/cn-news/refs/heads/main/clash.yaml
+```
+
+## V2Ray订阅链接, 速度更快节点, 每3天更新,请从[大翻墙运动网站](https://end-gfw.com)获取最新
+```
+https://raw.githubusercontent.com/hello-world-1989/v2-sub/main/end-gfw-together-af3e13
+```
+
+
+
+
 ### 已迁移 访问 https://end-gfw.com 查看
 
 数据 https://github.com/hello-world-1989/json
