@@ -60,20 +60,20 @@ proxies:
       headers:
         Host: end-gfw.com
   - name: end-gfw.com30@au64
-    server: 13.239.1.106
+    server: 52.63.73.103
     port: 8964
     type: ss
     cipher: chacha20-ietf-poly1305
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
   - name: end-gfw.com31@au64
-    server: 13.239.1.106
+    server: 52.63.73.103
     port: 6668
     type: trojan
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
     sni: baidu.com
     skip-cert-verify: true
   - name: end-gfw.com32@au64
-    server: 13.239.1.106
+    server: 52.63.73.103
     port: 6868
     type: vmess
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
