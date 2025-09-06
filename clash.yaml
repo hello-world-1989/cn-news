@@ -5,21 +5,15 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - name: end-gfw.com10@jp89
-    server: 54.168.240.135
-    port: 8989
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: 1a17b19d-4896-4531-af79-6e91d8ef8228
   - name: end-gfw.com11@jp89
-    server: 54.168.240.135
+    server: 43.207.191.134
     port: 6688
     type: trojan
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
     sni: baidu.com
     skip-cert-verify: true
   - name: end-gfw.com12@jp89
-    server: 54.168.240.135
+    server: 43.207.191.134
     port: 8686
     type: vmess
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
@@ -32,21 +26,15 @@ proxies:
       path: /
       headers:
         Host: end-gfw.com
-  - name: end-gfw.com20@kr64
-    server: 13.125.218.165
-    port: 8989
-    type: ss
-    cipher: chacha20-ietf-poly1305
-    password: 1a17b19d-4896-4531-af79-6e91d8ef8228
   - name: end-gfw.com21@kr64
-    server: 13.125.218.165
+    server: 43.201.254.20
     port: 6688
     type: trojan
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
     sni: baidu.com
     skip-cert-verify: true
   - name: end-gfw.com22@kr64
-    server: 13.125.218.165
+    server: 43.201.254.20
     port: 8686
     type: vmess
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
@@ -65,10 +53,8 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - end-gfw.com10@jp89
       - end-gfw.com11@jp89
       - end-gfw.com12@jp89
-      - end-gfw.com20@kr64
       - end-gfw.com21@kr64
       - end-gfw.com22@kr64
   - name: ♻️ 自动选择
@@ -76,10 +62,8 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - end-gfw.com10@jp89
       - end-gfw.com11@jp89
       - end-gfw.com12@jp89
-      - end-gfw.com20@kr64
       - end-gfw.com21@kr64
       - end-gfw.com22@kr64
   - name: 🎥 NETFLIX
@@ -88,10 +72,8 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - end-gfw.com10@jp89
       - end-gfw.com11@jp89
       - end-gfw.com12@jp89
-      - end-gfw.com20@kr64
       - end-gfw.com21@kr64
       - end-gfw.com22@kr64
   - name: ⛔️ 广告拦截
@@ -112,10 +94,8 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - end-gfw.com10@jp89
       - end-gfw.com11@jp89
       - end-gfw.com12@jp89
-      - end-gfw.com20@kr64
       - end-gfw.com21@kr64
       - end-gfw.com22@kr64
   - name: 🌏 国内媒体
@@ -123,10 +103,8 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - end-gfw.com10@jp89
       - end-gfw.com11@jp89
       - end-gfw.com12@jp89
-      - end-gfw.com20@kr64
       - end-gfw.com21@kr64
       - end-gfw.com22@kr64
   - name: 📲 电报信息
@@ -134,10 +112,8 @@ proxy-groups:
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - end-gfw.com10@jp89
       - end-gfw.com11@jp89
       - end-gfw.com12@jp89
-      - end-gfw.com20@kr64
       - end-gfw.com21@kr64
       - end-gfw.com22@kr64
   - name: 🍎 苹果服务
@@ -146,10 +122,8 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - end-gfw.com10@jp89
       - end-gfw.com11@jp89
       - end-gfw.com12@jp89
-      - end-gfw.com20@kr64
       - end-gfw.com21@kr64
       - end-gfw.com22@kr64
   - name: Ⓜ️ 微软服务
@@ -157,10 +131,8 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - end-gfw.com10@jp89
       - end-gfw.com11@jp89
       - end-gfw.com12@jp89
-      - end-gfw.com20@kr64
       - end-gfw.com21@kr64
       - end-gfw.com22@kr64
   - name: 🎯 全球直连
@@ -178,10 +150,8 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - end-gfw.com10@jp89
       - end-gfw.com11@jp89
       - end-gfw.com12@jp89
-      - end-gfw.com20@kr64
       - end-gfw.com21@kr64
       - end-gfw.com22@kr64
 rules:
