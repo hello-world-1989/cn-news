@@ -1,5 +1,7 @@
 # 请浏览[大翻墙运动网站](https://end-gfw.com)支持添加更多服务器节点
 
+## 第一次翻墙，可以发送邮件到 end.gfw01@gmail.com 获取免费节点
+
 ## V2Ray订阅链接
 ```
 https://raw.githubusercontent.com/hello-world-1989/cn-news/main/end-gfw-together
