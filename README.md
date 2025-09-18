@@ -6,11 +6,13 @@
 ```
 https://raw.githubusercontent.com/hello-world-1989/cn-news/main/end-gfw-together
 ```
+![V2Ray](./v2ray_sub.png)
 
 ## Clash订阅链接
 ```
 https://raw.githubusercontent.com/hello-world-1989/cn-news/refs/heads/main/clash.yaml
 ```
+![Clash](./clash_sub.png)
 
 ## V2Ray订阅链接, 速度更快节点, 每3天更新,请从[大翻墙运动网站](https://end-gfw.com)获取最新
 ```
