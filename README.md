@@ -1,6 +1,7 @@
 # 请浏览[大翻墙运动网站](https://end-gfw.com)支持添加更多服务器节点
 
-## 可以发送邮件到 end.gfw01@gmail.com 获取免费节点(非常适合用于第一次翻墙)
+## 可以发送邮件到 end.gfw01@gmail.com 获取免费节点
+## 初次翻墙友好,如果邮箱被封,尝试近期热点人名,例liyixue1989@gmail.com,yumenglong1989@gmail.com
 
 ## V2Ray订阅链接
 ```
