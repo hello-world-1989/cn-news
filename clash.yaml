@@ -27,14 +27,14 @@ proxies:
       headers:
         Host: end-gfw.com
   - name: end-gfw.com21@kr64
-    server: 3.35.136.58
+    server: 3.38.168.93
     port: 6688
     type: trojan
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
     sni: baidu.com
     skip-cert-verify: true
   - name: end-gfw.com22@kr64
-    server: 3.35.136.58
+    server: 3.38.168.93
     port: 8686
     type: vmess
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
