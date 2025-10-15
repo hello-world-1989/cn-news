@@ -27,14 +27,14 @@ proxies:
       headers:
         Host: end-gfw.com
   - name: end-gfw.com21@kr64
-    server: 43.203.196.180
+    server: 3.36.126.36
     port: 6688
     type: trojan
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
     sni: baidu.com
     skip-cert-verify: true
   - name: end-gfw.com22@kr64
-    server: 43.203.196.180
+    server: 3.36.126.36
     port: 8686
     type: vmess
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
@@ -48,14 +48,14 @@ proxies:
       headers:
         Host: end-gfw.com
   - name: end-gfw.com31@sg19
-    server: 18.136.120.39
+    server: 18.136.106.76
     port: 6688
     type: trojan
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
     sni: baidu.com
     skip-cert-verify: true
   - name: end-gfw.com32@sg19
-    server: 18.136.120.39
+    server: 18.136.106.76
     port: 8686
     type: vmess
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
