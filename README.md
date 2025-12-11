@@ -3,6 +3,8 @@
 ## 可以发送邮件到 end.gfw01@gmail.com 获取免费节点
 ## 初次翻墙友好,如果邮箱被封,尝试近期热点人名,例liyixue1989@gmail.com,yumenglong1989@gmail.com
 
+## 为提高稳定性，节点屏蔽视频网站 游戏网站等
+
 ## V2Ray订阅链接
 ```
 https://raw.githubusercontent.com/hello-world-1989/cn-news/main/end-gfw-together
