@@ -1,21 +1,34 @@
-# 请多查看[大翻墙运动网站](https://end-gfw.com)广告支持添加更多服务器节点
+# 请浏览[大翻墙运动网站](https://end-gfw.com)支持添加更多服务器节点
+
+## 可以发送邮件到 end.gfw01@gmail.com 获取免费节点
+## 初次翻墙友好,如果邮箱被封,尝试近期热点人名,例liyixue1989@gmail.com,yumenglong1989@gmail.com
+
+## 为提高稳定性，节点屏蔽视频网站 游戏网站等， US美国节点无限制，免翻墙软件下载请从US美国节点下载
 
 ## V2Ray订阅链接
 ```
 https://raw.githubusercontent.com/hello-world-1989/cn-news/main/end-gfw-together
 ```
+![V2Ray](./v2ray_sub.png)
 
 ## Clash订阅链接
 ```
 https://raw.githubusercontent.com/hello-world-1989/cn-news/refs/heads/main/clash.yaml
 ```
+![Clash](./clash_sub.png)
 
 ## V2Ray订阅链接, 速度更快节点, 每3天更新,请从[大翻墙运动网站](https://end-gfw.com)获取最新
 ```
 https://raw.githubusercontent.com/hello-world-1989/v2-sub/main/end-gfw-together-af3e13
 ```
 
+## 免费苹果账户
 
+[链接1](https://xn--id-j45c549n.net/)
+
+[链接2](https://idshare001.me/goso.html)
+
+[链接3](https://ios.aneeo.com/book/114.html) 暗号9534726
 
 
 ### 已迁移 访问 https://end-gfw.com 查看
