@@ -6,20 +6,20 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - name: end-gfw.com10@jp89
-    server: 57.180.39.222
+    server: 43.207.2.136
     port: 8989
     type: ss
     cipher: chacha20-ietf-poly1305
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
   - name: end-gfw.com11@jp89
-    server: 57.180.39.222
+    server: 43.207.2.136
     port: 6688
     type: trojan
     password: 1a17b19d-4896-4531-af79-6e91d8ef8228
     sni: baidu.com
     skip-cert-verify: true
   - name: end-gfw.com12@jp89
-    server: 57.180.39.222
+    server: 43.207.2.136
     port: 8686
     type: vmess
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
