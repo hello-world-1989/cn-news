@@ -22,13 +22,13 @@ https://raw.githubusercontent.com/hello-world-1989/cn-news/refs/heads/main/clash
 https://raw.githubusercontent.com/hello-world-1989/v2-sub/main/end-gfw-together-af3e13
 ```
 
-## 免费苹果账户
+## 免费苹果账户, 苹果手机下载 Karing/Shadowrocket等翻墙软件
 
-[链接1](https://xn--id-j45c549n.net/)
+[链接1](https://xn--id-j45c549n.net/) 失效
 
-[链接2](https://idshare001.me/goso.html)
+[链接2](https://idshare001.me/goso.html) 失效
 
-[链接3](https://ios.aneeo.com/book/114.html) 暗号9534726
+[链接3](https://ios.aneeo.com/book/114.html) 暗号9534726， 失效
 
 
 ### 已迁移 访问 https://end-gfw.com 查看
