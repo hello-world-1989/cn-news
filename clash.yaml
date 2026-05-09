@@ -18,7 +18,7 @@ proxies:
       public-key: A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw
       short-id: 628b3c90c98ead4f
   - name: end-gfw.com22@kr64
-    server: 13.125.147.164
+    server: 43.203.221.21
     port: 8686
     type: vless
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
