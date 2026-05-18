@@ -17,6 +17,18 @@ proxies:
     reality-opts:
       public-key: A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw
       short-id: 628b3c90c98ead4f
+  - name: end-gfw.com22@kr64
+    server: 13.209.66.164
+    port: 8686
+    type: vless
+    uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
+    tls: true
+    servername: www.apple.com
+    client-fingerprint: chrome
+    network: tcp
+    reality-opts:
+      public-key: A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw
+      short-id: 628b3c90c98ead4f
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -24,12 +36,14 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - end-gfw.com12@sg89
+      - end-gfw.com22@kr64
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
       - end-gfw.com12@sg89
+      - end-gfw.com22@kr64
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -37,6 +51,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - end-gfw.com12@sg89
+      - end-gfw.com22@kr64
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -56,18 +71,21 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - end-gfw.com12@sg89
+      - end-gfw.com22@kr64
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
       - end-gfw.com12@sg89
+      - end-gfw.com22@kr64
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - end-gfw.com12@sg89
+      - end-gfw.com22@kr64
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -75,12 +93,14 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - end-gfw.com12@sg89
+      - end-gfw.com22@kr64
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
       - end-gfw.com12@sg89
+      - end-gfw.com22@kr64
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -97,6 +117,7 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - end-gfw.com12@sg89
+      - end-gfw.com22@kr64
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
