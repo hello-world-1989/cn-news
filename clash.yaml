@@ -18,7 +18,7 @@ proxies:
       public-key: A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw
       short-id: 628b3c90c98ead4f
   - name: end-gfw.com22@sg89
-    server: 13.214.136.207
+    server: 47.129.114.36
     port: 8686
     type: vless
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
@@ -30,7 +30,7 @@ proxies:
       public-key: A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw
       short-id: 628b3c90c98ead4f
   - name: end-gfw.com32@kr64
-    server: 52.78.137.166
+    server: 3.39.190.236
     port: 8686
     type: vless
     uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228
