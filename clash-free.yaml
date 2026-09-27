@@ -34,6 +34,93 @@ proxies:
     cipher: chacha20-ietf-poly1305
     password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
     udp: true
+  - name: end-gfw-kr3-VLESS
+    type: vless
+    server: 13.124.238.228
+    port: 443
+    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: canary-0.c2.reg.ap-northeast-2.prod.amr.shield.aws.dev
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 4s0VwTKNkFPOdgi5Fk4xbLsK9FPEsqVMdX3DzHSOjl4
+      short-id: 9bc065f3f3e18cef
+  - name: end-gfw-kr3-HY2
+    type: hysteria2
+    server: 13.124.238.228
+    port: 443
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    sni: www.bing.com
+    skip-cert-verify: true
+    fingerprint: 1413ae15e6ffc543c08de6a329ac3d9f485705c2e0f70cb16847823ff5dbfcd5
+  - name: end-gfw-kr3-SS
+    type: ss
+    server: 13.124.238.228
+    port: 8443
+    cipher: chacha20-ietf-poly1305
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    udp: true
+  - name: end-gfw-kr64-VLESS
+    type: vless
+    server: 54.180.251.163
+    port: 443
+    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: www.bing.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: 9y70yaeBADfbMlb5_6t6fJqmSozYmv5lhKFVl32bX3E
+      short-id: efce3016b5a0e616
+  - name: end-gfw-kr64-HY2
+    type: hysteria2
+    server: 54.180.251.163
+    port: 443
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    sni: www.bing.com
+    skip-cert-verify: true
+    fingerprint: 39ec639e47d5d2ed403b4b729dca54c1acdabf91ca88cf7f58c921022150aca1
+  - name: end-gfw-kr64-SS
+    type: ss
+    server: 54.180.251.163
+    port: 8443
+    cipher: chacha20-ietf-poly1305
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    udp: true
+  - name: end-gfw-sg2-VLESS
+    type: vless
+    server: 13.229.204.74
+    port: 443
+    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: www.bing.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: LBNvGvyHTottRD5WDrroHfvOOc4-Ra1Xo_zLBATueH4
+      short-id: c4a1faf8e3405fde
+  - name: end-gfw-sg2-HY2
+    type: hysteria2
+    server: 13.229.204.74
+    port: 443
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    sni: www.bing.com
+    skip-cert-verify: true
+    fingerprint: e7b58e77611e039e5c9e8242131932253c6d92cf612be3d47ffc10460f3bb0a4
+  - name: end-gfw-sg2-SS
+    type: ss
+    server: 13.229.204.74
+    port: 8443
+    cipher: chacha20-ietf-poly1305
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    udp: true
   - name: end-gfw-sg3-VLESS
     type: vless
     server: 56.10.14.35
@@ -59,6 +146,64 @@ proxies:
   - name: end-gfw-sg3-SS
     type: ss
     server: 56.10.14.35
+    port: 8443
+    cipher: chacha20-ietf-poly1305
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    udp: true
+  - name: end-gfw-sg33-VLESS
+    type: vless
+    server: 13.212.151.107
+    port: 443
+    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: api-v4.tgkey.vip
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: zbZ7co3u9ZvJq-zsBONTwsobR_rVBhN_-FL0aNBc8Hc
+      short-id: 8179c849a44518a6
+  - name: end-gfw-sg33-HY2
+    type: hysteria2
+    server: 13.212.151.107
+    port: 443
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    sni: www.bing.com
+    skip-cert-verify: true
+    fingerprint: 649887803986324545a4780275614b9f46facd8192cf78682df955061fbdcdf0
+  - name: end-gfw-sg33-SS
+    type: ss
+    server: 13.212.151.107
+    port: 8443
+    cipher: chacha20-ietf-poly1305
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    udp: true
+  - name: end-gfw-sg89-VLESS
+    type: vless
+    server: 54.254.154.252
+    port: 443
+    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: prod.metering.ap-southeast-1.apricot.alameda.aws.dev
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: PhOIlEfiYVUhkWKIfX_IOwJ6zz_Zk0QEj4sfcZyuShY
+      short-id: abcddb0c38896b8b
+  - name: end-gfw-sg89-HY2
+    type: hysteria2
+    server: 54.254.154.252
+    port: 443
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    sni: www.bing.com
+    skip-cert-verify: true
+    fingerprint: 8ef3746d73341e355371bd5aea16f36c2d89eb10c448dd97a49834f2ecc19b63
+  - name: end-gfw-sg89-SS
+    type: ss
+    server: 54.254.154.252
     port: 8443
     cipher: chacha20-ietf-poly1305
     password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
@@ -101,9 +246,24 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr3-VLESS
+      - end-gfw-kr3-HY2
+      - end-gfw-kr3-SS
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
+      - end-gfw-sg2-VLESS
+      - end-gfw-sg2-HY2
+      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
+      - end-gfw-sg33-VLESS
+      - end-gfw-sg33-HY2
+      - end-gfw-sg33-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -115,9 +275,24 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr3-VLESS
+      - end-gfw-kr3-HY2
+      - end-gfw-kr3-SS
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
+      - end-gfw-sg2-VLESS
+      - end-gfw-sg2-HY2
+      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
+      - end-gfw-sg33-VLESS
+      - end-gfw-sg33-HY2
+      - end-gfw-sg33-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -130,9 +305,24 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr3-VLESS
+      - end-gfw-kr3-HY2
+      - end-gfw-kr3-SS
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
+      - end-gfw-sg2-VLESS
+      - end-gfw-sg2-HY2
+      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
+      - end-gfw-sg33-VLESS
+      - end-gfw-sg33-HY2
+      - end-gfw-sg33-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -157,9 +347,24 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr3-VLESS
+      - end-gfw-kr3-HY2
+      - end-gfw-kr3-SS
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
+      - end-gfw-sg2-VLESS
+      - end-gfw-sg2-HY2
+      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
+      - end-gfw-sg33-VLESS
+      - end-gfw-sg33-HY2
+      - end-gfw-sg33-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -171,9 +376,24 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr3-VLESS
+      - end-gfw-kr3-HY2
+      - end-gfw-kr3-SS
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
+      - end-gfw-sg2-VLESS
+      - end-gfw-sg2-HY2
+      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
+      - end-gfw-sg33-VLESS
+      - end-gfw-sg33-HY2
+      - end-gfw-sg33-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -185,9 +405,24 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr3-VLESS
+      - end-gfw-kr3-HY2
+      - end-gfw-kr3-SS
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
+      - end-gfw-sg2-VLESS
+      - end-gfw-sg2-HY2
+      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
+      - end-gfw-sg33-VLESS
+      - end-gfw-sg33-HY2
+      - end-gfw-sg33-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -200,9 +435,24 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr3-VLESS
+      - end-gfw-kr3-HY2
+      - end-gfw-kr3-SS
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
+      - end-gfw-sg2-VLESS
+      - end-gfw-sg2-HY2
+      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
+      - end-gfw-sg33-VLESS
+      - end-gfw-sg33-HY2
+      - end-gfw-sg33-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -214,9 +464,24 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr3-VLESS
+      - end-gfw-kr3-HY2
+      - end-gfw-kr3-SS
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
+      - end-gfw-sg2-VLESS
+      - end-gfw-sg2-HY2
+      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
+      - end-gfw-sg33-VLESS
+      - end-gfw-sg33-HY2
+      - end-gfw-sg33-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -238,9 +503,24 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr3-VLESS
+      - end-gfw-kr3-HY2
+      - end-gfw-kr3-SS
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
+      - end-gfw-sg2-VLESS
+      - end-gfw-sg2-HY2
+      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
+      - end-gfw-sg33-VLESS
+      - end-gfw-sg33-HY2
+      - end-gfw-sg33-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
