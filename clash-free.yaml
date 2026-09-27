@@ -7,7 +7,7 @@ external-controller: 127.0.0.1:9090
 proxies:
   - name: end-gfw-jp2-VLESS
     type: vless
-    server: 43.207.73.207
+    server: 52.194.230.79
     port: 443
     uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
     network: tcp
@@ -21,7 +21,7 @@ proxies:
       short-id: 2f7f5d9a04dd7c81
   - name: end-gfw-jp2-HY2
     type: hysteria2
-    server: 43.207.73.207
+    server: 52.194.230.79
     port: 443
     password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
     sni: www.bing.com
@@ -29,7 +29,7 @@ proxies:
     fingerprint: 6c9c6b0043682060873035aa3b167d6452e959b35e3608e929668c9ad6239835
   - name: end-gfw-jp2-SS
     type: ss
-    server: 43.207.73.207
+    server: 52.194.230.79
     port: 8443
     cipher: chacha20-ietf-poly1305
     password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
