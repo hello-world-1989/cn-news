@@ -5,6 +5,35 @@ mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
+  - name: end-gfw-sg3-VLESS
+    type: vless
+    server: 56.10.14.35
+    port: 443
+    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: www.bing.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: il3gkqw2mAuEc4x057ctLhIVAIstXetnNzFeKON1nUY
+      short-id: 29c4d5dab505061d
+  - name: end-gfw-sg3-HY2
+    type: hysteria2
+    server: 56.10.14.35
+    port: 443
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    sni: www.bing.com
+    skip-cert-verify: true
+    fingerprint: 217f551ba1b67aab8daa19f9e68e15347046bd84ed4f0ba6e1a56a3bef38c4f5
+  - name: end-gfw-sg3-SS
+    type: ss
+    server: 56.10.14.35
+    port: 8443
+    cipher: chacha20-ietf-poly1305
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    udp: true
   - name: end-gfw-sgn1-VLESS
     type: vless
     server: 13.228.77.203
@@ -40,6 +69,9 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
+      - end-gfw-sg3-VLESS
+      - end-gfw-sg3-HY2
+      - end-gfw-sg3-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -48,6 +80,9 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
+      - end-gfw-sg3-VLESS
+      - end-gfw-sg3-HY2
+      - end-gfw-sg3-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -57,6 +92,9 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - end-gfw-sg3-VLESS
+      - end-gfw-sg3-HY2
+      - end-gfw-sg3-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -78,6 +116,9 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - end-gfw-sg3-VLESS
+      - end-gfw-sg3-HY2
+      - end-gfw-sg3-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -86,6 +127,9 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
+      - end-gfw-sg3-VLESS
+      - end-gfw-sg3-HY2
+      - end-gfw-sg3-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -94,6 +138,9 @@ proxy-groups:
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
+      - end-gfw-sg3-VLESS
+      - end-gfw-sg3-HY2
+      - end-gfw-sg3-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -103,6 +150,9 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - end-gfw-sg3-VLESS
+      - end-gfw-sg3-HY2
+      - end-gfw-sg3-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -111,6 +161,9 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
+      - end-gfw-sg3-VLESS
+      - end-gfw-sg3-HY2
+      - end-gfw-sg3-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
@@ -129,6 +182,9 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - end-gfw-sg3-VLESS
+      - end-gfw-sg3-HY2
+      - end-gfw-sg3-SS
       - end-gfw-sgn1-VLESS
       - end-gfw-sgn1-HY2
       - end-gfw-sgn1-SS
