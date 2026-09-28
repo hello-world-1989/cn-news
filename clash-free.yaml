@@ -7,21 +7,21 @@ external-controller: 127.0.0.1:9090
 proxies:
   - name: end-gfw-kr64-VLESS
     type: vless
-    server: 3.34.51.131
+    server: 3.34.95.68
     port: 443
     uuid: 7e68e32f-8015-4f37-9082-70e8b0b58043
     network: tcp
     tls: true
     udp: true
     flow: xtls-rprx-vision
-    servername: www.bing.com
+    servername: fuiz.anonpengling.org
     client-fingerprint: chrome
     reality-opts:
       public-key: 9y70yaeBADfbMlb5_6t6fJqmSozYmv5lhKFVl32bX3E
       short-id: efce3016b5a0e616
   - name: end-gfw-kr64-HY2
     type: hysteria2
-    server: 3.34.51.131
+    server: 3.34.95.68
     port: 443
     password: 7e68e32f-8015-4f37-9082-70e8b0b58043
     sni: www.bing.com
@@ -29,7 +29,7 @@ proxies:
     fingerprint: 39ec639e47d5d2ed403b4b729dca54c1acdabf91ca88cf7f58c921022150aca1
   - name: end-gfw-kr64-SS
     type: ss
-    server: 3.34.51.131
+    server: 3.34.95.68
     port: 8443
     cipher: chacha20-ietf-poly1305
     password: 7e68e32f-8015-4f37-9082-70e8b0b58043
