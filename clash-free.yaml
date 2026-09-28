@@ -5,69 +5,11 @@ mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - name: end-gfw-jp2-VLESS
-    type: vless
-    server: 52.194.230.79
-    port: 443
-    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    network: tcp
-    tls: true
-    udp: true
-    flow: xtls-rprx-vision
-    servername: one.919991.xyz
-    client-fingerprint: chrome
-    reality-opts:
-      public-key: 1od4kvotkhvBYLsu_bLN7jEG9tifdioKke38cXd0LWY
-      short-id: 2f7f5d9a04dd7c81
-  - name: end-gfw-jp2-HY2
-    type: hysteria2
-    server: 52.194.230.79
-    port: 443
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    sni: www.bing.com
-    skip-cert-verify: true
-    fingerprint: 6c9c6b0043682060873035aa3b167d6452e959b35e3608e929668c9ad6239835
-  - name: end-gfw-jp2-SS
-    type: ss
-    server: 52.194.230.79
-    port: 8443
-    cipher: chacha20-ietf-poly1305
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    udp: true
-  - name: end-gfw-kr2-VLESS
-    type: vless
-    server: 43.201.7.214
-    port: 443
-    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    network: tcp
-    tls: true
-    udp: true
-    flow: xtls-rprx-vision
-    servername: www.bing.com
-    client-fingerprint: chrome
-    reality-opts:
-      public-key: V8gB7kNgviK7fjn_bLWbqjQ2oMmx-YyG4Vk_Lz0VOhk
-      short-id: 7b536e728f958e3b
-  - name: end-gfw-kr2-HY2
-    type: hysteria2
-    server: 43.201.7.214
-    port: 443
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    sni: www.bing.com
-    skip-cert-verify: true
-    fingerprint: 8d93b949c4d536c4a3e2de0ea86e0c56a00160d52fb44cfe51bc58659eeff62e
-  - name: end-gfw-kr2-SS
-    type: ss
-    server: 43.201.7.214
-    port: 8443
-    cipher: chacha20-ietf-poly1305
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    udp: true
   - name: end-gfw-kr3-VLESS
     type: vless
     server: 13.124.238.228
-    port: 443
-    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    port: 2087
+    uuid: bf5129f1-31f5-4edf-a07a-27ec31b26c1d
     network: tcp
     tls: true
     udp: true
@@ -80,81 +22,23 @@ proxies:
   - name: end-gfw-kr3-HY2
     type: hysteria2
     server: 13.124.238.228
-    port: 443
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    port: 2087
+    password: bf5129f1-31f5-4edf-a07a-27ec31b26c1d
     sni: www.bing.com
     skip-cert-verify: true
     fingerprint: 1413ae15e6ffc543c08de6a329ac3d9f485705c2e0f70cb16847823ff5dbfcd5
   - name: end-gfw-kr3-SS
     type: ss
     server: 13.124.238.228
-    port: 8443
+    port: 2096
     cipher: chacha20-ietf-poly1305
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    udp: true
-  - name: end-gfw-kr64-VLESS
-    type: vless
-    server: 3.34.51.131
-    port: 443
-    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    network: tcp
-    tls: true
-    udp: true
-    flow: xtls-rprx-vision
-    servername: www.bing.com
-    client-fingerprint: chrome
-    reality-opts:
-      public-key: 9y70yaeBADfbMlb5_6t6fJqmSozYmv5lhKFVl32bX3E
-      short-id: efce3016b5a0e616
-  - name: end-gfw-kr64-HY2
-    type: hysteria2
-    server: 3.34.51.131
-    port: 443
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    sni: www.bing.com
-    skip-cert-verify: true
-    fingerprint: 39ec639e47d5d2ed403b4b729dca54c1acdabf91ca88cf7f58c921022150aca1
-  - name: end-gfw-kr64-SS
-    type: ss
-    server: 3.34.51.131
-    port: 8443
-    cipher: chacha20-ietf-poly1305
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    udp: true
-  - name: end-gfw-sg2-VLESS
-    type: vless
-    server: 13.229.204.74
-    port: 443
-    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    network: tcp
-    tls: true
-    udp: true
-    flow: xtls-rprx-vision
-    servername: www.bing.com
-    client-fingerprint: chrome
-    reality-opts:
-      public-key: LBNvGvyHTottRD5WDrroHfvOOc4-Ra1Xo_zLBATueH4
-      short-id: c4a1faf8e3405fde
-  - name: end-gfw-sg2-HY2
-    type: hysteria2
-    server: 13.229.204.74
-    port: 443
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    sni: www.bing.com
-    skip-cert-verify: true
-    fingerprint: e7b58e77611e039e5c9e8242131932253c6d92cf612be3d47ffc10460f3bb0a4
-  - name: end-gfw-sg2-SS
-    type: ss
-    server: 13.229.204.74
-    port: 8443
-    cipher: chacha20-ietf-poly1305
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    password: bf5129f1-31f5-4edf-a07a-27ec31b26c1d
     udp: true
   - name: end-gfw-sg3-VLESS
     type: vless
     server: 56.10.14.35
-    port: 443
-    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    port: 2087
+    uuid: bf5129f1-31f5-4edf-a07a-27ec31b26c1d
     network: tcp
     tls: true
     udp: true
@@ -167,23 +51,23 @@ proxies:
   - name: end-gfw-sg3-HY2
     type: hysteria2
     server: 56.10.14.35
-    port: 443
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    port: 2087
+    password: bf5129f1-31f5-4edf-a07a-27ec31b26c1d
     sni: www.bing.com
     skip-cert-verify: true
     fingerprint: 217f551ba1b67aab8daa19f9e68e15347046bd84ed4f0ba6e1a56a3bef38c4f5
   - name: end-gfw-sg3-SS
     type: ss
     server: 56.10.14.35
-    port: 8443
+    port: 2096
     cipher: chacha20-ietf-poly1305
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    password: bf5129f1-31f5-4edf-a07a-27ec31b26c1d
     udp: true
   - name: end-gfw-sg33-VLESS
     type: vless
     server: 13.212.151.107
-    port: 443
-    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    port: 2087
+    uuid: bf5129f1-31f5-4edf-a07a-27ec31b26c1d
     network: tcp
     tls: true
     udp: true
@@ -196,75 +80,17 @@ proxies:
   - name: end-gfw-sg33-HY2
     type: hysteria2
     server: 13.212.151.107
-    port: 443
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    port: 2087
+    password: bf5129f1-31f5-4edf-a07a-27ec31b26c1d
     sni: www.bing.com
     skip-cert-verify: true
     fingerprint: 649887803986324545a4780275614b9f46facd8192cf78682df955061fbdcdf0
   - name: end-gfw-sg33-SS
     type: ss
     server: 13.212.151.107
-    port: 8443
+    port: 2096
     cipher: chacha20-ietf-poly1305
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    udp: true
-  - name: end-gfw-sg89-VLESS
-    type: vless
-    server: 13.212.221.197
-    port: 443
-    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    network: tcp
-    tls: true
-    udp: true
-    flow: xtls-rprx-vision
-    servername: prod.metering.ap-southeast-1.apricot.alameda.aws.dev
-    client-fingerprint: chrome
-    reality-opts:
-      public-key: PhOIlEfiYVUhkWKIfX_IOwJ6zz_Zk0QEj4sfcZyuShY
-      short-id: abcddb0c38896b8b
-  - name: end-gfw-sg89-HY2
-    type: hysteria2
-    server: 13.212.221.197
-    port: 443
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    sni: www.bing.com
-    skip-cert-verify: true
-    fingerprint: 8ef3746d73341e355371bd5aea16f36c2d89eb10c448dd97a49834f2ecc19b63
-  - name: end-gfw-sg89-SS
-    type: ss
-    server: 13.212.221.197
-    port: 8443
-    cipher: chacha20-ietf-poly1305
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    udp: true
-  - name: end-gfw-sgn1-VLESS
-    type: vless
-    server: 13.228.77.203
-    port: 443
-    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    network: tcp
-    tls: true
-    udp: true
-    flow: xtls-rprx-vision
-    servername: sankrantisg.com
-    client-fingerprint: chrome
-    reality-opts:
-      public-key: QQP8Z6vRPg3dOXIwticHcqjV5hGGldutwE3cmm-RJFE
-      short-id: d059e71abe414955
-  - name: end-gfw-sgn1-HY2
-    type: hysteria2
-    server: 13.228.77.203
-    port: 443
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
-    sni: www.bing.com
-    skip-cert-verify: true
-    fingerprint: 61b3843beb2b562397d0a5dd04cb7b098100f119673c97738e5a792c829ff044
-  - name: end-gfw-sgn1-SS
-    type: ss
-    server: 13.228.77.203
-    port: 8443
-    cipher: chacha20-ietf-poly1305
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    password: bf5129f1-31f5-4edf-a07a-27ec31b26c1d
     udp: true
 proxy-groups:
   - name: 🔰 节点选择
@@ -272,98 +98,44 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - end-gfw-jp2-VLESS
-      - end-gfw-jp2-HY2
-      - end-gfw-jp2-SS
-      - end-gfw-kr2-VLESS
-      - end-gfw-kr2-HY2
-      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
-      - end-gfw-kr64-VLESS
-      - end-gfw-kr64-HY2
-      - end-gfw-kr64-SS
-      - end-gfw-sg2-VLESS
-      - end-gfw-sg2-HY2
-      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
       - end-gfw-sg33-VLESS
       - end-gfw-sg33-HY2
       - end-gfw-sg33-SS
-      - end-gfw-sg89-VLESS
-      - end-gfw-sg89-HY2
-      - end-gfw-sg89-SS
-      - end-gfw-sgn1-VLESS
-      - end-gfw-sgn1-HY2
-      - end-gfw-sgn1-SS
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - end-gfw-jp2-VLESS
-      - end-gfw-jp2-HY2
-      - end-gfw-jp2-SS
-      - end-gfw-kr2-VLESS
-      - end-gfw-kr2-HY2
-      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
-      - end-gfw-kr64-VLESS
-      - end-gfw-kr64-HY2
-      - end-gfw-kr64-SS
-      - end-gfw-sg2-VLESS
-      - end-gfw-sg2-HY2
-      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
       - end-gfw-sg33-VLESS
       - end-gfw-sg33-HY2
       - end-gfw-sg33-SS
-      - end-gfw-sg89-VLESS
-      - end-gfw-sg89-HY2
-      - end-gfw-sg89-SS
-      - end-gfw-sgn1-VLESS
-      - end-gfw-sgn1-HY2
-      - end-gfw-sgn1-SS
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - end-gfw-jp2-VLESS
-      - end-gfw-jp2-HY2
-      - end-gfw-jp2-SS
-      - end-gfw-kr2-VLESS
-      - end-gfw-kr2-HY2
-      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
-      - end-gfw-kr64-VLESS
-      - end-gfw-kr64-HY2
-      - end-gfw-kr64-SS
-      - end-gfw-sg2-VLESS
-      - end-gfw-sg2-HY2
-      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
       - end-gfw-sg33-VLESS
       - end-gfw-sg33-HY2
       - end-gfw-sg33-SS
-      - end-gfw-sg89-VLESS
-      - end-gfw-sg89-HY2
-      - end-gfw-sg89-SS
-      - end-gfw-sgn1-VLESS
-      - end-gfw-sgn1-HY2
-      - end-gfw-sgn1-SS
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -382,162 +154,72 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - end-gfw-jp2-VLESS
-      - end-gfw-jp2-HY2
-      - end-gfw-jp2-SS
-      - end-gfw-kr2-VLESS
-      - end-gfw-kr2-HY2
-      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
-      - end-gfw-kr64-VLESS
-      - end-gfw-kr64-HY2
-      - end-gfw-kr64-SS
-      - end-gfw-sg2-VLESS
-      - end-gfw-sg2-HY2
-      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
       - end-gfw-sg33-VLESS
       - end-gfw-sg33-HY2
       - end-gfw-sg33-SS
-      - end-gfw-sg89-VLESS
-      - end-gfw-sg89-HY2
-      - end-gfw-sg89-SS
-      - end-gfw-sgn1-VLESS
-      - end-gfw-sgn1-HY2
-      - end-gfw-sgn1-SS
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - end-gfw-jp2-VLESS
-      - end-gfw-jp2-HY2
-      - end-gfw-jp2-SS
-      - end-gfw-kr2-VLESS
-      - end-gfw-kr2-HY2
-      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
-      - end-gfw-kr64-VLESS
-      - end-gfw-kr64-HY2
-      - end-gfw-kr64-SS
-      - end-gfw-sg2-VLESS
-      - end-gfw-sg2-HY2
-      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
       - end-gfw-sg33-VLESS
       - end-gfw-sg33-HY2
       - end-gfw-sg33-SS
-      - end-gfw-sg89-VLESS
-      - end-gfw-sg89-HY2
-      - end-gfw-sg89-SS
-      - end-gfw-sgn1-VLESS
-      - end-gfw-sgn1-HY2
-      - end-gfw-sgn1-SS
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - end-gfw-jp2-VLESS
-      - end-gfw-jp2-HY2
-      - end-gfw-jp2-SS
-      - end-gfw-kr2-VLESS
-      - end-gfw-kr2-HY2
-      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
-      - end-gfw-kr64-VLESS
-      - end-gfw-kr64-HY2
-      - end-gfw-kr64-SS
-      - end-gfw-sg2-VLESS
-      - end-gfw-sg2-HY2
-      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
       - end-gfw-sg33-VLESS
       - end-gfw-sg33-HY2
       - end-gfw-sg33-SS
-      - end-gfw-sg89-VLESS
-      - end-gfw-sg89-HY2
-      - end-gfw-sg89-SS
-      - end-gfw-sgn1-VLESS
-      - end-gfw-sgn1-HY2
-      - end-gfw-sgn1-SS
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - end-gfw-jp2-VLESS
-      - end-gfw-jp2-HY2
-      - end-gfw-jp2-SS
-      - end-gfw-kr2-VLESS
-      - end-gfw-kr2-HY2
-      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
-      - end-gfw-kr64-VLESS
-      - end-gfw-kr64-HY2
-      - end-gfw-kr64-SS
-      - end-gfw-sg2-VLESS
-      - end-gfw-sg2-HY2
-      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
       - end-gfw-sg33-VLESS
       - end-gfw-sg33-HY2
       - end-gfw-sg33-SS
-      - end-gfw-sg89-VLESS
-      - end-gfw-sg89-HY2
-      - end-gfw-sg89-SS
-      - end-gfw-sgn1-VLESS
-      - end-gfw-sgn1-HY2
-      - end-gfw-sgn1-SS
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - end-gfw-jp2-VLESS
-      - end-gfw-jp2-HY2
-      - end-gfw-jp2-SS
-      - end-gfw-kr2-VLESS
-      - end-gfw-kr2-HY2
-      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
-      - end-gfw-kr64-VLESS
-      - end-gfw-kr64-HY2
-      - end-gfw-kr64-SS
-      - end-gfw-sg2-VLESS
-      - end-gfw-sg2-HY2
-      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
       - end-gfw-sg33-VLESS
       - end-gfw-sg33-HY2
       - end-gfw-sg33-SS
-      - end-gfw-sg89-VLESS
-      - end-gfw-sg89-HY2
-      - end-gfw-sg89-SS
-      - end-gfw-sgn1-VLESS
-      - end-gfw-sgn1-HY2
-      - end-gfw-sgn1-SS
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -553,33 +235,15 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - end-gfw-jp2-VLESS
-      - end-gfw-jp2-HY2
-      - end-gfw-jp2-SS
-      - end-gfw-kr2-VLESS
-      - end-gfw-kr2-HY2
-      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
-      - end-gfw-kr64-VLESS
-      - end-gfw-kr64-HY2
-      - end-gfw-kr64-SS
-      - end-gfw-sg2-VLESS
-      - end-gfw-sg2-HY2
-      - end-gfw-sg2-SS
       - end-gfw-sg3-VLESS
       - end-gfw-sg3-HY2
       - end-gfw-sg3-SS
       - end-gfw-sg33-VLESS
       - end-gfw-sg33-HY2
       - end-gfw-sg33-SS
-      - end-gfw-sg89-VLESS
-      - end-gfw-sg89-HY2
-      - end-gfw-sg89-SS
-      - end-gfw-sgn1-VLESS
-      - end-gfw-sgn1-HY2
-      - end-gfw-sgn1-SS
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
