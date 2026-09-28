@@ -34,6 +34,35 @@ proxies:
     cipher: chacha20-ietf-poly1305
     password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
     udp: true
+  - name: end-gfw-kr2-VLESS
+    type: vless
+    server: 43.201.7.214
+    port: 443
+    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: www.bing.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: V8gB7kNgviK7fjn_bLWbqjQ2oMmx-YyG4Vk_Lz0VOhk
+      short-id: 7b536e728f958e3b
+  - name: end-gfw-kr2-HY2
+    type: hysteria2
+    server: 43.201.7.214
+    port: 443
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    sni: www.bing.com
+    skip-cert-verify: true
+    fingerprint: 8d93b949c4d536c4a3e2de0ea86e0c56a00160d52fb44cfe51bc58659eeff62e
+  - name: end-gfw-kr2-SS
+    type: ss
+    server: 43.201.7.214
+    port: 8443
+    cipher: chacha20-ietf-poly1305
+    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    udp: true
   - name: end-gfw-kr3-VLESS
     type: vless
     server: 13.124.238.228
@@ -246,6 +275,9 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr2-VLESS
+      - end-gfw-kr2-HY2
+      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
@@ -275,6 +307,9 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr2-VLESS
+      - end-gfw-kr2-HY2
+      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
@@ -305,6 +340,9 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr2-VLESS
+      - end-gfw-kr2-HY2
+      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
@@ -347,6 +385,9 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr2-VLESS
+      - end-gfw-kr2-HY2
+      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
@@ -376,6 +417,9 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr2-VLESS
+      - end-gfw-kr2-HY2
+      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
@@ -405,6 +449,9 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr2-VLESS
+      - end-gfw-kr2-HY2
+      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
@@ -435,6 +482,9 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr2-VLESS
+      - end-gfw-kr2-HY2
+      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
@@ -464,6 +514,9 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr2-VLESS
+      - end-gfw-kr2-HY2
+      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
@@ -503,6 +556,9 @@ proxy-groups:
       - end-gfw-jp2-VLESS
       - end-gfw-jp2-HY2
       - end-gfw-jp2-SS
+      - end-gfw-kr2-VLESS
+      - end-gfw-kr2-HY2
+      - end-gfw-kr2-SS
       - end-gfw-kr3-VLESS
       - end-gfw-kr3-HY2
       - end-gfw-kr3-SS
