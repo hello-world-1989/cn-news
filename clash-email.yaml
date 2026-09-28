@@ -9,7 +9,7 @@ proxies:
     type: vless
     server: 52.194.230.79
     port: 443
-    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    uuid: 27ba29af-46e1-4853-ac05-4338764dd6c6
     network: tcp
     tls: true
     udp: true
@@ -23,7 +23,7 @@ proxies:
     type: hysteria2
     server: 52.194.230.79
     port: 443
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    password: 27ba29af-46e1-4853-ac05-4338764dd6c6
     sni: www.bing.com
     skip-cert-verify: true
     fingerprint: 6c9c6b0043682060873035aa3b167d6452e959b35e3608e929668c9ad6239835
@@ -32,13 +32,13 @@ proxies:
     server: 52.194.230.79
     port: 8443
     cipher: chacha20-ietf-poly1305
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    password: 27ba29af-46e1-4853-ac05-4338764dd6c6
     udp: true
   - name: end-gfw-kr2-VLESS
     type: vless
     server: 43.201.7.214
     port: 443
-    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    uuid: 27ba29af-46e1-4853-ac05-4338764dd6c6
     network: tcp
     tls: true
     udp: true
@@ -52,7 +52,7 @@ proxies:
     type: hysteria2
     server: 43.201.7.214
     port: 443
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    password: 27ba29af-46e1-4853-ac05-4338764dd6c6
     sni: www.bing.com
     skip-cert-verify: true
     fingerprint: 8d93b949c4d536c4a3e2de0ea86e0c56a00160d52fb44cfe51bc58659eeff62e
@@ -61,13 +61,13 @@ proxies:
     server: 43.201.7.214
     port: 8443
     cipher: chacha20-ietf-poly1305
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    password: 27ba29af-46e1-4853-ac05-4338764dd6c6
     udp: true
   - name: end-gfw-sg2-VLESS
     type: vless
     server: 13.229.204.74
     port: 443
-    uuid: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    uuid: 27ba29af-46e1-4853-ac05-4338764dd6c6
     network: tcp
     tls: true
     udp: true
@@ -81,7 +81,7 @@ proxies:
     type: hysteria2
     server: 13.229.204.74
     port: 443
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    password: 27ba29af-46e1-4853-ac05-4338764dd6c6
     sni: www.bing.com
     skip-cert-verify: true
     fingerprint: e7b58e77611e039e5c9e8242131932253c6d92cf612be3d47ffc10460f3bb0a4
@@ -90,7 +90,7 @@ proxies:
     server: 13.229.204.74
     port: 8443
     cipher: chacha20-ietf-poly1305
-    password: 2db985f6-21bf-40c2-a4f1-4ce2cf90b1c2
+    password: 27ba29af-46e1-4853-ac05-4338764dd6c6
     udp: true
 proxy-groups:
   - name: 🔰 节点选择
