@@ -36,21 +36,21 @@ proxies:
     udp: true
   - name: end-gfw-sg89-VLESS
     type: vless
-    server: 47.128.152.64
+    server: 54.255.168.12
     port: 443
     uuid: 7e68e32f-8015-4f37-9082-70e8b0b58043
     network: tcp
     tls: true
     udp: true
     flow: xtls-rprx-vision
-    servername: www.z5rkq0j.shop
+    servername: www.p5hi2zq.shop
     client-fingerprint: chrome
     reality-opts:
       public-key: PhOIlEfiYVUhkWKIfX_IOwJ6zz_Zk0QEj4sfcZyuShY
       short-id: abcddb0c38896b8b
   - name: end-gfw-sg89-HY2
     type: hysteria2
-    server: 47.128.152.64
+    server: 54.255.168.12
     port: 443
     password: 7e68e32f-8015-4f37-9082-70e8b0b58043
     sni: www.bing.com
@@ -58,7 +58,7 @@ proxies:
     fingerprint: 8ef3746d73341e355371bd5aea16f36c2d89eb10c448dd97a49834f2ecc19b63
   - name: end-gfw-sg89-SS
     type: ss
-    server: 47.128.152.64
+    server: 54.255.168.12
     port: 8443
     cipher: chacha20-ietf-poly1305
     password: 7e68e32f-8015-4f37-9082-70e8b0b58043
