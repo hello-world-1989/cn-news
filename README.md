@@ -21,13 +21,13 @@
 
 ## V2Ray订阅链接
 ```
-https://raw.githubusercontent.com/hello-world-1989/cn-news/main/end-gfw-together
+https://raw.githubusercontent.com/hello-world-1989/cn-news/main/end-gfw-free
 ```
 ![V2Ray](./v2ray_sub.png)
 
 ## Clash订阅链接
 ```
-https://raw.githubusercontent.com/hello-world-1989/cn-news/refs/heads/main/clash.yaml
+https://raw.githubusercontent.com/hello-world-1989/cn-news/refs/heads/main/clash-free.yaml
 ```
 ![Clash](./clash_sub.png)
 
