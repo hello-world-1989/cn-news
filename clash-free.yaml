@@ -4,6 +4,38 @@ allow-lan: false
 mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - '*.lan'
+    - +.local
+    - +.localdomain
+    - localhost
+    - time.*.com
+    - ntp.*.com
+    - +.ntp.org
+    - +.msftconnecttest.com
+    - +.msftncsi.com
+  respect-rules: true
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  nameserver:
+    - https://1.1.1.1/dns-query
+    - https://8.8.8.8/dns-query
+  proxy-server-nameserver:
+    - https://223.5.5.5/dns-query
+    - https://1.12.12.12/dns-query
+  direct-nameserver:
+    - https://223.5.5.5/dns-query
+    - https://1.12.12.12/dns-query
+  nameserver-policy:
+    +.cn:
+      - https://223.5.5.5/dns-query
+      - https://1.12.12.12/dns-query
 proxies:
   - name: end-gfw-kr64-VLESS
     type: vless
