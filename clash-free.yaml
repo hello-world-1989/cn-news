@@ -36,7 +36,7 @@ proxies:
     udp: true
   - name: end-gfw-sg89-VLESS
     type: vless
-    server: 54.179.192.171
+    server: 13.212.177.94
     port: 443
     uuid: 7e68e32f-8015-4f37-9082-70e8b0b58043
     network: tcp
@@ -50,7 +50,7 @@ proxies:
       short-id: 819a87bf1651bf44
   - name: end-gfw-sg89-HY2
     type: hysteria2
-    server: 54.179.192.171
+    server: 13.212.177.94
     port: 443
     password: 7e68e32f-8015-4f37-9082-70e8b0b58043
     sni: www.bing.com
@@ -58,7 +58,7 @@ proxies:
     fingerprint: c1fd40941f919b5c7896244097f22d9d958e625cd958b75f34ccfa42181f50b2
   - name: end-gfw-sg89-SS
     type: ss
-    server: 54.179.192.171
+    server: 13.212.177.94
     port: 8443
     cipher: chacha20-ietf-poly1305
     password: 7e68e32f-8015-4f37-9082-70e8b0b58043
