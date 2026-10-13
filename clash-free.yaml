@@ -39,21 +39,21 @@ dns:
 proxies:
   - name: end-gfw-kr64-VLESS
     type: vless
-    server: 3.34.138.67
+    server: 13.125.180.150
     port: 443
     uuid: 7e68e32f-8015-4f37-9082-70e8b0b58043
     network: tcp
     tls: true
     udp: true
     flow: xtls-rprx-vision
-    servername: www.reenclesaas.com
+    servername: az2.rtps.cell-1.prod.ap-northeast-2.prod.connect.aws.a2z.com
     client-fingerprint: chrome
     reality-opts:
       public-key: DHOrfoin7TeRpnIoU3d6qT5Yrq3QPVFp49kApATA4iE
       short-id: e04a526b0b09c765
   - name: end-gfw-kr64-HY2
     type: hysteria2
-    server: 3.34.138.67
+    server: 13.125.180.150
     port: 443
     password: 7e68e32f-8015-4f37-9082-70e8b0b58043
     sni: www.bing.com
@@ -61,7 +61,7 @@ proxies:
     fingerprint: 896186feb20cb7403187a45ff3bd5ddc8bfbdd419d779d55d786189d36731a69
   - name: end-gfw-kr64-SS
     type: ss
-    server: 3.34.138.67
+    server: 13.125.180.150
     port: 8443
     cipher: chacha20-ietf-poly1305
     password: 7e68e32f-8015-4f37-9082-70e8b0b58043
