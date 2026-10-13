@@ -66,6 +66,35 @@ proxies:
     cipher: chacha20-ietf-poly1305
     password: 7e68e32f-8015-4f37-9082-70e8b0b58043
     udp: true
+  - name: end-gfw-sg89-VLESS
+    type: vless
+    server: 13.229.182.121
+    port: 443
+    uuid: 7e68e32f-8015-4f37-9082-70e8b0b58043
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: admin.hxfilter.online
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: x8aCD8cJtkDvAjcRrcMG05MNiwh11LaKg70KIRvfN0g
+      short-id: 819a87bf1651bf44
+  - name: end-gfw-sg89-HY2
+    type: hysteria2
+    server: 13.229.182.121
+    port: 443
+    password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+    sni: www.bing.com
+    skip-cert-verify: true
+    fingerprint: c1fd40941f919b5c7896244097f22d9d958e625cd958b75f34ccfa42181f50b2
+  - name: end-gfw-sg89-SS
+    type: ss
+    server: 13.229.182.121
+    port: 8443
+    cipher: chacha20-ietf-poly1305
+    password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+    udp: true
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -75,6 +104,9 @@ proxy-groups:
       - end-gfw-kr64-VLESS
       - end-gfw-kr64-HY2
       - end-gfw-kr64-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -83,6 +115,9 @@ proxy-groups:
       - end-gfw-kr64-VLESS
       - end-gfw-kr64-HY2
       - end-gfw-kr64-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
   - name: 🎥 NETFLIX
     type: select
     proxies:
@@ -92,6 +127,9 @@ proxy-groups:
       - end-gfw-kr64-VLESS
       - end-gfw-kr64-HY2
       - end-gfw-kr64-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -113,6 +151,9 @@ proxy-groups:
       - end-gfw-kr64-VLESS
       - end-gfw-kr64-HY2
       - end-gfw-kr64-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -121,6 +162,9 @@ proxy-groups:
       - end-gfw-kr64-VLESS
       - end-gfw-kr64-HY2
       - end-gfw-kr64-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
   - name: 📲 电报信息
     type: select
     proxies:
@@ -129,6 +173,9 @@ proxy-groups:
       - end-gfw-kr64-VLESS
       - end-gfw-kr64-HY2
       - end-gfw-kr64-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -138,6 +185,9 @@ proxy-groups:
       - end-gfw-kr64-VLESS
       - end-gfw-kr64-HY2
       - end-gfw-kr64-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -146,6 +196,9 @@ proxy-groups:
       - end-gfw-kr64-VLESS
       - end-gfw-kr64-HY2
       - end-gfw-kr64-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -164,6 +217,9 @@ proxy-groups:
       - end-gfw-kr64-VLESS
       - end-gfw-kr64-HY2
       - end-gfw-kr64-SS
+      - end-gfw-sg89-VLESS
+      - end-gfw-sg89-HY2
+      - end-gfw-sg89-SS
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
