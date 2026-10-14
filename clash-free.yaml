@@ -37,6 +37,35 @@ dns:
       - https://223.5.5.5/dns-query
       - https://1.12.12.12/dns-query
 proxies:
+  - name: end-gfw-kr64-VLESS
+    type: vless
+    server: 43.201.24.167
+    port: 443
+    uuid: 7e68e32f-8015-4f37-9082-70e8b0b58043
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    servername: anjen.net
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: DHOrfoin7TeRpnIoU3d6qT5Yrq3QPVFp49kApATA4iE
+      short-id: e04a526b0b09c765
+  - name: end-gfw-kr64-HY2
+    type: hysteria2
+    server: 43.201.24.167
+    port: 443
+    password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+    sni: www.bing.com
+    skip-cert-verify: true
+    fingerprint: 896186feb20cb7403187a45ff3bd5ddc8bfbdd419d779d55d786189d36731a69
+  - name: end-gfw-kr64-SS
+    type: ss
+    server: 43.201.24.167
+    port: 8443
+    cipher: chacha20-ietf-poly1305
+    password: 7e68e32f-8015-4f37-9082-70e8b0b58043
+    udp: true
   - name: end-gfw-sg89-VLESS
     type: vless
     server: 47.131.225.255
@@ -72,6 +101,9 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
       - end-gfw-sg89-VLESS
       - end-gfw-sg89-HY2
       - end-gfw-sg89-SS
@@ -80,6 +112,9 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
       - end-gfw-sg89-VLESS
       - end-gfw-sg89-HY2
       - end-gfw-sg89-SS
@@ -89,6 +124,9 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
       - end-gfw-sg89-VLESS
       - end-gfw-sg89-HY2
       - end-gfw-sg89-SS
@@ -110,6 +148,9 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
       - end-gfw-sg89-VLESS
       - end-gfw-sg89-HY2
       - end-gfw-sg89-SS
@@ -118,6 +159,9 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
       - end-gfw-sg89-VLESS
       - end-gfw-sg89-HY2
       - end-gfw-sg89-SS
@@ -126,6 +170,9 @@ proxy-groups:
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
       - end-gfw-sg89-VLESS
       - end-gfw-sg89-HY2
       - end-gfw-sg89-SS
@@ -135,6 +182,9 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
       - end-gfw-sg89-VLESS
       - end-gfw-sg89-HY2
       - end-gfw-sg89-SS
@@ -143,6 +193,9 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
       - end-gfw-sg89-VLESS
       - end-gfw-sg89-HY2
       - end-gfw-sg89-SS
@@ -161,6 +214,9 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - end-gfw-kr64-VLESS
+      - end-gfw-kr64-HY2
+      - end-gfw-kr64-SS
       - end-gfw-sg89-VLESS
       - end-gfw-sg89-HY2
       - end-gfw-sg89-SS
