@@ -39,7 +39,7 @@ dns:
 proxies:
   - name: end-gfw-kr64-VLESS
     type: vless
-    server: 54.180.146.22
+    server: 3.35.13.167
     port: 443
     uuid: 7e68e32f-8015-4f37-9082-70e8b0b58043
     network: tcp
@@ -54,7 +54,7 @@ proxies:
       support-x25519mlkem768: true
   - name: end-gfw-kr64-HY2
     type: hysteria2
-    server: 54.180.146.22
+    server: 3.35.13.167
     port: 443
     password: 7e68e32f-8015-4f37-9082-70e8b0b58043
     sni: www.bing.com
@@ -62,7 +62,7 @@ proxies:
     fingerprint: 896186feb20cb7403187a45ff3bd5ddc8bfbdd419d779d55d786189d36731a69
   - name: end-gfw-kr64-SS
     type: ss
-    server: 54.180.146.22
+    server: 3.35.13.167
     port: 8443
     cipher: chacha20-ietf-poly1305
     password: 7e68e32f-8015-4f37-9082-70e8b0b58043
